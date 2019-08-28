@@ -11,12 +11,12 @@ Below is an outline of our thinking process so far. It's probably not of interes
 
 ## Rationale
 
-- [ ] To design and develop a website in a collaborative way, as a conversation between us rather than a 'waterfall'
-- [ ] To make a site that is modern but also as simple and lightweight as possible
-- [ ] The code should be simple and well-documented enough that Gemma can edit it herself
-- [ ] To help Gemma become more comfortable with using Git
-- [ ] To allow other people with similar interests and levels of experience to fork it
-- [ ] To be open about our process from the beginning
+- To design and develop a website in a collaborative way, as a conversation between us rather than a 'waterfall'
+- To make a site that is modern but also as simple and lightweight as possible
+- The code should be simple and well-documented enough that Gemma can edit it herself
+- To help Gemma become more comfortable with using Git
+- To allow other people with similar interests and levels of experience to fork it
+- To be open about our process from the beginning
 
 ## Index
 
