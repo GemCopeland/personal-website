@@ -34,11 +34,6 @@ It's very important to consider accessibility from the get-go. We think this sho
 
 As an option, we could add a small toggle in the footer that will increase the contrast throughout the site.
 
-### To do
-
-- [ ] Gemma to check the current text colour contrast
-- [ ] Gemma to design a focus state and _Skip to main content_ button, which will be hidden by default
-
 ##  Browser support
 We'll prioritise modern browsers, but it would be great if this works well on old browsers too. It's such a simple site that this shouldn't be such a big ask. It may just mean using `float` instead of `flexbox`.
 
@@ -48,19 +43,9 @@ The site will use Arena's API to display any channels found in a specific Closed
 
 We spoke about making this more visual but adding a grid of small thumbnails. This would function to add some more visual interest to the page, and give people a better overview of the contents.
 
-### To do
-
-- [ ] Gemma to sketch out some options for the thumbnail hover state
-- [ ] Gemma to sketch out a solution for touch devices and mobile
-- [ ] Piper to look at Arena's API documentation
-
 ## /thinking
 
 If we go down the route of having _Thinking_ as a separate page on mobile, we'll need to work out what to do if people navigate directly there on desktop. One idea would be to simply reverse the two panels.
-
-### To do
-
-￼- [ ] Gemma to sketch out a solution for the Thinking page
 
 ## /writing
 
@@ -94,10 +79,3 @@ Tags will need to be URL-readable (lowercase and with dashes instead of spaces),
 
 ## Search
 Is this necessary? Piper finds it very useful on her own site, but it could be also something to add down the line. Piper will consider this when she researches the tech stack.
-
-### To do
-- [ ] Gemma to design simple pagination
-- [ ] Gemma to consider whether RSS is necessary, and if yes, where would it go?
-- [ ] Gemma to design a _Back to top_ button
-- [ ] Piper to research a solution for hosting, adding and resizing images
-- [ ] Piper to research CDNs, considering cost, privacy and tracking
