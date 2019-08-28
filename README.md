@@ -51,8 +51,8 @@ We spoke about making this more visual but adding a grid of small thumbnails. Th
 ### To do
 
 - [ ] Gemma to sketch out some options for the thumbnail hover state
-- [ ] Gemma to sketch out a solution for touch devices and mobile
-￼- [ ] Piper to look at Arena's API documentation
+￼- [ ] Gemma to sketch out a solution for touch devices and mobile
+- [ ] Piper to look at Arena's API documentation
 
 ## /thinking
 
