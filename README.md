@@ -25,7 +25,7 @@ At this point, we’ve got the static site generator [Eleventy](https://www.11ty
 
 ### Deploying your site
 
-To deploy the website to a more traditional web host FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npx @11ty/eleventy`. This will put all of your website files in to the output folder `/_site`, the Eleventy default.
+To deploy the website to a more traditional web host via FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npx @11ty/eleventy`. This will put all of your website files in to the output folder `/_site`, the Eleventy default.
 
 Alternatively, <mark>hook the repo up to Netlify</mark>. [Here’s a step-by-step guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). These are the settings you’d use:
 
