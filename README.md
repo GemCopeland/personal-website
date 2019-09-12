@@ -75,7 +75,7 @@ TODO Want to add guidance about how someone could grab this and tweak it for the
 
   <li id="footnote-8">Updating Node.js and NPM can be a little fiddly. NVM (Node Version Manager) can be really useful for managing versions. <a href="https://duckduckgo.com/">Search online</a> for update tips that are specific to your operating system. <a href="#ref-8">⤴️</a>
 
-  <li id="footnote-9">For the purposes of local development, global installation usually means it is available on your computer. This is a good thing to do for things like `npm` that you probably use often across lots of different projects. Local installation means you’re using it in the particular directory where you’ve installed it. <a href="https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/">Read more</a> <a href="#ref-9">⤴️</a>
+  <li id="footnote-9">For the purposes of local development, global installation usually means it is available on your computer. This is a good thing to do for things like <code>npm</code> that you probably use often across lots of different projects. Local installation means you’re using it in the particular directory where you’ve installed it. <a href="https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/">Read more</a> <a href="#ref-9">⤴️</a>
 
   <li id="footnote-10">BrowserSync is a useful tool for local development and content editing with static site generators because it live-reloads the page as you change local files. <a href="#ref-10">⤴️</a>
 
