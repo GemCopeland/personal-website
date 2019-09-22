@@ -1,0 +1,23 @@
+{
+  "name": "gemmacopeland",
+  "version": "0.0.1",
+  "description": "This is a simple website for publishing a CV, research and writing. It will be used for [gemmacope.land](gemmacope.land).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GemCopeland/personal-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GemCopeland/personal-website/issues"
+  },
+  "homepage": "https://github.com/GemCopeland/personal-website#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
