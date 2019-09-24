@@ -1,0 +1,14 @@
+---
+section: writing
+---
+
+{% include "components/header.njk" %}
+
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+{% set postslist = collections.posts %}
+{% include "components/postslist.njk" %}
+
+{% include "components/footer.njk" %}

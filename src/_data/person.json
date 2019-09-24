@@ -1,0 +1,27 @@
+{
+  "colleagues": [
+    {
+      "name": "Piper Haywood",
+      "url": "https://piperhaywood.com"
+    },
+    {
+      "name": "Hannah Blows"
+    },
+    {
+      "name": "Aaron Gillett"
+    },
+    {
+      "name": "Finnán Barry"
+    }
+  ],
+  "email": "mail@gemmacope.land",
+  "image": "TODO",
+  "jobTitle": "Digital designer",
+  "name": "Gemma Copeland",
+  "sameAs": [
+    "https://www.are.na/gemma-copeland",
+    "https://twitter.com/gemcopeland",
+    "https://keybase.io/GemmaCopeland"
+  ],
+  "url": "https://gemmacope.land"
+}

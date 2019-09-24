@@ -1,0 +1,30 @@
+---
+section: thinking
+---
+
+{% include "components/header.njk" %}
+
+<div class="panel panel--blocks">
+  <div class="header header--panel" aria-hidden="true">
+    {% include "components/nav.njk" %}
+  </div>
+  <div class="panel-contents">
+    {% include "components/blocks.njk" %}
+  </div>
+</div>
+
+
+<aside class="panel panel--profile" aria-hidden="true">
+  <article>
+    <header class="header header--panel" aria-hidden="true">
+      {% set linkUrl = '/' %}
+      {% set linkText = person.name %}
+      {% include "components/nav-link.njk" %}
+    </header>
+    <div class="panel-contents">
+      {% include "components/profile.njk" %}
+    </div>
+  </article>
+</aside>
+
+{% include "components/footer.njk" %}
