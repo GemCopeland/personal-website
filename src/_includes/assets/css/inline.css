@@ -1,3 +1,8 @@
+/* TODO Refactor this. Originally intended to use element 
+  selectors as much as possible for simplicity, but design
+  doesn’t really support this. Messiness below!
+*/
+
 /*************
 ** CSS vars **
 **************/
@@ -29,6 +34,8 @@ html {
 
 body {
   color: var(--color-black);
+  display: flex;
+  flex-direction: column;
   margin: 0;
 }
 
@@ -38,6 +45,10 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
+}
+
+main {
+  flex-grow: 1;
 }
 
 p,
@@ -86,10 +97,20 @@ a {
   text-decoration: none;
 }
 
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
 a:hover,
-a:focus {
+a:focus,
+.subtle-links a:hover,
+.subtle-links a:focus {
   border: 1px solid var(--color-1);
   color: var(--color-1);
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
 }
 
 img {
@@ -135,6 +156,10 @@ button {
 .header {
   display: flex;
   margin-bottom: 1.625rem;
+}
+
+.header--desktop {
+  display: none;
 }
 
 .header--site {
@@ -197,6 +222,34 @@ nav ul {
 }
 
 /****************
+** Footer **
+****************/
+
+.footer {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.footer--site {
+  background-color: var(--color-2);
+}
+
+footer section {
+  padding: 1rem;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+  color: var(--color-1);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+/****************
 ** Main **
 ****************/
 
@@ -211,8 +264,8 @@ main h6 {
   line-height: 1.4;
 }
 
-main section {
-  margin-bottom: 3.125rem;
+.section--contact p {
+  margin-bottom: 0;
 }
 
 .section--contact ul {
@@ -235,15 +288,41 @@ section h2,
 section h3,
 section h4,
 section h5,
-section h6 {
+section h6,
+section hr {
   max-width: 34rem;
   margin-bottom: 0.625rem;
+}
+
+section p ~ p img {
+  margin-top: 1rem;
 }
 
 section p:last-child,
 section ul:last-child,
 section ol:last-child {
   margin-bottom: 0;
+}
+
+section blockquote {
+  border-left: 1px solid var(--color-1);
+  margin-left: 0;
+  padding-left: 1.25rem;
+}
+
+section hr {
+  background-color: var(--color-1);
+  border: 0;
+  height: 1px;
+  margin-bottom: 1.25rem;
+  margin-left: 0;
+  margin-top: 1.25rem;
+}
+
+.article--single {
+  margin-bottom: 3.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 /****************
@@ -277,13 +356,40 @@ section ol:last-child {
 }
 
 .block__link:hover ~ .block__content .block__title,
-.block__link:hover ~ .block__content small {
+.block__link:focus ~ .block__content .block__title,
+.block__link:hover ~ .block__content small,
+.block__link:focus ~ .block__content small {
   color: var(--color-1);
+}
+
+.block__link:hover ~ .block__content .block__arrow,
+.block__link:focus ~ .block__content .block__arrow {
+  color: var(--color-1);
+  display: block;
 }
 
 .block__desc {
   font-size: var(--font-small);
   line-height: 1.4;
+}
+
+.block__media {
+  margin-bottom: 0.5rem;
+}
+
+.block__media img {
+  max-height: 3.75rem;
+  padding-bottom: 0.625rem;
+  padding-right: 0.625rem;
+}
+
+.block__arrow {
+  bottom: 0;
+  display: none;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  right: 0;
+  transform: rotate(-45deg);
 }
 
 /****************
@@ -309,6 +415,20 @@ section ol:last-child {
   width: 5.125rem;
 }
 
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag:after {
+  content: ",";
+  margin-right: 0.2rem;
+}
+
+.tag:last-child:after {
+  content: none;
+}
+
 /****************
 ** Panels **
 ****************/
@@ -322,6 +442,10 @@ section ol:last-child {
   padding-right: 1.25rem;
 }
 
+.panel-contents section {
+  margin-bottom: 3.125rem;
+}
+
 .header--panel {
   /* Visually hide */
   clip: rect(1px, 1px, 1px, 1px);
@@ -333,6 +457,21 @@ section ol:last-child {
 
 .panel:last-child {
   display: none;
+}
+
+.home .panel--profile footer {
+  display: none;
+}
+
+.button {
+  background-color: var(--color-2);
+  border-bottom: 1px solid transparent;
+  border-radius: 0.125rem;
+  color: var(--color-white);
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  padding: 0.125rem 0.5rem;
 }
 
 /****************
@@ -366,9 +505,12 @@ section ol:last-child {
     background-color: var(--color-white);
   }
 
+  .header--desktop {
+    display: flex;
+  }
+
   .header--site,
-  .header--site > *,
-  .header--site a {
+  .header--site * {
     /* Visually hide */
     clip: rect(1px, 1px, 1px, 1px);
     height: 1px;
@@ -405,16 +547,47 @@ section ol:last-child {
     overflow: hidden;
   }
 
+  .home body > footer,
+  .thinking body > footer {
+    /* Visually hide */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .home .panel--profile footer {
+    display: block;
+  }
+
+  .home main,
+  .thinking main {
+    display: flex;
+  }
+
   .panel {
-    float: left;
+    width: 50%;
+  }
+
+  .panel--profile,
+  .panel--blocks {
     height: 100%;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
-    width: 50%;
   }
 
   .activity {
     display: flex;
+  }
+
+  body > footer {
+    display: flex;
+  }
+
+  body > footer section {
+    width: 50%;
   }
 }
 
