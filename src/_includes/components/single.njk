@@ -1,0 +1,25 @@
+<article class="article article--single">
+
+  <header>
+    <h1 class="subtle-links">
+      <a href="{{ singleUrl | url }}">
+        {{ singleTitle | safe }}
+      </a>
+    </h1>
+  </header>
+
+  {{ singleContent | safe }}
+
+  {% if singleTags %}
+    <footer class="footer">
+      <ul class="tags subtle-links">
+        {% for tag in singleTags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <li class="tag"><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
+          {%- endif -%}
+        {% endfor %}
+      </ul>
+    </footer>
+  {% endif %}
+</article>

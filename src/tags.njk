@@ -1,0 +1,38 @@
+---
+section: writing
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+permalink: /tags/{{ tag }}/
+renderData:
+  title: "Tagged “{{ tag }}”"
+---
+<html class="{{ section }}" lang="{{ global.lang }}">
+
+  {% include "components/head.njk" %}
+
+  <body>
+
+    {% include "components/header-writing.njk" %}
+
+    <main>
+
+      <section>
+        {% for post in collections[tag] %}
+          {% include "components/single-post.njk" %}
+        {% endfor %}
+      </section>
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

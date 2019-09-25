@@ -1,0 +1,20 @@
+{%- set singleUrl = post.url -%}
+{%- set singleTitle -%}
+  <time datetime="{{ post.date | machineDate }}">
+    {{ post.date | readableDate }}
+  </time>
+  {%- if post.data.displayTitle == true -%}
+    &nbsp;—&nbsp; {{ post.data.title }}
+  {%- endif -%}
+{%- endset -%}
+{%- set singleTags = post.data.tags -%}
+{%- set singleContent -%}
+  {% if post.data.excerpt %}
+    {{ post.data.excerpt | markdownify | safe }}
+    <a class="button button--more" href="{{ post.url | url }}">Read more</a>
+  {% else %}
+    {# TODO For some reason this isn’t working when filtered by tag #}
+    {{ post.data.content | safe }}
+  {% endif %}
+{%- endset -%}
+{% include "components/single.njk" %}

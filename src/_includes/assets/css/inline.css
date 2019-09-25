@@ -1,0 +1,628 @@
+/* TODO Refactor this. Originally intended to use element 
+  selectors as much as possible for simplicity, but design
+  doesn’t really support this. Messiness below!
+*/
+
+/*************
+** CSS vars **
+**************/
+:root {
+  --color-1: #6100ff; /* Customise */
+  --color-2: #dfccff; /* Customise */
+  --color-black: #353535;
+  --color-grey: #eaeaea;
+  --color-grey-dark: #8a8a8a;
+  --color-grey-light: #f8f8f8;
+  --color-white: #ffffff;
+  --font-small: 0.75rem;
+}
+
+/****************
+** Base styles **
+****************/
+
+html {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  color: var(--color-black);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+html,
+body {
+  font-family: "Standard Web", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+main {
+  flex-grow: 1;
+}
+
+p,
+pre,
+code {
+  line-height: 1.5;
+}
+
+small {
+  color: var(--color-grey-dark);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+time {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+ol,
+ul,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  border: 1px solid transparent;
+  border-bottom: 1px solid var(--color-1);
+  color: currentColor;
+  text-decoration: none;
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+a:hover,
+a:focus,
+.subtle-links a:hover,
+.subtle-links a:focus {
+  border: 1px solid var(--color-1);
+  color: var(--color-1);
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+img {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure {
+  margin: 0;
+}
+
+svg {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button {
+  appearance: none;
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.thinking {
+  background-color: var(--color-grey-light);
+}
+
+/****************
+** Header **
+****************/
+
+.header {
+  display: flex;
+  margin-bottom: 1.625rem;
+}
+
+.header--desktop {
+  display: none;
+}
+
+.header--site {
+  flex-wrap: wrap;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.header--site > *:first-child {
+  flex-grow: 1;
+  padding-right: 1.25rem;
+}
+
+.header--site > *:last-child {
+  margin-right: -1.25rem;
+}
+
+.header--site > * {
+  margin-left: -1.25rem;
+}
+.header--site nav > * {
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+}
+
+.header--site nav {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.header {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.header a {
+  border: none;
+  color: var(--color-grey-dark);
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+}
+
+.header a.current,
+.panel--profile .header--panel a {
+  color: var(--color-black);
+}
+
+.header a:hover,
+.header a:focus,
+.header a.current:hover,
+.header a.current:focus,
+.panel--profile .header--panel a:hover,
+.panel--profile .header--panel a:focus {
+  color: var(--color-1);
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+/****************
+** Footer **
+****************/
+
+.footer {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.footer--site {
+  background-color: var(--color-2);
+}
+
+footer section {
+  padding: 1rem;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+  color: var(--color-1);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+/****************
+** Main **
+****************/
+
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  color: var(--color-1);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.section--contact p {
+  margin-bottom: 0;
+}
+
+.section--contact ul {
+  display: flex;
+}
+
+.section--contact li:not(:last-child) {
+  margin-right: 0.25rem;
+}
+
+.section--contact li:not(:last-child):after {
+  content: ", ";
+}
+
+section p,
+section ul,
+section ol,
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6,
+section hr {
+  max-width: 34rem;
+  margin-bottom: 0.625rem;
+}
+
+section p ~ p img {
+  margin-top: 1rem;
+}
+
+section p:last-child,
+section ul:last-child,
+section ol:last-child {
+  margin-bottom: 0;
+}
+
+section blockquote {
+  border-left: 1px solid var(--color-1);
+  margin-left: 0;
+  padding-left: 1.25rem;
+}
+
+section hr {
+  background-color: var(--color-1);
+  border: 0;
+  height: 1px;
+  margin-bottom: 1.25rem;
+  margin-left: 0;
+  margin-top: 1.25rem;
+}
+
+.article--single {
+  margin-bottom: 3.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/****************
+** Blocks **
+****************/
+
+.blocks {
+  max-width: none;
+}
+
+.block {
+  background-color: var(--color-white);
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  position: relative;
+}
+
+.block__link {
+  border-bottom: none;
+  bottom: 0;
+  display: block;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.block__link:hover,
+.block__link:focus {
+  border: 1px solid var(--color-1);
+}
+
+.block__link:hover ~ .block__content .block__title,
+.block__link:focus ~ .block__content .block__title,
+.block__link:hover ~ .block__content small,
+.block__link:focus ~ .block__content small {
+  color: var(--color-1);
+}
+
+.block__link:hover ~ .block__content .block__arrow,
+.block__link:focus ~ .block__content .block__arrow {
+  color: var(--color-1);
+  display: block;
+}
+
+.block__desc {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.block__media {
+  margin-bottom: 0.5rem;
+}
+
+.block__media img {
+  max-height: 3.75rem;
+  padding-bottom: 0.625rem;
+  padding-right: 0.625rem;
+}
+
+.block__arrow {
+  bottom: 0;
+  display: none;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  right: 0;
+  transform: rotate(-45deg);
+}
+
+/****************
+** TODO **
+****************/
+
+.color-grey {
+  color: var(--color-grey-dark);
+}
+
+.tag {
+  color: var(--color-grey-dark);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.activity {
+  margin-bottom: 0.875rem;
+}
+
+.activity time {
+  /* flex-grow: 1; */
+  width: 5.125rem;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag:after {
+  content: ",";
+  margin-right: 0.2rem;
+}
+
+.tag:last-child:after {
+  content: none;
+}
+
+/****************
+** Panels **
+****************/
+
+.panel--blocks {
+  background-color: var(--color-grey-light);
+}
+
+.panel-contents {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.panel-contents section {
+  margin-bottom: 3.125rem;
+}
+
+.header--panel {
+  /* Visually hide */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.panel:last-child {
+  display: none;
+}
+
+.home .panel--profile footer {
+  display: none;
+}
+
+.button {
+  background-color: var(--color-2);
+  border-bottom: 1px solid transparent;
+  border-radius: 0.125rem;
+  color: var(--color-white);
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  padding: 0.125rem 0.5rem;
+}
+
+/****************
+** Helpers **
+****************/
+.visually-hidden {
+  /* NOTE accessible hide via https://a11yproject.com/posts/how-to-hide-content/ */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+}
+
+/****************
+** Greyscale **
+****************/
+
+.greyscale {
+  --color-1: var(--color-black);
+  --color-2: #dfccff;
+  --color-grey-dark: var(--color-black);
+}
+
+/****************
+** Larger screens **
+****************/
+
+@media (min-width: 40em) {
+  .thinking {
+    background-color: var(--color-white);
+  }
+
+  .header--desktop {
+    display: flex;
+  }
+
+  .header--site,
+  .header--site * {
+    /* Visually hide */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .header--panel {
+    /* Do not visually hide */
+    clip: auto;
+    height: auto;
+    overflow: auto;
+    position: static;
+    width: auto;
+  }
+
+  nav {
+    width: 100%;
+  }
+
+  .panel:last-child {
+    display: block;
+  }
+
+  .home,
+  .home body,
+  .home main,
+  .thinking,
+  .thinking body,
+  .thinking main {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .home body > footer,
+  .thinking body > footer {
+    /* Visually hide */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .home .panel--profile footer {
+    display: block;
+  }
+
+  .home main,
+  .thinking main {
+    display: flex;
+  }
+
+  .panel {
+    width: 50%;
+  }
+
+  .panel--profile,
+  .panel--blocks {
+    height: 100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .activity {
+    display: flex;
+  }
+
+  body > footer {
+    display: flex;
+  }
+
+  body > footer section {
+    width: 50%;
+  }
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/standard-book-webfont.woff2) format("woff2"),
+    url(/fonts/standard-book-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/standard-book-italic-webfont.woff2) format("woff2"),
+    url(/fonts/standard-book-italic-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/standard-bold-webfont.woff2) format("woff2"),
+    url(/fonts/standard-bold-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/standard-bold-italic-webfont.woff2) format("woff2"),
+    url(/fonts/standard-bold-italic-webfont.woff) format("woff");
+}

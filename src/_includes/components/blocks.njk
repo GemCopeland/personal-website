@@ -1,0 +1,29 @@
+<section>
+  <ul class="blocks">
+    {% for channel in arena %}
+      <li class="block">
+        <a href="{{ channel.url }}" target="_blank" rel="noopener" class="block__link">
+          <span class="visually-hidden">View “{{ channel.title }}” channel on Arena</span>
+        </a>
+        <div class="block__content">
+          <p class="block__title">
+            {{ channel.title }}
+          </p>
+          <p class="block__desc">
+            {{ channel.description | safe  }}
+          </p>
+          {% if channel.images %}
+            <div class="block__media">
+              {% for image in channel.images %}
+                <img src="{{ image }}">
+              {% endfor %}
+            </div>
+          {% endif %}
+          <small>{{ channel.count }} {% if channel.count == 1 %}block{% else %}blocks{% endif %}</small>
+          <div class="block__arrow" aria-hidden="true">→</div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  <p><a href="https://www.are.na/gemma-copeland">View more on Arena</a></p>
+</section>

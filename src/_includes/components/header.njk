@@ -1,0 +1,41 @@
+<header class="header header--site">
+  
+  {%- if page.url != '/' -%}
+    <div aria-hidden="true">
+      {% set linkUrl = '/' %}
+      {% set linkText = global.siteTitle %}
+      {% include "components/nav-link.njk" %}
+    </div>
+    <div class="visually-hidden">
+      <h1>{{ title }}</h1>
+      <span>
+        {% set linkUrl = '/' %}
+        {% set linkText = "Return to homepage" %}
+        {% include "components/nav-link.njk" %}
+      </span>
+    </div>
+  {%- else -%}
+    <h1>
+      {% set linkUrl = '/' %}
+      {% set linkText = global.siteTitle %}
+        {% set current = section == 'home' %}
+      {% include "components/nav-link.njk" %}
+    </h1>
+  {%- endif -%}
+  <nav>
+    <ul>
+      <li>
+        {% set linkUrl = '/thinking/' %}
+        {% set linkText = 'Thinking' %}
+        {% set current = section == 'thinking' %}
+        {% include "components/nav-link.njk" %}
+      </li>
+      <li>
+        {% set linkUrl = '/writing/' %}
+        {% set linkText = 'Writing' %}
+        {% set current = section == 'writing' or section == 'post' %}
+        {% include "components/nav-link.njk" %}
+      </li>
+    </ul>
+  </nav>
+</header>

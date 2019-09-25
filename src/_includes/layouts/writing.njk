@@ -1,0 +1,28 @@
+---
+section: writing
+---
+<html class="{{ section }}" lang="{{ global.lang }}">
+
+  {% include "components/head.njk" %}
+
+  <body>
+
+    {% include "components/header-writing.njk" %}
+
+    <main>
+
+      {# TODO add layout content? #}
+
+      <section>
+        {% for post in collections.posts | reverse %}
+          {% include "components/single-post.njk" %}
+        {% endfor %}
+      </section>
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

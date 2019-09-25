@@ -1,6 +1,8 @@
 # personal-website
 
-This is a simple website for publishing a CV, research and writing. It will be used for [gemmacope.land](gemmacope.land).
+This is a simple website for publishing a CV, research and writing. It will be used for [gemmacope.land](https://gemmacope.land).
+
+It is a WORK IN PROGRESS!
 
 ## Rationale
 
@@ -25,21 +27,37 @@ At this point, we’ve got the static site generator [Eleventy](https://www.11ty
 
 ### Deploying your site
 
-To deploy the website to a more traditional web host via FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npx @11ty/eleventy`. This will put all of your website files in to the output folder `/_site`, the Eleventy default.
+To deploy the website to a more traditional web host via FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npx @11ty/eleventy`. This will put all of your website files in to the output folder `/_dist`.
 
 Alternatively, <mark>hook the repo up to Netlify</mark>. [Here’s a step-by-step guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). These are the settings you’d use:
 
 Branch: `master`  
-Dir: `_site`  
+Dir: `_dist`  
 Build command: `npx @11ty/eleventy`
 
-This tells Netlify that when some change happens on the `master` branch<sup id="ref-12"><a href="#footnote-12">12</a></sup>, it should run the build command `npx @11ty/eleventy` and deploy any files in the `/_site` directory.
+This tells Netlify that when some change happens on the `master` branch<sup id="ref-12"><a href="#footnote-12">12</a></sup>, it should run the build command `npx @11ty/eleventy` and deploy any files in the `/_dist` directory.
 
 ### Editing content
 
+All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). Editing template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
+
+Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines data that is separate from the main page content found beneath the frontmatter.
+
+The content that you will edit most frequently is:
+
+- `/src/activity` – Used to populate the activity list on the homepage
+- `/src/pages` – Includes your main pages (Home, Thinking, etc.) as well as default pages such as Privacy
+- `/src/posts` - Used to populate the Writing feed
+
+Within these directories, you may find a `/_drafts` folder. Files within this folder will not be published, so you can safely keep WIP files within these folders. See the demo markdown files within these folders for examples of how to format content
+
+You may also find a `.json` file within these folders. These data files set default values for their sibling `.md` files so that it does not need to be rewritten again and again.
+
 To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npx @11ty/eleventy --serve`.
 
-TODO Some information about where the files are stored, markdown, etc.
+The content is primarily written in Markdown, so please refer to their documentation for syntax tips. Keep an eye on your curly quotes and apostrophes.
+
+Be sure to push your edits when you’re done!
 
 ### Editing styles
 

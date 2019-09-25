@@ -1,0 +1,88 @@
+{# Get the profile content #}
+{% set profile = collections.profile[0] %}
+
+{% if profile.data.content %}
+  <section class="section">
+
+    <h2>About</h2>
+
+    {{ profile.data.content | safe }}
+
+  </section>
+{% endif %}
+
+{% if profile.data.sameAs.length or profile.data.email %}
+  <section class="section section--contact">
+
+    <h2>Contact</h2>
+
+    {% if profile.data.email %}
+      <p><a href="mailto:{{ profile.data.email }}">{{ profile.data.email }}</a></p>
+    {% endif %}
+
+    {% if profile.data.sameAs %}
+      <ul>
+        {%- for link in profile.data.sameAs -%}
+          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {%- endfor -%}
+      </ul>
+    {% endif %}
+
+  </section>
+{% endif %}
+
+{% if collections.activityCurrent.length %}
+  <section class="section">
+
+    <h2>Current and upcoming</h2>
+
+    <ul class="activities">
+      {% for a in collections.activityCurrent %}
+        {% include "components/activity-item.njk" %}
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
+
+{% if collections.activityPast.length %}
+  <section class="section">
+
+    <h2>Previously</h2>
+
+    <ul class="activities">
+      {% for a in collections.activityPast %}
+        {% include "components/activity-item.njk" %}
+      {% endfor %}
+    </ul>
+
+  </section>
+{% endif %}
+
+{% if profile.data.offers.length %}
+  <section class="section">
+
+    <h2>Expertise</h2>
+
+    <ul>
+      {%- for item in profile.data.offers -%}
+        <li>{{ item }}</li>
+      {%- endfor -%}
+    </ul>
+
+  </section>
+{% endif %}
+
+{% if profile.data.workList.length %}
+  <section class="section">
+
+    <h2>Recent work</h2>
+
+    <ul>
+      {% for item in profile.data.workList %}
+        <li>{% if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+    <small>Full portfolio available on request</small>
+
+  </section>
+{% endif %}
