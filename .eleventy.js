@@ -2,18 +2,28 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 
-module.exports = function(eleventyConfig) {
+const now = new Date();
+
+module.exports = eleventyConfig => {
   eleventyConfig.setBrowserSyncConfig({
     notify: true
   });
 
+  // Add profile collection so that we can access this outside of homepage
+  // TODO Surely there is a better way to do this? Possible to create a data file that pulls from home.md?
+  eleventyConfig.addCollection("profile", collection => {
+    return collection.getAll().filter(item => {
+      return item.data.section == "home";
+    });
+  });
+
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", code => {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", code => {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -22,22 +32,59 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
-  // Date formatting (machine readable)
+  // Date formatting
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
-
-  // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
-
-  // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
+  eleventyConfig.addFilter("activityDate", dateObj => {
+    return DateTime.fromJSDate(dateObj).toFormat("MM.yyyy");
   });
+  eleventyConfig.addFilter("activityYear", dateObj => {
+    return DateTime.fromJSDate(dateObj).toFormat("yyyy");
+  });
+
+  // Create Posts collection
+  eleventyConfig.addCollection("posts", collection => {
+    const livePosts = p => p.date <= now;
+    return collection
+      .getFilteredByGlob("./src/posts/*.md")
+      .filter(livePosts)
+      .reverse();
+  });
+
+  // Create activityCurrent collection
+  eleventyConfig.addCollection("activityCurrent", collection => {
+    return collection
+      .getFilteredByGlob("./src/activity/*.md")
+      .filter(item => {
+        return item.data.dateEnd >= now;
+      })
+      .reverse();
+  });
+
+  // Create activityPast collection
+  eleventyConfig.addCollection("activityPast", collection => {
+    return collection
+      .getFilteredByGlob("./src/activity/*.md")
+      .filter(item => {
+        return item.data.dateEnd < now;
+      })
+      .reverse();
+  });
+
+  // Markdown
+  let markdownIt = require("markdown-it");
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+  eleventyConfig.addNunjucksFilter("markdownify", markdownString =>
+    markdownIt(options).render(markdownString)
+  );
 
   // Copy the fonts
   eleventyConfig.addPassthroughCopy({ "src/_includes/assets/fonts": "fonts" });
