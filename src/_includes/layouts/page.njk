@@ -1,11 +1,57 @@
 ---
 section: page
 ---
+<html class="{{ section }}" lang="{{ global.lang }}">
 
-{% include "components/header.njk" %}
+  {% include "components/head.njk" %}
 
-<h1>{{ title }}</h1>
+  <body>
 
-{{ layoutContent | safe }}
+    {% include "components/header.njk" %}
 
-{% include "components/footer.njk" %}
+    <div class="header header--desktop" aria-hidden="true">
+      <div class="panel">
+        {% set linkUrl = '/' %}
+        {% set linkText = global.siteTitle %}
+        {% set current = true %}
+        {% include "components/nav-link.njk" %}
+      </div>
+      <div class="panel">
+        <nav>
+          <ul>
+            <li>
+              {% set linkUrl = '/thinking/' %}
+              {% set linkText = 'Thinking' %}
+              {% set current = false %}
+              {% include "components/nav-link.njk" %}
+            </li>
+            <li>
+              {% set linkUrl = '/writing/' %}
+              {% set linkText = 'Writing' %}
+              {% set current = false %}
+              {% include "components/nav-link.njk" %}
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <main>
+
+      <section>
+        {% set singleUrl = url %}
+        {%- set singleTitle = title -%}
+        {%- set singleTags = tags -%}
+        {%- set singleContent -%}
+          {{ layoutContent | safe }}
+        {%- endset -%}
+        {% include "components/single.njk" %}
+      </section>
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

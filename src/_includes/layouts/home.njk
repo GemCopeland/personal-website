@@ -1,27 +1,60 @@
 ---
 section: home
 ---
+<html class="{{ section }}" lang="{{ global.lang }}">
 
-{% include "components/header.njk" %}
+  {% include "components/head.njk" %}
 
-<article class="panel panel--profile">
-  <header class="header header--panel" aria-hidden="true">
-    {% set linkUrl = '/' %}
-    {% set linkText = person.name %}
-    {% include "components/nav-link.njk" %}
-  </header>
-  <div class="panel-contents">
-    {% include "components/profile.njk" %}
-  </div>
-</article>
+  <body>
 
-<aside class="panel panel--blocks" aria-hidden="true">
-  <div class="header header--panel">
-    {% include "components/nav.njk" %}
-  </div>
-  <div class="panel-contents">
-    {% include "components/blocks.njk" %}
-  </div>
-</aside>
+    {% include "components/header.njk" %}
 
-{% include "components/footer.njk" %}
+    <main>
+
+      <article class="panel panel--profile">
+        <header class="header header--panel" aria-hidden="true">
+          {% set linkUrl = '/' %}
+          {% set linkText = global.siteTitle %}
+          {% set current = true %}
+          {% include "components/nav-link.njk" %}
+        </header>
+        <div class="panel-contents">
+          {% include "components/profile.njk" %}
+        </div>
+        <div aria-hidden="true">
+          {% include "components/footer.njk" %}
+        </div>
+      </article>
+
+      <aside class="panel panel--blocks" aria-hidden="true">
+        <div class="header header--panel">
+          <nav>
+            <ul>
+              <li>
+                {% set linkUrl = '/thinking/' %}
+                {% set linkText = 'Thinking' %}
+                {% set current = false %}
+                {% include "components/nav-link.njk" %}
+              </li>
+              <li>
+                {% set linkUrl = '/writing/' %}
+                {% set linkText = 'Writing' %}
+                {% set current = false %}
+                {% include "components/nav-link.njk" %}
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="panel-contents">
+          {% include "components/blocks.njk" %}
+        </div>
+      </aside>
+
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

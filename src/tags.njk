@@ -1,4 +1,5 @@
 ---
+section: writing
 pagination:
   data: collections
   size: 1
@@ -12,12 +13,26 @@ permalink: /tags/{{ tag }}/
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
+<html class="{{ section }}" lang="{{ global.lang }}">
 
-<h1>Tagged “{{ tag }}”</h1>
+  {% include "components/head.njk" %}
 
-{% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
+  <body>
 
-<nav>
-  <a href="{{ '/writing/' | url }}">← Blog index</a>
-</nav>
+    {% include "components/header-writing.njk" %}
+
+    <main>
+
+      <section>
+        {% for post in collections[tag] %}
+          {% include "components/single-post.njk" %}
+        {% endfor %}
+      </section>
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

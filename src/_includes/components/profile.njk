@@ -1,92 +1,88 @@
+{# Get the profile content #}
+{% set profile = collections.profile[0] %}
 
-{# TODO hook this up to actual content #}
+{% if profile.data.content %}
+  <section class="section">
 
-<section class="section">
+    <h2>About</h2>
 
-  <h2>About</h2>
+    {{ profile.data.content | safe }}
 
-  
-  <p>I am an interdependent digital designer and researcher.</p>
+  </section>
+{% endif %}
 
-  <p>I have worked in Australia, The Netherlands and the UK, leading digital design projects for a wide range of organisations, primarily within the cultural, social innovation and educational sectors. Most recently, I was the senior digital art director at <a href="#">Future Corp</a> in London.</p>
+{% if profile.data.sameAs.length or profile.data.email %}
+  <section class="section section--contact">
 
-  <p>I am currently working on <a href="#">Common Knowledge</a>, a workers cooperative of software engineers and designers building digital tools for grassroots activists.</p>
+    <h2>Contact</h2>
 
-  <p>I am part of <a href="#">Evening Class</a>, a design collective and self-organised learning group. Together we develop research around our common interests, write texts, host events, run workshops, work on design projects and support one another.</p>
+    {% if profile.data.email %}
+      <p><a href="mailto:{{ profile.data.email }}">{{ profile.data.email }}</a></p>
+    {% endif %}
 
-  <p>I am available for collaborations and love talking to new people, so send me an email.</p>
+    {% if profile.data.sameAs %}
+      <ul>
+        {%- for link in profile.data.sameAs -%}
+          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {%- endfor -%}
+      </ul>
+    {% endif %}
 
-</section>
+  </section>
+{% endif %}
 
-<section class="section section--contact">
+{% if collections.activityCurrent.length %}
+  <section class="section">
 
-  <h2>Contact</h2>
+    <h2>Current and upcoming</h2>
 
-  <p><a href="mailto:mail@gemmacope.land">mail@gemmacope.land</a></p>
-  <ul>
-    <li><a href="#">Arena</a></li>
-    <li><a href="#">Twitter</a></li>
-    <li><a href="#">Keybase</a></li>
-  </ul>
+    <ul class="activities">
+      {% for a in collections.activityCurrent %}
+        {% include "components/activity-item.njk" %}
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
 
-</section>
+{% if collections.activityPast.length %}
+  <section class="section">
 
-<section class="section">
+    <h2>Previously</h2>
 
-  <h2>Current and upcoming</h2>
+    <ul class="activities">
+      {% for a in collections.activityPast %}
+        {% include "components/activity-item.njk" %}
+      {% endfor %}
+    </ul>
 
-  <ul class="activities">
-    <li class="activity">
-      <time class="color-grey">08.2019</time>
-      <p>
-        <span>Residency</span>, <a href="#">Casa Sasso</a><br>
-        Variano, CH
-      </p>
-    </li>
-    <li class="activity">
-      <time class="color-grey">10.2019</time>
-      <p>
-        <span>Workshop</span>, <a href="#">Hurra Hurra festival</a><br>
-        Halle, DE<br>
-        <span class="color-grey">as part of Evening Class</span>
-      </p>
-    </li>
-  </ul>
-</section>
+  </section>
+{% endif %}
 
-<section class="section">
+{% if profile.data.offers.length %}
+  <section class="section">
 
-  <h2>Previously</h2>
+    <h2>Expertise</h2>
 
-  <ul class="activities">
-    <li class="activity">
-      <time class="color-grey">2017–2019</time>
-      <p>
-        <a href="#">Future Corp</a><br>
-        London, UK<br>
-      </p>
-    </li>
-  </ul>
+    <ul>
+      {%- for item in profile.data.offers -%}
+        <li>{{ item }}</li>
+      {%- endfor -%}
+    </ul>
 
-</section>
+  </section>
+{% endif %}
 
-<section class="section">
+{% if profile.data.workList.length %}
+  <section class="section">
 
-  <h2>Expertise</h2>
+    <h2>Recent work</h2>
 
-  <ul>
-    <li>Strategy</li>
-    <li>Art direction</li>
-  </ul>
-</section>
+    <ul>
+      {% for item in profile.data.workList %}
+        <li>{% if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+    <small>Full portfolio available on request</small>
 
-<section class="section">
-
-  <h2>Recent work</h2>
-
-  <ul>
-    <li><a href="#">AT ID</a></li>
-    <li><a href="#">Odunpazari Modern Museum</a></li>
-  </ul>
-  <small>Full portfolio available on request</small>
-</section>
+  </section>
+{% endif %}

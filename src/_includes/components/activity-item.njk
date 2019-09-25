@@ -1,0 +1,42 @@
+{# TODO turn this in to filters w/in config, this is ridiculous #}
+
+<li class="activity">
+  <time class="color-grey">
+    {# If there’s a start date #}
+    {%- if a.data.dateStart -%}
+      {%- if a.data.dateFormat == "year" -%}
+        {{ a.data.dateStart | activityYear }}
+      {%- else -%}
+        {{ a.data.dateStart | activityDate }}
+      {%- endif -%}
+    {%- endif -%}
+    {%- if a.data.dateStart and a.data.dateEnd -%}
+      –
+    {%- endif -%}
+    {%- if a.data.dateEnd -%}
+      {%- if a.data.dateFormat == "year" -%}
+        {{ a.data.dateEnd | activityYear }}
+      {%- else -%}
+        {{ a.data.dateEnd | activityDate }}
+      {%- endif -%}
+    {%- endif -%}
+  </time>
+  <p>
+    {%- if a.data.type -%}
+      <span>{{ a.data.type }}</span>
+    {%- endif -%}
+    {%- if a.data.type and a.data.title -%}
+      ,&nbsp;
+    {%- endif -%}
+    {%- if a.data.title -%}
+      {%- if a.data.url -%}
+        <a href="{{ a.data.url }}">{{ a.data.title }}</a>
+      {%- else -%}
+        {{ a.data.title }}
+      {%- endif -%}
+    {%- endif -%}
+    {%- if a.data.location -%}
+      <br>{{ a.data.location }}
+    {%- endif -%}
+  </p>
+</li>

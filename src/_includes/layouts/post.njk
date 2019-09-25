@@ -1,34 +1,64 @@
 ---
 section: post
 ---
+<html class="{{ section }}" lang="{{ global.lang }}">
 
-{% include "components/header.njk" %}
+  {% include "components/head.njk" %}
 
-<article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
-    </small>
-  </p>
+  <body>
 
-  {{ layoutContent | safe }}
+    {% include "components/header.njk" %}
 
-  {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </p>
-  {% endif %}
+    <div class="header header--desktop" aria-hidden="true">
+      <div class="panel">
+        {% set linkUrl = '/writing/' %}
+        {% set linkText = 'Writing' %}
+        {% set current = true %}
+        {% include "components/nav-link.njk" %}
+      </div>
+      <div class="panel">
+        <nav>
+          <ul>
+            <li>
+              {% set linkUrl = '/thinking/' %}
+              {% set linkText = 'Thinking' %}
+              {% set current = false %}
+              {% include "components/nav-link.njk" %}
+            </li>
+            <li>
+              {% set linkUrl = '/' %}
+              {% set linkText = global.siteTitle %}
+              {% set current = false %}
+              {% include "components/nav-link.njk" %}
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
 
-</article>
+    <main>
 
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>
+      <section>
+        {% set singleUrl = url %}
+        {%- set singleTitle -%}
+          <time datetime="{{ page.date | machineDate }}">
+            {{ page.date | readableDate }}
+          </time>
+          {%- if displayTitle == true -%}
+            &nbsp;—&nbsp; {{ title }}
+          {%- endif -%}
+        {%- endset -%}
+        {%- set singleTags = tags -%}
+        {%- set singleContent -%}
+          {{ layoutContent | safe }}
+        {%- endset -%}
+        {% include "components/single.njk" %}
+      </section>
 
-{% include "components/footer.njk" %}
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

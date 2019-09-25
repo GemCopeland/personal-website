@@ -1,38 +1,41 @@
-<html class="{% if section %}{{ section }}{% endif %}" lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{ title or renderData.title or person.name }}</title>
-    {% set css %}
-      {% include "assets/css/inline.css" %}
-    {% endset %}
-    <style>{{ css | cssmin | safe }}</style>
-    {% set js %}
-      {% include "assets/js/inline.js" %}
-    {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
-  </head>
-
-  <body>
-
-    <header class="header header--site">
+<header class="header header--site">
+  
+  {%- if page.url != '/' -%}
+    <div aria-hidden="true">
       {% set linkUrl = '/' %}
-      {% set linkText = person.name %}
-      {% if page.url == '/' %}
-        <h1>
-          {% include "components/nav-link.njk" %}
-        </h1>
-      {% else %}
-        <span aria-hidden="true">
-          {% include "components/nav-link.njk" %}
-        </span>
-        <h1 class="visually-hidden">
-          {{ page.title }}
-        </h1>
-      {% endif %}
-      {% include "components/nav.njk" %}
-    </header>
-
-    <main>
+      {% set linkText = global.siteTitle %}
+      {% include "components/nav-link.njk" %}
+    </div>
+    <div class="visually-hidden">
+      <h1>{{ title }}</h1>
+      <span>
+        {% set linkUrl = '/' %}
+        {% set linkText = "Return to homepage" %}
+        {% include "components/nav-link.njk" %}
+      </span>
+    </div>
+  {%- else -%}
+    <h1>
+      {% set linkUrl = '/' %}
+      {% set linkText = global.siteTitle %}
+        {% set current = section == 'home' %}
+      {% include "components/nav-link.njk" %}
+    </h1>
+  {%- endif -%}
+  <nav>
+    <ul>
+      <li>
+        {% set linkUrl = '/thinking/' %}
+        {% set linkText = 'Thinking' %}
+        {% set current = section == 'thinking' %}
+        {% include "components/nav-link.njk" %}
+      </li>
+      <li>
+        {% set linkUrl = '/writing/' %}
+        {% set linkText = 'Writing' %}
+        {% set current = section == 'writing' or section == 'post' %}
+        {% include "components/nav-link.njk" %}
+      </li>
+    </ul>
+  </nav>
+</header>

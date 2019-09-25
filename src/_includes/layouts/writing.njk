@@ -1,14 +1,28 @@
 ---
 section: writing
 ---
+<html class="{{ section }}" lang="{{ global.lang }}">
 
-{% include "components/header.njk" %}
+  {% include "components/head.njk" %}
 
-<h1>{{ title }}</h1>
+  <body>
 
-{{ layoutContent | safe }}
+    {% include "components/header-writing.njk" %}
 
-{% set postslist = collections.posts %}
-{% include "components/postslist.njk" %}
+    <main>
 
-{% include "components/footer.njk" %}
+      {# TODO add layout content? #}
+
+      <section>
+        {% for post in collections.posts | reverse %}
+          {% include "components/single-post.njk" %}
+        {% endfor %}
+      </section>
+
+    </main>
+
+    {% include "components/footer.njk" %}
+
+  </body>
+
+</html>

@@ -1,0 +1,15 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ title }} — {% if section == 'home' %}{{ page.data.strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
+  {# TODO Hook up meta description #}
+  {% set css %}
+    {% include "assets/css/inline.css" %}
+  {% endset %}
+  <style>{{ css | cssmin | safe }}</style>
+  {% set js %}
+    {% include "assets/js/inline.js" %}
+  {% endset %}
+  <script>{{ js | jsmin | safe }}</script>
+</head>

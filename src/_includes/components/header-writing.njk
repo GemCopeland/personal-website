@@ -1,0 +1,28 @@
+{% include "components/header.njk" %}
+
+<div class="header header--desktop" aria-hidden="true">
+  <div class="panel">
+    {% set linkUrl = '/writing/' %}
+    {% set linkText = 'Writing' %}
+    {% set current = true %}
+    {% include "components/nav-link.njk" %}
+  </div>
+  <div class="panel">
+    <nav>
+      <ul>
+        <li>
+          {% set linkUrl = '/thinking/' %}
+          {% set linkText = 'Thinking' %}
+          {% set current = false %}
+          {% include "components/nav-link.njk" %}
+        </li>
+        <li>
+          {% set linkUrl = '/' %}
+          {% set linkText = global.siteTitle %}
+          {% set current = false %}
+          {% include "components/nav-link.njk" %}
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
