@@ -1,32 +1,40 @@
 ---
+##################
+## Page details ##
+##################
 layout: layouts/home.njk
-title: Digital design and research # Homepage title is used as a strapline
+title: Gemma Copeland
+strapline: Digital design and research
 permalink: /
-# metaDescription:
+metaDescription:
+
+##################
+#### Contact #####
+##################
+name: Gemma Copeland
 email: mail@gemmacope.land
-links:
-  arena: /#
-  twitter: /#
-  keybase: /#
-activity:
-  # example:
-  #   title: Hurra Hurra festival
-  #   type: Workshop
-  #   location: Halle, DE
-  #   subtext: as part of Evening Class
-  #   startDate: 2019-08-01
-  #   endDate: 2019-08-01
-  #   url: http://example.com
-  futureCorp:
-    title: Future Corp
-    location: London, UK
-    startDate: 2017-07-01 # TODO check me!
-    endDate: 2019-07-01 # TODO check me!
-  casaSasso:
-    title: Casa Sasso
-    type: Residency
-    location: Variano, CH
-    endDate: 2019-08-01
+sameAs:
+  - text: Arena
+    url: https://www.are.na/gemma-copeland
+  - text: Twitter
+    url: https://twitter.com/gemcopeland
+  - text: Keybase
+    url: https://keybase.io/GemmaCopeland
+
+##################
+#### Activity ####
+##################
+# See /src/activity; automatically sorted by filename descending
+
+##################
+###### Work ######
+##################
+colleagues:
+  - name: Piper Haywood
+    url: https://piperhaywood.com
+  - name: Hannah Blows
+  - name: Aaron Gillett
+  - name: Finnán Barry
 offers:
   - Strategy
   - Art direction
@@ -34,11 +42,21 @@ offers:
   - User experience design
   - Visual design
   - Prototyping
-caseStudies:
-  - text: AT ID
-    url: /#
+workList: # Add to pages below
+  - text: AD IT
+    url: http://example.com # TODO change this
   - text: Odunpazari Modern Museum
-    url: /#
+    url:
+
+##################
+#### Credits #####
+##################
+credits: |
+  This site is set in Standard by Bryce Wilner. Thank you!
+
+  It was built with Eleventy and Arena by the wonderful Piper Haywood, and it is hosted on Netlify. If you’re interested, you can check out the [Github repo](#). Something something something about open source.
+
+  Your data isn’t collected when using this site.
 ---
 
 I am an interdependent digital designer and researcher.
