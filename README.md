@@ -41,7 +41,7 @@ This tells Netlify that when some change happens on the `master` branch<sup id="
 
 All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). You can also edit template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
 
-Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines data that is separate from the main page content found beneath the frontmatter.
+Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines important structured data that is separate from the main page content found beneath the frontmatter.
 
 The content that you will edit most frequently is:
 
@@ -51,7 +51,7 @@ The content that you will edit most frequently is:
 
 Within these directories, you may find a `/_drafts` folder. Files within this folder will not be published, so you can safely keep WIP files within these folders. See the demo markdown files within these folders for examples of how to format content
 
-You may also find a `.json` file within these folders. These data files set default values for their sibling `.md` files so that it does not need to be rewritten again and again.
+You may also find a `.json` file within these folders. These data files set default values for their sibling `.md` files so that these values do not need to be rewritten again and again.
 
 To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npx @11ty/eleventy --serve`.
 
@@ -99,6 +99,6 @@ TODO Want to add guidance about how someone could grab this and tweak it for the
 
   <li id="footnote-12">We use branches in Git to branch out from one point in the Git history and work on that in isolation. It’s particularly useful when people collaborate on a codebase together so that they don’t step on each other’s toes too much, particularly if someone is exploring something experimental or trying to fix a bug. The <code>master</code> branch is the original branch, the trunk, the one that all other branches ultimately come from. It’s a good idea to keep the <code>master</code> branch production-ready. If the repo is hooked up to something like Netlify, then this is usually the branch that Netlify watches and deploys.&nbsp;<a href="#ref-12">⤴️</a>
 
-  <li id="footnote-13">There are a <em>lot</em> of text editors out there that are geared towards web development. Ideally, you should get one that will have a few packages / plugins available that make your life a little easier (lots of syntax highlighters, command line tools, linters, etc.). VScode, Atom, or Sublime can be good places to start. If using VScode, you should be able to open this project from the command line by running <code>code .</code> from the root of the project.&nbsp;<a href="#ref-13">⤴️</a>
+  <li id="footnote-13">There are a <em>lot</em> of text editors out there that are geared towards web development. Ideally, you should get one that will have a few packages / plugins available that make your life a little easier (lots of syntax highlighters, command line tools, linters, etc.). VScode, Atom, or Sublime can be good places to start. If using VScode, you should be able to open this project from the command line by running <code>code .</code> from the root of the project. Atom’s equivalent command is `atom .`.&nbsp;<a href="#ref-13">⤴️</a>
 
 </ol>
