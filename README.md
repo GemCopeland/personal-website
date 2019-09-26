@@ -39,7 +39,7 @@ This tells Netlify that when some change happens on the `master` branch<sup id="
 
 ### Editing content
 
-All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). Editing template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
+All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). You can also edit template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
 
 Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines data that is separate from the main page content found beneath the frontmatter.
 
