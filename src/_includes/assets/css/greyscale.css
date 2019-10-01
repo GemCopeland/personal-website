@@ -1,0 +1,5 @@
+.greyscale {
+  --color-1: var(--color-black);
+  --color-2: #dfccff;
+  --color-grey-dark: var(--color-black);
+}

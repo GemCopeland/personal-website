@@ -1,0 +1,39 @@
+.button {
+  background-color: var(--color-2);
+  border-bottom: 1px solid transparent;
+  border-radius: 0.125rem;
+  color: var(--color-white);
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  padding: 0.125rem 0.5rem;
+}
+
+.tag {
+  color: var(--color-grey-dark);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.activity {
+  margin-bottom: 0.875rem;
+}
+
+.activity time {
+  /* flex-grow: 1; */
+  width: 5.125rem;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag:after {
+  content: ",";
+  margin-right: 0.2rem;
+}
+
+.tag:last-child:after {
+  content: none;
+}

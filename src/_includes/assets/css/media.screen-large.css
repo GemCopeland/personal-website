@@ -1,0 +1,90 @@
+@media screen and (min-width: 40em) {
+  .thinking {
+    background-color: var(--color-white);
+  }
+
+  .header--desktop {
+    display: flex;
+  }
+
+  .header--site,
+  .header--site * {
+    /* Visually hide */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .header--panel {
+    /* Do not visually hide */
+    clip: auto;
+    height: auto;
+    overflow: auto;
+    position: static;
+    width: auto;
+  }
+
+  nav {
+    width: 100%;
+  }
+
+  .panel:last-child {
+    display: block;
+  }
+
+  .home,
+  .home body,
+  .home main,
+  .thinking,
+  .thinking body,
+  .thinking main {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .home body > footer,
+  .thinking body > footer {
+    /* Visually hide */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .home .panel--profile footer {
+    display: block;
+  }
+
+  .home main,
+  .thinking main {
+    display: flex;
+  }
+
+  .panel {
+    width: 50%;
+  }
+
+  .panel--profile,
+  .panel--blocks {
+    height: 100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .activity {
+    display: flex;
+  }
+
+  body > footer {
+    display: flex;
+  }
+
+  body > footer section {
+    width: 50%;
+  }
+}

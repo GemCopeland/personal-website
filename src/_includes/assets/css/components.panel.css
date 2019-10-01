@@ -1,0 +1,29 @@
+.panel--blocks {
+  background-color: var(--color-grey-light);
+}
+
+.panel-contents {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.panel-contents section {
+  margin-bottom: 3.125rem;
+}
+
+.header--panel {
+  /* Visually hide */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.panel:last-child {
+  display: none;
+}
+
+.home .panel--profile footer {
+  display: none;
+}

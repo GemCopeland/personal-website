@@ -1,0 +1,23 @@
+.footer {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+.footer--site {
+  background-color: var(--color-2);
+}
+
+footer section {
+  padding: 1rem;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+  color: var(--color-1);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}

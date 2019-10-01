@@ -5,7 +5,19 @@
   <title>{{ title }} — {% if section == 'home' %}{{ page.data.strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
   {# TODO Hook up meta description #}
   {% set css %}
-    {% include "assets/css/inline.css" %}
+    {% include "assets/css/variables.css" %}
+    {% include "assets/css/fonts.css" %}
+    {% include "assets/css/base.css" %}
+    {% include "assets/css/components.css" %}
+    {% include "assets/css/components.header.css" %}
+    {% include "assets/css/components.footer.css" %}
+    {% include "assets/css/components.blocks.css" %}
+    {% include "assets/css/components.panel.css" %}
+    {% include "assets/css/typography.css" %}
+    {% include "assets/css/helpers.css" %}
+    {% include "assets/css/greyscale.css" %}
+    {% include "assets/css/media.screen-large.css" %}
+    {% include "assets/css/media.print.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}

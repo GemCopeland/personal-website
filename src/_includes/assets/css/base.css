@@ -1,0 +1,127 @@
+html {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  color: var(--color-black);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+html,
+body {
+  font-family: "Standard Web", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+main {
+  flex-grow: 1;
+}
+
+p,
+pre,
+code {
+  line-height: 1.5;
+}
+
+small {
+  color: var(--color-grey-dark);
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+time {
+  font-size: var(--font-small);
+  line-height: 1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+ol,
+ul,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  border: 1px solid transparent;
+  border-bottom: 1px solid var(--color-1);
+  color: currentColor;
+  text-decoration: none;
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+a:hover,
+a:focus,
+.subtle-links a:hover,
+.subtle-links a:focus {
+  border: 1px solid var(--color-1);
+  color: var(--color-1);
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+img {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure {
+  margin: 0;
+}
+
+svg {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button {
+  appearance: none;
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.thinking {
+  background-color: var(--color-grey-light);
+}

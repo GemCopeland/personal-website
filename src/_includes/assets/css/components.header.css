@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  margin-bottom: 1.625rem;
+}
+
+.header--desktop {
+  display: none;
+}
+
+.header--site {
+  flex-wrap: wrap;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.header--site > *:first-child {
+  flex-grow: 1;
+  padding-right: 1.25rem;
+}
+
+.header--site > *:last-child {
+  margin-right: -1.25rem;
+}
+
+.header--site > * {
+  margin-left: -1.25rem;
+}
+.header--site nav > * {
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+}
+
+.header--site nav {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.header {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.header a {
+  border: none;
+  color: var(--color-grey-dark);
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+}
+
+.header a.current,
+.panel--profile .header--panel a {
+  color: var(--color-black);
+}
+
+.header a:hover,
+.header a:focus,
+.header a.current:hover,
+.header a.current:focus,
+.panel--profile .header--panel a:hover,
+.panel--profile .header--panel a:focus {
+  color: var(--color-1);
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
