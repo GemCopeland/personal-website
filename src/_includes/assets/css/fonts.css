@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/standard-book-webfont.woff2) format("woff2"),
+    url(/fonts/standard-book-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/standard-book-italic-webfont.woff2) format("woff2"),
+    url(/fonts/standard-book-italic-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/standard-bold-webfont.woff2) format("woff2"),
+    url(/fonts/standard-bold-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Standard Web;
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/standard-bold-italic-webfont.woff2) format("woff2"),
+    url(/fonts/standard-bold-italic-webfont.woff) format("woff");
+}

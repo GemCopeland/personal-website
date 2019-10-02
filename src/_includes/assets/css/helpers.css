@@ -1,0 +1,29 @@
+/****************
+** Helpers **
+****************/
+.visually-hidden {
+  /* NOTE accessible hide via https://a11yproject.com/posts/how-to-hide-content/ */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+}
+
+.color-grey {
+  color: var(--color-grey-dark);
+}
+
+.subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+.subtle-links a:hover {
+  border-bottom: 1px solid var(--color-1);
+  color: var(--color-1);
+}
+
+.subtle-links a:focus {
+  border: 1px solid var(--color-1);
+  color: var(--color-1);
+}

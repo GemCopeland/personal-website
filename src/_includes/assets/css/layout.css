@@ -1,0 +1,9 @@
+.article--single {
+  margin-bottom: 3.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.article .prose > * {
+  max-width: 34rem;
+}

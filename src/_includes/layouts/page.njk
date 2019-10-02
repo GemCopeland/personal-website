@@ -17,15 +17,15 @@ section: page
         {% include "components/nav-link.njk" %}
       </div>
       <div class="panel">
-        <nav>
-          <ul>
-            <li>
+        <nav class="nav">
+          <ul class="nav__list">
+            <li class="nav__item">
               {% set linkUrl = '/thinking/' %}
               {% set linkText = 'Thinking' %}
               {% set current = false %}
               {% include "components/nav-link.njk" %}
             </li>
-            <li>
+            <li class="nav__item">
               {% set linkUrl = '/writing/' %}
               {% set linkText = 'Writing' %}
               {% set current = false %}
@@ -36,17 +36,15 @@ section: page
       </div>
     </div>
 
-    <main>
+    <main class="main">
 
-      <section>
-        {% set singleUrl = url %}
-        {%- set singleTitle = title -%}
-        {%- set singleTags = tags -%}
-        {%- set singleContent -%}
-          {{ layoutContent | safe }}
-        {%- endset -%}
-        {% include "components/single.njk" %}
-      </section>
+      {% set singleUrl = url %}
+      {%- set singleTitle = title -%}
+      {%- set singleTags = tags -%}
+      {%- set singleContent -%}
+        {{ layoutContent | safe }}
+      {%- endset -%}
+      {% include "components/single.njk" %}
 
     </main>
 

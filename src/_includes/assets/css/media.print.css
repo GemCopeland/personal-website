@@ -1,0 +1,19 @@
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  html,
+  body {
+    font-size: 10px;
+    background: #ffffff;
+    overflow: visible;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40rem;
+  }
+}

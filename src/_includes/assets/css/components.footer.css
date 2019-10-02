@@ -1,0 +1,18 @@
+.footer {
+  font-size: var(--font-small);
+  line-height: var(--line-height-small);
+}
+
+.footer--site {
+  background-color: var(--color-2);
+}
+
+.footer .section {
+  padding: 1rem;
+}
+
+.footer--site h2 {
+  color: var(--color-1);
+  font-size: var(--font-small);
+  line-height: var(--line-height-small);
+}
