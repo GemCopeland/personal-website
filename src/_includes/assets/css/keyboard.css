@@ -1,0 +1,60 @@
+.is-tabbing .header--desktop {
+  display: none;
+}
+
+/* Visually unhide the site header */
+.is-tabbing .header--site,
+.is-tabbing .header--site .nav,
+.is-tabbing .header--site .nav__list,
+.is-tabbing .header--site .nav__item,
+.is-tabbing .header--site .site-title,
+.is-tabbing .header--site .nav__link {
+  clip: auto;
+  height: auto;
+  overflow: auto;
+  position: static !important;
+  width: auto;
+}
+
+.is-tabbing .has-panels .header--site {
+  left: 0;
+  position: sticky !important;
+  right: 0;
+  top: 0;
+}
+
+.is-tabbing .header--panel {
+  display: none;
+}
+
+.is-tabbing .header--site {
+  padding-bottom: 1rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-top: 1rem;
+}
+
+.is-tabbing .header--site .aria-title {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+}
+
+.is-tabbing .nav__link {
+  padding: 0.5rem 1.25rem;
+}
+
+.is-tabbing .panel--blocks {
+  background-color: var(--color-white);
+}
+
+.is-tabbing .block__link {
+  border: 1px solid var(--color-grey);
+}
+
+.is-tabbing .block__link:hover,
+.is-tabbing .block__link:focus {
+  border: 1px solid var(--color-1);
+}

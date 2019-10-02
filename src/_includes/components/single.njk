@@ -1,6 +1,6 @@
 <article class="article article--single">
 
-  <header>
+  <header class="header header--article">
     <h1 class="subtle-links">
       <a href="{{ singleUrl | url }}">
         {{ singleTitle | safe }}
@@ -8,7 +8,9 @@
     </h1>
   </header>
 
-  {{ singleContent | safe }}
+  <div class="prose">
+    {{ singleContent | safe }}
+  </div>
 
   {% if singleTags %}
     <footer class="footer">

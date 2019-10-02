@@ -1,4 +1,4 @@
-<section>
+<section class="section">
   <ul class="blocks">
     {% for channel in arena %}
       <li class="block">
@@ -9,9 +9,11 @@
           <p class="block__title">
             {{ channel.title }}
           </p>
-          <p class="block__desc">
-            {{ channel.description | safe  }}
-          </p>
+          {% if channel.description %}
+            <p class="block__desc">
+              {{ channel.description | safe  }}
+            </p>
+          {% endif %}
           {% if channel.images %}
             <div class="block__media">
               {% for image in channel.images %}

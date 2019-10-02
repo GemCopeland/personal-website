@@ -7,4 +7,7 @@
   --color-grey-light: #f8f8f8;
   --color-white: #ffffff;
   --font-small: 0.75rem;
+  --line-height-small: 1.4;
 }
+
+/* TODO Introduce fallback for browsers that don’t support CSS vars? */

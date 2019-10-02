@@ -17,15 +17,15 @@ section: post
         {% include "components/nav-link.njk" %}
       </div>
       <div class="panel">
-        <nav>
-          <ul>
-            <li>
+        <nav class="nav">
+          <ul class="nav__list">
+            <li class="nav__item">
               {% set linkUrl = '/thinking/' %}
               {% set linkText = 'Thinking' %}
               {% set current = false %}
               {% include "components/nav-link.njk" %}
             </li>
-            <li>
+            <li class="nav__item">
               {% set linkUrl = '/' %}
               {% set linkText = global.siteTitle %}
               {% set current = false %}
@@ -36,12 +36,12 @@ section: post
       </div>
     </div>
 
-    <main>
+    <main class="main">
 
       <section>
         {% set singleUrl = url %}
         {%- set singleTitle -%}
-          <time datetime="{{ page.date | machineDate }}">
+          <time class="article__time" datetime="{{ page.date | machineDate }}">
             {{ page.date | readableDate }}
           </time>
           {%- if displayTitle == true -%}

@@ -39,11 +39,14 @@
 
 .block__desc {
   font-size: var(--font-small);
-  line-height: 1.4;
+  line-height: var(--line-height-small);
 }
 
 .block__media {
+  overflow: hidden;
   margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  max-height: 3.75rem;
 }
 
 .block__media img {

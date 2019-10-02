@@ -9,10 +9,10 @@ section: writing
 
     {% include "components/header-writing.njk" %}
 
-    <main>
+    <main class="main">
 
       {# TODO add layout content? #}
-
+      
       <section>
         {% for post in collections.posts | reverse %}
           {% include "components/single-post.njk" %}

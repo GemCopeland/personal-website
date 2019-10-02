@@ -5,11 +5,11 @@ section: home
 
   {% include "components/head.njk" %}
 
-  <body>
+  <body class="has-panels">
 
     {% include "components/header.njk" %}
 
-    <main>
+    <main class="main">
 
       <article class="panel panel--profile">
         <header class="header header--panel" aria-hidden="true">
@@ -22,21 +22,22 @@ section: home
           {% include "components/profile.njk" %}
         </div>
         <div aria-hidden="true">
+          {# NOTE Hide this panel footer from screen readers since it is already at the bottom of the whole page #}
           {% include "components/footer.njk" %}
         </div>
       </article>
 
       <aside class="panel panel--blocks" aria-hidden="true">
         <div class="header header--panel">
-          <nav>
-            <ul>
-              <li>
+          <nav class="nav">
+            <ul class="nav__list">
+              <li class="nav__item">
                 {% set linkUrl = '/thinking/' %}
                 {% set linkText = 'Thinking' %}
                 {% set current = false %}
                 {% include "components/nav-link.njk" %}
               </li>
-              <li>
+              <li class="nav__item">
                 {% set linkUrl = '/writing/' %}
                 {% set linkText = 'Writing' %}
                 {% set current = false %}

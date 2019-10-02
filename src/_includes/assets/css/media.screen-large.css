@@ -19,12 +19,7 @@
   }
 
   .header--panel {
-    /* Do not visually hide */
-    clip: auto;
-    height: auto;
-    overflow: auto;
-    position: static;
-    width: auto;
+    display: block;
   }
 
   nav {
@@ -78,6 +73,10 @@
 
   .activity {
     display: flex;
+  }
+
+  .activity__time {
+    width: 5.125rem;
   }
 
   body > footer {

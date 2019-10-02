@@ -5,23 +5,23 @@ section: thinking
 
   {% include "components/head.njk" %}
 
-  <body>
+  <body class="has-panels">
 
     {% include "components/header.njk" %}
 
-    <main>
+    <main class="main">
 
       <div class="panel panel--blocks">
         <div class="header header--panel" aria-hidden="true">
-          <nav>
-            <ul>
-              <li>
+          <nav class="nav">
+            <ul class="nav__list">
+              <li class="nav__item">
                 {% set linkUrl = '/thinking/' %}
                 {% set linkText = 'Thinking' %}
                 {% set current = true %}
                 {% include "components/nav-link.njk" %}
               </li>
-              <li>
+              <li class="nav__item">
                 {% set linkUrl = '/writing/' %}
                 {% set linkText = 'Writing' %}
                 {% set current = false %}

@@ -1,6 +1,6 @@
 {%- set singleUrl = post.url -%}
 {%- set singleTitle -%}
-  <time datetime="{{ post.date | machineDate }}">
+  <time class="article__time" datetime="{{ post.date | machineDate }}">
     {{ post.date | readableDate }}
   </time>
   {%- if post.data.displayTitle == true -%}

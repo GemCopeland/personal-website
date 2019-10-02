@@ -5,21 +5,22 @@
   <footer class="footer footer--site">
 
     {%- if profile.data.colleagues.length -%}
-      <section class="subtle-links">
+      <section class="section section--footer prose">
+        <div class="subtle-links">
 
-        <h2>Friends and collaborators</h2>
+          <h2>Friends and collaborators</h2>
 
-        <ul>
-          {% for person in profile.data.colleagues %}
-            <li>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
-          {% endfor %}
-        </ul>
-
+          <ul>
+            {% for person in profile.data.colleagues %}
+              <li>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </section>
     {%- endif -%}
 
     {%- if profile.data.credits -%}
-      <section>
+      <section class="section section--footer prose">
 
         <h2>Details</h2>
 

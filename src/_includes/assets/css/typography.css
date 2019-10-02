@@ -1,12 +1,40 @@
-main h1,
-main h2,
-main h3,
-main h4,
-main h5,
-main h6 {
-  color: var(--color-1);
-  font-size: var(--font-small);
-  line-height: 1.4;
+.prose p,
+.prose ul,
+.prose ol,
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose hr {
+  margin-bottom: 0.625rem;
+}
+
+.prose p ~ p img {
+  margin-top: 1rem;
+}
+
+.prose p:last-child,
+.prose ul:last-child,
+.prose ol:last-child {
+  margin-bottom: 0;
+}
+
+.prose blockquote {
+  border-left: 1px solid var(--color-1);
+  margin-left: 0;
+  margin-top: 0;
+  padding-left: 1.25rem;
+}
+
+.prose hr {
+  background-color: var(--color-1);
+  border: 0;
+  height: 1px;
+  margin-bottom: 1.25rem;
+  margin-left: 0;
+  margin-top: 1.25rem;
 }
 
 .section--contact p {
@@ -23,49 +51,4 @@ main h6 {
 
 .section--contact li:not(:last-child):after {
   content: ", ";
-}
-
-section p,
-section ul,
-section ol,
-section h1,
-section h2,
-section h3,
-section h4,
-section h5,
-section h6,
-section hr {
-  max-width: 34rem;
-  margin-bottom: 0.625rem;
-}
-
-section p ~ p img {
-  margin-top: 1rem;
-}
-
-section p:last-child,
-section ul:last-child,
-section ol:last-child {
-  margin-bottom: 0;
-}
-
-section blockquote {
-  border-left: 1px solid var(--color-1);
-  margin-left: 0;
-  padding-left: 1.25rem;
-}
-
-section hr {
-  background-color: var(--color-1);
-  border: 0;
-  height: 1px;
-  margin-bottom: 1.25rem;
-  margin-left: 0;
-  margin-top: 1.25rem;
-}
-
-.article--single {
-  margin-bottom: 3.125rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }

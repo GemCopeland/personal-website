@@ -3,3 +3,42 @@
   --color-2: #dfccff;
   --color-grey-dark: var(--color-black);
 }
+
+.greyscale .footer--site {
+  background-color: var(--color-black);
+  color: var(--color-white);
+}
+
+.greyscale .footer--site h2 {
+  color: inherit;
+}
+
+.greyscale a:not(.block__link):hover {
+  border-bottom: 1px solid transparent;
+}
+
+.greyscale .footer--site a,
+.greyscale .footer--site a:hover,
+.greyscale .footer--site a:focus {
+  color: inherit;
+}
+
+.greyscale .footer--site a {
+  border-bottom: 1px solid var(--color-white);
+}
+
+.greyscale .footer--site a:hover {
+  border-bottom: 1px solid transparent;
+}
+
+.greyscale .footer--site a:focus {
+  border: 1px solid var(--color-white);
+}
+
+.greyscale .footer--site .subtle-links a {
+  border-bottom: 1px solid transparent;
+}
+
+.greyscale .footer--site .subtle-links a:hover {
+  border-bottom: 1px solid var(--color-white);
+}
