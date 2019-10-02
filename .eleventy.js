@@ -46,6 +46,10 @@ module.exports = eleventyConfig => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
+  eleventyConfig.addFilter("cleanUrl", url => {
+    return url.replace(/^(https?:|)\/\//, "");
+  });
+
   // Create Posts collection
   eleventyConfig.addCollection("posts", collection => {
     const livePosts = p => p.date <= now;
