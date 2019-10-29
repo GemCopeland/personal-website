@@ -33,23 +33,23 @@ colleagues:
   - name: Piper Haywood
     url: https://piperhaywood.com
   - name: Hannah Blows
-  - url: http://thisblows.uk/
+    url: http://thisblows.uk/
   - name: Aaron Gillett
-  - url: https://aarongillett.com/
+    url: https://aarongillett.com/
   - name: Robbie Blundell
-  - url: http://r-b.site/
+    url: http://r-b.site/
   - name: Alex Piacientini
-  - url: https://www.alexpiacentini.com/
+    url: https://www.alexpiacentini.com/
   - name: Rectangle
-  - url: https://rectangle.design/
+    url: https://rectangle.design/
   - name: Agorama Server Co-op
-  - url: https://home.agorama.org.uk/
+    url: https://home.agorama.org.uk/
   - name: Strike!
-  - url: http://www.strike.coop/
+    url: http://www.strike.coop/
   - name: Design and Cultural Workers United
-  - url: https://www.uvwunion.org.uk/culture-design-workers
+    url: https://www.uvwunion.org.uk/culture-design-workers
   - name: Brave New Alps
-  - url: https://www.brave-new-alps.com/
+    url: https://www.brave-new-alps.com/
 offers:
   - Strategy
   - Art direction
