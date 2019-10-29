@@ -36,6 +36,8 @@ colleagues:
     url: http://thisblows.uk/
   - name: Aaron Gillett
     url: https://aarongillett.com/
+  - name: Rebecca Worth
+    url: http://www.youwouldlovethis.com/
   - name: Robbie Blundell
     url: http://r-b.site/
   - name: Alex Piacientini
@@ -82,7 +84,7 @@ credits: |
 
 I am an interdependent digital designer and researcher.
 
-I am currently working on [Common Knowledge](http://commonknowledge.coop), a workers cooperative that designs digital tools for and with grassroots activists.
+I am currently working on [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
 I am part of [Evening Class](https://evening-class.org/), a design collective and self-organised learning group. Together we develop research around our common interests, write texts, host events, run workshops, work on design projects and support one another.
 
