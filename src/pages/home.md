@@ -55,11 +55,11 @@ colleagues:
 offers:
   - Strategy
   - Art direction
+  - Interactive design and prototyping
   - Information architecture
   - User experience design
   - User interface design
   - Identity design
-  - Teaching
 workList: # Add to pages below
   - text: La Foresta local network
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
@@ -86,8 +86,8 @@ I am an interdependent digital designer and researcher.
 
 I am currently working on [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
-I am part of [Evening Class](https://evening-class.org/), a design collective and self-organised learning group. Together we develop research around our common interests, write texts, host events, run workshops, work on design projects and support one another.
+I am also part of [Evening Class](https://evening-class.org/), a design collective and self-organised learning group. Together we develop research around our common interests, write texts, host events, run workshops, work on design projects and support one another.
 
 I have worked in Australia, The Netherlands and the UK and have led digital design projects for a wide range of organisations, primarily within the cultural, social innovation and educational sectors. Most recently, I was the senior digital art director at [Future Corp](https://futurecorp.london/) in London.
 
-I am available to collaborate and love talking to new people, so send me an email.
+I am available for collaborations, lectures or workshops, and love talking to new people, so send me an email.
