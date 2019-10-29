@@ -1,10 +1,10 @@
 ---
-title: Casa Sasso
+title: La Foresta
 type: Residency
-location: Vairano, CH
+location: Rovereto, IT
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
-dateEnd: 2019-08-01
+dateEnd: 2019-09-01
 dateStart:
-url: http://sasso-residency.ch
+url: https://laforesta.net/
 ---

@@ -1,10 +1,10 @@
 ---
 title: Integrated Conference
-type: Discussion Group
+type: Discussion group
 location: Antwerp, BE
 subtext: as part of Evening Class
 dateFormat: # "year", otherwise will be displayed MM.YYYY
-dateEnd: 2019-11-01 # TODO check me!
+dateEnd: 2019-11-06
 dateStart:
-url:
+url: https://integratedconf.org/#speaker-evening-class
 ---
