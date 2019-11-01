@@ -30,10 +30,7 @@ The _Thinking_ panel hooks into Arena's API. I use Arena every day, and it has b
 
 ## Accessibility
 
-``TODO PH & GC
-- designing and developing for accessibility from the outset
-- why complying with accessibility requirements make your site better for everyone
-``
+``TODO PH & GC: designing and developing for accessibility from the outset, and why complying with accessibility requirements make your site better for everyone``
 
 ## Openness
 
