@@ -17,6 +17,12 @@ module.exports = eleventyConfig => {
     });
   });
 
+  // Add excerpts
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    excerpt_separator: "<!-- more -->"
+  });
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", code => {
     return new CleanCSS({}).minify(code).styles;

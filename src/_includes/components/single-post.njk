@@ -9,8 +9,8 @@
 {%- endset -%}
 {%- set singleTags = post.data.tags -%}
 {%- set singleContent -%}
-  {% if post.data.excerpt %}
-    {{ post.data.excerpt | markdownify | safe }}
+  {% if post.data.page.excerpt %}
+    {{ post.data.page.excerpt | markdownify | safe }}
     <a class="button button--more" href="{{ post.url | url }}">Read more</a>
   {% else %}
     {# TODO For some reason this isn’t working when filtered by tag #}
