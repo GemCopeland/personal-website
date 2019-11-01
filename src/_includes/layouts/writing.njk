@@ -14,7 +14,7 @@ section: writing
       {# TODO add layout content? #}
       
       <section>
-        {% for post in collections.posts | reverse %}
+        {% for post in collections.posts %}
           {% include "components/single-post.njk" %}
         {% endfor %}
       </section>
