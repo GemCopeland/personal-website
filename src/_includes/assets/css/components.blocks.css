@@ -42,6 +42,10 @@
   line-height: var(--line-height-small);
 }
 
+.block__desc a {
+  border-bottom: none;
+}
+
 .block__media {
   overflow: hidden;
   margin-bottom: 0.5rem;
