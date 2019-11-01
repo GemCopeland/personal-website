@@ -43,11 +43,9 @@ To edit content locally, open up your local site files in your preferred text ed
 
 Before you edit your content, it is good practice to run `git fetch` to get remote updates and `git pull` if there are any updates. And of course, be sure to push your edits with `git push` when you are done and ready to publish them.
 
-The content is primarily written in Markdown, so please refer to their documentation for syntax tips. Keep an eye on your curly quotes and apostrophes.
+The content is primarily written in Markdown, so please refer to their documentation for syntax tips. Keep an eye on your curly quotes and apostrophes. Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines important structured data written in Yaml that is separate from the main page content found beneath the frontmatter. If you need to put `:` or `-` characters in any of your Yaml content, you should wrap it in quotations.
 
 All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). You can also edit template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
-
-Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines important structured data that is separate from the main page content found beneath the frontmatter.
 
 The content that you will edit most frequently is:
 
