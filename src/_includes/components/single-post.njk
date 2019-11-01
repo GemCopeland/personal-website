@@ -13,8 +13,7 @@
     {{ post.data.page.excerpt | markdownify | safe }}
     <a class="button button--more" href="{{ post.url | url }}">Read more</a>
   {% else %}
-    {# TODO For some reason this isn’t working when filtered by tag #}
-    {{ post.data.content | safe }}
+    {{ post.templateContent | safe }}
   {% endif %}
 {%- endset -%}
 {% include "components/single.njk" %}
