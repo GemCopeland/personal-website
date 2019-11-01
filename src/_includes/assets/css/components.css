@@ -25,6 +25,10 @@
   margin-right: 0.2rem;
 }
 
+.tag:hover {
+  text-decoration: none;
+}
+
 .tag:last-child:after {
   content: none;
 }
