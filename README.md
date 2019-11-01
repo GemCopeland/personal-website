@@ -39,6 +39,12 @@ This tells Netlify that when some change happens on the `master` branch<sup id="
 
 ### Editing content
 
+To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npx @11ty/eleventy --serve`. Watch out for compilaton errors in your Terminal window while you are editing content.
+
+Before you edit your content, it is good practice to run `git fetch` to get remote updates and `git pull` if there are any updates. And of course, be sure to push your edits with `git push` when you are done and ready to publish them.
+
+The content is primarily written in Markdown, so please refer to their documentation for syntax tips. Keep an eye on your curly quotes and apostrophes.
+
 All of the content files can be found in `/src`. As a general rule, you should feel confident editing Markdown files (files ending in `.md`). You can also edit template files (`.njk`), styles (`.css`), JavaScript (`.js`), or data (`.json`), but changes to these files may require more delicate consideration.
 
 Within the Markdown files, you will find frontmatter at the top of the file delimited by `---`. This defines important structured data that is separate from the main page content found beneath the frontmatter.
@@ -52,12 +58,6 @@ The content that you will edit most frequently is:
 Within these directories, you may find a `/_drafts` folder. Files within this folder will not be published, so you can safely keep WIP files within these folders. See the demo markdown files within these folders for examples of how to format content
 
 You may also find a `.json` file within these folders. These data files set default values for their sibling `.md` files so that these values do not need to be rewritten again and again.
-
-To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npx @11ty/eleventy --serve`.
-
-The content is primarily written in Markdown, so please refer to their documentation for syntax tips. Keep an eye on your curly quotes and apostrophes.
-
-Be sure to push your edits when you’re done!
 
 ### Editing styles
 
