@@ -53,7 +53,7 @@ The content that you will edit most frequently is:
 - `/src/pages` – Includes your main pages (Home, Thinking, etc.) as well as default pages such as Privacy
 - `/src/posts` - Used to populate the Writing feed
 
-Within these directories, you may find a `/_drafts` folder. Files within this folder will not be published, so you can safely keep WIP files within these folders. See the demo markdown files within these folders for examples of how to format content
+Within each of these directories, you may find a `/_drafts` folder. Files within this folder will not be published, so you can safely keep WIP files within these folders. See the demo markdown files within these folders for examples of how to format content.
 
 You may also find a `.json` file within these folders. These data files set default values for their sibling `.md` files so that these values do not need to be rewritten again and again.
 
