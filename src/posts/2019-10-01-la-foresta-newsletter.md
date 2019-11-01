@@ -6,14 +6,6 @@ tags:
   - La Foresta
   - residency
   - conversation
-excerpt: |
-I recently spent a few weeks in Rovereto, northern Italy, to do a residency at [La Foresta](https://laforesta.net/).
-
-While I was there I printed a mini-newsletter, as part of an ongoing project that [Evening Class](https://evening-class.org/) is doing for the [Journal of Aesthetics and Protest](https://www.joaap.org/). The newsletter is a short conversation between [Brave New Alps](https://www.brave-new-alps.com/), one of the initiators of the La Foresta project, and two of us from Evening Class.
-
-![Evening Class and La Foresta newsletter](https://d2w9rnfcy7mm78.cloudfront.net/5166553/original_402df0b692de87cf676de66ce373b57a.jpg?1570125552?bc=0)
-
-I've added the text of the full interview below.
 ---
 
 I recently spent a few weeks in Rovereto, northern Italy, to do a residency at [La Foresta](https://laforesta.net/).
@@ -24,7 +16,7 @@ While I was there I printed a mini-newsletter, as part of an ongoing project tha
 
 I've added the text of the full interview below.
 
----
+<!-- more -->
 
 Evening Class asks La Foresta:
 
