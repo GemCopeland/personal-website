@@ -1,5 +1,5 @@
 ---
-title: Perpetual Beta & Post-Capitalist Desires: The Curriculum of Evening Class
+title: "Perpetual Beta & Post-Capitalist Desires: The Curriculum of Evening Class"
 type: Interview
 location: Walker Art Centre
 subtext: as part of Evening Class
