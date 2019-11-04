@@ -63,6 +63,11 @@
   color: var(--color-1);
 }
 
+.site-title {
+  font-size: inherit;
+  line-height: inherit;
+}
+
 .writing--tag .nav__link--current {
   color: var(--color-grey-dark);
   padding-right: 0;
@@ -73,7 +78,8 @@
   color: var(--color-1);
 }
 
-.site-title {
-  font-size: inherit;
-  line-height: inherit;
+.writing--tag .panel {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
