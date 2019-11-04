@@ -1,0 +1,21 @@
+.pagination {
+  margin-bottom: 1rem;
+  max-width: 34rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+}
+
+.pagination--simple {
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: space-between;
+}
+
+.pagination a {
+  border: none;
+}
+
+.pagination--simple a {
+  color: var(--color-1);
+}

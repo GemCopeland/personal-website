@@ -7,3 +7,14 @@
 .article .prose > * {
   max-width: 34rem;
 }
+
+.writing .main,
+.post .main {
+  display: flex;
+  flex-direction: column;
+}
+
+.writing .main section,
+.post .main section {
+  flex-grow: 1;
+}
