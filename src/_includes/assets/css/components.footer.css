@@ -5,16 +5,23 @@
 
 .footer--site {
   background-color: var(--color-2);
+  padding: 1rem 0;
 }
 
 .footer .section {
-  padding: 1rem;
+  margin-bottom: 1rem;
+  padding: 0 1rem;
 }
 
 .footer--site h2 {
   color: var(--color-1);
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  margin-top: 0 !important;
+}
+
+.footer--site *:last-child {
+  margin-bottom: 0;
 }
 
 .section--footer > * {
