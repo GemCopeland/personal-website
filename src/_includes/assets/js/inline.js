@@ -44,16 +44,12 @@ const hideLinks = matches => {
   if (matches) {
     badLinks = siteFooter;
     goodLinks = panelFooter;
-    console.log("wider than 40em");
   } else {
     badLinks = panelFooter;
     goodLinks = siteFooter;
-    console.log("narrower");
   }
   badLinks.forEach(link => {
-    console.log(link);
     link.setAttribute("tabindex", "-1");
-    console.log(link);
   });
   goodLinks.forEach(link => {
     link.removeAttribute("tabindex");
