@@ -76,7 +76,7 @@
   }
 
   .activity__time {
-    width: 5.125rem;
+    min-width: 5.125rem;
   }
 
   body > footer {
