@@ -1,6 +1,6 @@
 .greyscale {
   --color-1: var(--color-black);
-  --color-2: #dfccff;
+  --color-2: var(--color-grey);
 }
 
 .greyscale a:not(.block__link):hover {
@@ -78,10 +78,20 @@
 
 .adjust-contrast:after {
   color: var(--color-1);
+}
+
+.adjust-contrast:after,
+.greyscale .adjust-contrast:hover:after,
+.greyscale .adjust-contrast:focus:after {
   content: "◐";
 }
 
 .greyscale .adjust-contrast:after {
   color: var(--color-white);
+}
+
+.greyscale .adjust-contrast:after,
+.adjust-contrast:hover:after,
+.adjust-contrast:focus:after {
   content: "◑";
 }

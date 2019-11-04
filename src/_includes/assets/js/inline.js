@@ -1,30 +1,33 @@
 // Add class so that we can style skip links
-function handleFirstTab(e) {
+const handleFirstTab = e => {
   if (e.keyCode === 9) {
     // the "I am a keyboard user" key
     document.documentElement.classList.add("is-tabbing");
     document.documentElement.classList.remove("is-not-tabbing");
     window.removeEventListener("keydown", handleFirstTab);
   }
-}
-window.addEventListener("keydown", handleFirstTab);
+};
 
-function getCookie(name) {
+// Get cookies
+const getCookie = name => {
   var v = document.cookie.match("(^|;) ?" + name + "=([^;]*)(;|$)");
   return v ? v[2] : null;
-}
+};
 
-function setCookie(name, value, days) {
+// Set cookies
+const setCookie = (name, value, days) => {
   var d = new Date();
   d.setTime(d.getTime() + 24 * 60 * 60 * 1000 * days);
   document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
-}
+};
 
-function deleteCookie(name) {
+// Delete cookies
+const deleteCookie = name => {
   setCookie(name, "", -1);
-}
+};
 
-const toggleContrast = function() {
+// Toggle the contrast; see button onclick
+const toggleContrast = () => {
   if (document.documentElement.classList.contains("greyscale")) {
     document.documentElement.classList.remove("greyscale");
     deleteCookie("gc-contrast");
@@ -34,7 +37,42 @@ const toggleContrast = function() {
   }
 };
 
+const hideLinks = matches => {
+  let badLinks = false;
+  const siteFooter = document.querySelectorAll("body > .footer--site a");
+  const panelFooter = document.querySelectorAll(".panel .footer--site a");
+  if (matches) {
+    badLinks = siteFooter;
+    goodLinks = panelFooter;
+    console.log("wider than 40em");
+  } else {
+    badLinks = panelFooter;
+    goodLinks = siteFooter;
+    console.log("narrower");
+  }
+  badLinks.forEach(link => {
+    console.log(link);
+    link.setAttribute("tabindex", "-1");
+    console.log(link);
+  });
+  goodLinks.forEach(link => {
+    link.removeAttribute("tabindex");
+  });
+};
+
+// Hide the footer elements if necessary
+const hideFooter = () => {
+  const mql = window.matchMedia("(min-width: 40em)");
+  hideLinks(mql.matches);
+  mql.addListener(e => {
+    hideLinks(e.matches);
+  });
+};
+
 const contrast = getCookie("gc-contrast");
+
+window.addEventListener("keydown", handleFirstTab);
+
 if (contrast) {
   document.documentElement.classList.add("greyscale");
 }

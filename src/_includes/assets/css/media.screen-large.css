@@ -91,6 +91,26 @@
   body footer section {
     width: 50%;
   }
+
+  .is-tabbing .has-panels .header--site {
+    left: 0;
+    position: sticky !important;
+    right: 0;
+    top: 0;
+  }
+
+  .is-tabbing .panel--blocks {
+    background-color: var(--color-white);
+  }
+
+  .is-tabbing .block__link {
+    border: 1px solid var(--color-grey);
+  }
+
+  .is-tabbing .block__link:hover,
+  .is-tabbing .block__link:focus {
+    border: 1px solid var(--color-1);
+  }
 }
 
 @media screen and (min-width: 55em) {
