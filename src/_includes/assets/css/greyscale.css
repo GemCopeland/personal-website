@@ -20,6 +20,16 @@
   border-bottom: 1px solid var(--color-1);
 }
 
+.greyscale .pagination a:hover,
+.greyscale .pagination a:focus {
+  color: var(--color-grey-dark);
+}
+
+.greyscale .pagination__list a:hover,
+.greyscale .pagination__list a:focus {
+  color: var(--color-black);
+}
+
 .greyscale .footer--site {
   background-color: var(--color-black);
   color: var(--color-white);
@@ -44,7 +54,7 @@
 }
 
 .greyscale .footer--site a:focus {
-  border: 1px solid var(--color-white);
+  border: 1px solid var(--color-white) !important;
 }
 
 .greyscale .footer--site .subtle-links a {
