@@ -7,6 +7,10 @@
   border-bottom: 1px solid transparent;
 }
 
+.greyscale .pagination a:hover {
+  border-bottom: none !important;
+}
+
 .greyscale .nav__link--current:hover,
 .greyscale .nav__link--current:focus {
   color: var(--color-grey-dark);
