@@ -31,7 +31,7 @@
   padding-bottom: 1rem;
   padding-left: 1.25rem;
   padding-right: 1.25rem;
-  padding-top: 1rem;
+  padding-top: 1.25rem;
 }
 
 .is-tabbing .header--site .aria-title {
@@ -48,6 +48,10 @@
 
 .is-tabbing .panel--blocks {
   background-color: var(--color-white);
+}
+
+.is-tabbing .panel--profile .prose > *:first-child {
+  margin-top: 0;
 }
 
 .is-tabbing .block__link {
