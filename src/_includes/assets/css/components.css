@@ -43,5 +43,8 @@
 
 .article__time {
   display: inline-block;
+}
+
+.header--article {
   margin-bottom: 0.875rem;
 }
