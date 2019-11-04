@@ -9,7 +9,10 @@ pagination:
     - nav
     - post
     - posts
-permalink: /tags/{{ tag }}/
+    - profile
+    - activityCurrent
+    - activityPast
+permalink: /writing/tag/{{ tag | slug }}/
 renderData:
   title: "Tagged “{{ tag }}”"
 ---

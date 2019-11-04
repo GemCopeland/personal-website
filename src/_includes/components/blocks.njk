@@ -10,9 +10,9 @@
             {{ channel.title }}
           </p>
           {% if channel.description %}
-            <p class="block__desc">
-              {{ channel.description | safe  }}
-            </p>
+            <div class="block__desc">
+              {{  channel.description | markdownify | safe }}
+            </div>
           {% endif %}
           {% if channel.images %}
             <div class="block__media">

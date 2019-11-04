@@ -25,6 +25,10 @@
   margin-right: 0.2rem;
 }
 
+.tag:hover {
+  text-decoration: none;
+}
+
 .tag:last-child:after {
   content: none;
 }
@@ -39,5 +43,8 @@
 
 .article__time {
   display: inline-block;
+}
+
+.header--article {
   margin-bottom: 0.875rem;
 }

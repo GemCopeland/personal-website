@@ -1,6 +1,42 @@
 ---
 section: post
 ---
+{# NOTE Have to implement macro because it isn’t currently supported in Eleventy: #}
+{% macro getNextPrev(collectionHandle, arrowsPrevious, arrowsNext) %}
+  {% set collection = collections[collectionHandle] %}
+  {% set currentIndex = 0 %}
+  {% set count = collection.length %}
+
+  {% for item in collection %}
+    {% if item.url == page.url %}
+      {% set currentIndex = loop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if currentIndex >= 0 %}
+    {% set prevIndex = currentIndex - 1 %}
+  {% else %}
+    {% set prevIndex = false %}
+  {% endif %}
+  {% if currentIndex <= collection.length %}
+    {% set nextIndex = currentIndex + 1 %}
+  {% else %}
+    {% set nextIndex = false %}
+  {% endif %}
+  {% set prev = collection[prevIndex] %}
+  {% set next = collection[nextIndex] %}
+
+  {% if prev %}
+    {% set arrowPrevious = arrowsPrevious | random %}
+    <a class="pagination__link pagination__link--prev" href="{{ prev.url }}" aria-label="Previous page">{{ arrowPrevious }}</a>
+  {% endif %}
+  {% if next %}
+    {% set arrowNext = arrowsNext | random %}
+    <a class="pagination__link pagination__link--next" href="{{ next.url }}" aria-label="Next page">{{ arrowNext }}</a>
+  {% endif %}
+
+{% endmacro %}
+
 <html class="{{ section }}" lang="{{ global.lang }}">
 
   {% include "components/head.njk" %}
@@ -54,6 +90,15 @@ section: post
         {%- endset -%}
         {% include "components/single.njk" %}
       </section>
+
+      <div class="pagination pagination--simple">
+        <div class="pagination__simple">
+          {{ getNextPrev('posts', global.arrowsPrevious.split(', '), global.arrowsNext.split(', ')) }}
+        </div>
+
+        {% set arrowTop = global.arrowsTop.split(', ') | random %}
+        <a class="pagination__top" href="#top" aria-label="Back to top">{{ arrowTop }}</a>
+      </div>
 
     </main>
 

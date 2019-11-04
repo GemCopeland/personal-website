@@ -63,19 +63,6 @@ const getArenaChannels = async channelId => {
                   .reverse()
                   .slice(0, 10);
 
-                // Get a description from the text blocks if necessary
-                if (newChannel.description == null) {
-                  let text = contents
-                    .filter(b => {
-                      return b.class == "Text";
-                    })
-                    .map(b => {
-                      return b.content;
-                    })
-                    .join(" ")
-                    .slice(0, 140);
-                  newChannel.description = text ? text + "&hellip;" : null;
-                }
                 // Return the channel with the additional image and description content
                 return newChannel;
               });

@@ -55,6 +55,10 @@
     display: block;
   }
 
+  .panel--profile .section--footer {
+    width: 100%;
+  }
+
   .home main,
   .thinking main {
     display: flex;
@@ -72,18 +76,26 @@
   }
 
   .activity {
+    align-items: baseline;
     display: flex;
   }
 
   .activity__time {
-    width: 5.125rem;
+    min-width: 5.125rem;
   }
 
   body > footer {
     display: flex;
   }
 
-  body > footer section {
+  body footer section {
     width: 50%;
+  }
+}
+
+@media screen and (min-width: 55em) {
+  .home .panel--profile footer,
+  .thinking .panel--profile footer {
+    display: flex;
   }
 }

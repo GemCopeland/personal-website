@@ -38,5 +38,8 @@
     {%- if a.data.location -%}
       <br>{{ a.data.location }}
     {%- endif -%}
+    {% if a.data.subtext %}
+      <br><span class="color-grey">{{ a.data.subtext | safe }}</span>
+    {% endif %}
   </p>
 </li>
