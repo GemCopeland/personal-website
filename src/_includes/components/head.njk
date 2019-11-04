@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{ title }} — {% if section == 'home' %}{{ page.data.strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
+  <title>{{ title }} — {% if section == 'home' %}{{ strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
   {# TODO Hook up meta description #}
   {% set css %}
     {% include "assets/css/variables.css" %}

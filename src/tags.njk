@@ -13,9 +13,8 @@ pagination:
     - activityCurrent
     - activityPast
 permalink: /writing/tag/{{ tag | slug }}/
-renderData:
-  title: "Tagged “{{ tag }}”"
 ---
+{% set title = 'Tag “' ~ tag ~ '”' %}
 <html class="{{ section }} {{ section }}--tag" lang="{{ global.lang }}">
 
   {% include "components/head.njk" %}
