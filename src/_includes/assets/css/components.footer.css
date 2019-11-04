@@ -1,6 +1,7 @@
 .footer {
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  position: relative;
 }
 
 .footer--site {

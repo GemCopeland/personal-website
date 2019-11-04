@@ -70,7 +70,6 @@ workList: # Add to pages below
   - text: Ethical Culture Fieldston School
     url: https://ecfs.org
 
-
 ##################
 #### Credits #####
 ##################
@@ -79,7 +78,7 @@ credits: |
 
   It is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by the wonderful Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Unless otherwise stated, all of the content on this website is subject to a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-  Your data isn’t collected when using this site. If you switch to high contrast mode, it will store a cookie to remember this preference.
+  Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference. This cookie expires in one year.
 ---
 
 I am an interdependent digital designer and researcher.

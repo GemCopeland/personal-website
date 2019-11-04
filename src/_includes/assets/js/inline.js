@@ -8,3 +8,33 @@ function handleFirstTab(e) {
   }
 }
 window.addEventListener("keydown", handleFirstTab);
+
+function getCookie(name) {
+  var v = document.cookie.match("(^|;) ?" + name + "=([^;]*)(;|$)");
+  return v ? v[2] : null;
+}
+
+function setCookie(name, value, days) {
+  var d = new Date();
+  d.setTime(d.getTime() + 24 * 60 * 60 * 1000 * days);
+  document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
+}
+
+function deleteCookie(name) {
+  setCookie(name, "", -1);
+}
+
+const toggleContrast = function() {
+  if (document.documentElement.classList.contains("greyscale")) {
+    document.documentElement.classList.remove("greyscale");
+    deleteCookie("gc-contrast");
+  } else {
+    document.documentElement.classList.add("greyscale");
+    setCookie("gc-contrast", 1, 365);
+  }
+};
+
+const contrast = getCookie("gc-contrast");
+if (contrast) {
+  document.documentElement.classList.add("greyscale");
+}
