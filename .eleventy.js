@@ -90,8 +90,10 @@ module.exports = eleventyConfig => {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   };
+  eleventyConfig.setLibrary("md", markdownIt(options));
   eleventyConfig.addNunjucksFilter("markdownify", markdownString =>
     markdownIt(options).render(markdownString)
   );
