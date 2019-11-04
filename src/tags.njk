@@ -23,13 +23,18 @@ permalink: /writing/tag/{{ tag | slug }}/
 
     {% include "components/header-writing.njk" %}
 
-    <main>
+    <main class="main">
 
       <section>
         {% for post in collections[tag] %}
           {% include "components/single-post.njk" %}
         {% endfor %}
       </section>
+
+      <div class="pagination">
+        {% set arrowTop = global.arrowsTop.split(', ') | random %}
+        <a class="pagination__top" href="#top" aria-label="Back to top">{{ arrowTop }}</a>
+      </div>
 
     </main>
 
