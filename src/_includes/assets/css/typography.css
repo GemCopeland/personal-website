@@ -11,14 +11,17 @@
   margin-bottom: 0.625rem;
 }
 
-.prose p ~ p img {
-  margin-top: 1rem;
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  margin-top: 2rem;
 }
 
-.prose p:last-child,
-.prose ul:last-child,
-.prose ol:last-child {
-  margin-bottom: 0;
+.prose p ~ p img {
+  margin-top: 1rem;
 }
 
 .prose blockquote {
@@ -35,6 +38,30 @@
   margin-bottom: 1.25rem;
   margin-left: 0;
   margin-top: 1.25rem;
+}
+
+.prose ul {
+  list-style: disc;
+  padding-left: 1rem;
+}
+
+.prose ol {
+  padding-left: 1.5rem;
+}
+
+.prose code,
+.prose pre {
+  font-size: 16px;
+}
+
+.prose p > code {
+  background: var(--color-2);
+  padding: 0.125rem;
+}
+
+.prose pre {
+  background: var(--color-2);
+  padding: 0.5rem;
 }
 
 .section--contact p {
