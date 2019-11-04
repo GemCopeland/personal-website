@@ -40,7 +40,7 @@
     <h2>Current and upcoming</h2>
 
     <ul class="activities">
-      {% for a in collections.activityCurrent %}
+      {% for a in collections.activityCurrent | reverse %}
         {% include "components/activity-item.njk" %}
       {% endfor %}
     </ul>
