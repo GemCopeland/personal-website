@@ -22,3 +22,7 @@
 .thinking {
   background-color: var(--color-grey-light);
 }
+
+.panel--profile .prose > *:first-child {
+  margin-top: 0;
+}
