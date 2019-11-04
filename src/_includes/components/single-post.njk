@@ -4,7 +4,7 @@
     {{ post.date | readableDate }}
   </time>
   {%- if post.data.displayTitle == true -%}
-    &nbsp;—&nbsp; {{ post.data.title }}
+    &nbsp;—&nbsp;{{ post.data.title }}
   {%- endif -%}
 {%- endset -%}
 {%- set singleTags = post.data.tags -%}
