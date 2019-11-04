@@ -1,1 +1,1 @@
-<a class="nav__link{% if current %} nav__link--current{% endif %}" href="{{ linkUrl | url }}">{{ linkText }}</a>
+<a class="nav__link{% if current %} nav__link--current{% endif %}" href="{{ linkUrl | url }}">{{ linkText | safe }}</a>

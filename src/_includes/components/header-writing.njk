@@ -5,7 +5,7 @@
     {% set linkUrl = '/writing/' %}
     {% set linkText = 'Writing' %}
     {% set current = true %}
-    {% include "components/nav-link.njk" %}
+    {% include "components/nav-link.njk" %}{% if tag %}<span class="color-grey"> &mdash; </span>{{ tag }}{% endif %}
   </div>
   <div class="panel">
     <nav class="nav">

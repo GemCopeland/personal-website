@@ -16,7 +16,7 @@ permalink: /writing/tag/{{ tag | slug }}/
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
-<html class="{{ section }}" lang="{{ global.lang }}">
+<html class="{{ section }} {{ section }}--tag" lang="{{ global.lang }}">
 
   {% include "components/head.njk" %}
 
