@@ -26,16 +26,14 @@ section: post
   {% set prev = collection[prevIndex] %}
   {% set next = collection[nextIndex] %}
 
-  <div class="pagination pagination--simple">
-    {% if prev %}
-      {% set arrowPrevious = arrowsPrevious | random %}
-      <a class="pagination__link pagination__link--prev" href="{{ prev.url }}" aria-label="Previous page">{{ arrowPrevious }}</a>
-    {% endif %}
-    {% if next %}
-      {% set arrowNext = arrowsNext | random %}
-      <a class="pagination__link pagination__link--next" href="{{ next.url }}" aria-label="Next page">{{ arrowNext }}</a>
-    {% endif %}
-  </div>
+  {% if prev %}
+    {% set arrowPrevious = arrowsPrevious | random %}
+    <a class="pagination__link pagination__link--prev" href="{{ prev.url }}" aria-label="Previous page">{{ arrowPrevious }}</a>
+  {% endif %}
+  {% if next %}
+    {% set arrowNext = arrowsNext | random %}
+    <a class="pagination__link pagination__link--next" href="{{ next.url }}" aria-label="Next page">{{ arrowNext }}</a>
+  {% endif %}
 
 {% endmacro %}
 
@@ -93,7 +91,14 @@ section: post
         {% include "components/single.njk" %}
       </section>
 
-      {{ getNextPrev('posts', global.arrowsPrevious.split(', '), global.arrowsNext.split(', ')) }}
+      <div class="pagination pagination--simple">
+        <div class="pagination__simple">
+          {{ getNextPrev('posts', global.arrowsPrevious.split(', '), global.arrowsNext.split(', ')) }}
+        </div>
+
+        {% set arrowTop = global.arrowsTop.split(', ') | random %}
+        <a class="pagination__top" href="#top" aria-label="Back to top">{{ arrowTop }}</a>
+      </div>
 
     </main>
 
