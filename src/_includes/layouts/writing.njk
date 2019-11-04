@@ -18,10 +18,24 @@ pagination:
       {# TODO add layout content? #}
       
       <section>
-        {% for post in collections.posts %}
+        {% for post in posts %}
           {% include "components/single-post.njk" %}
         {% endfor %}
       </section>
+
+      {% if pagination.hrefs %}
+        <ol class="pagination pagination--list">
+          {% for href in pagination.hrefs %}
+            <li>
+              {% if loop.index0 == pagination.pageNumber %}
+                <span class="pagination__page" aria-label="Page {{ loop.index }}">{{ loop.index }}</span>
+              {% else %}
+                <a class="pagination__page pagination__link" href="{{ href }}" aria-label="Page {{ loop.index }}">{{ loop.index }}</a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ol>
+      {% endif %}
 
     </main>
 

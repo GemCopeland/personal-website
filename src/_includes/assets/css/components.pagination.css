@@ -12,10 +12,26 @@
   justify-content: space-between;
 }
 
+.pagination--list {
+  color: var(--color-1);
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
 .pagination a {
   border: none;
 }
 
 .pagination--simple a {
   color: var(--color-1);
+}
+
+.pagination--list a {
+  color: var(--color-grey-dark);
+}
+
+.pagination--list li:not(:last-child) .pagination__page:after {
+  content: ",";
+  margin-right: 0.3rem;
 }
