@@ -46,6 +46,10 @@
   border-bottom: none;
 }
 
+.block__desc a:focus {
+  border: 1px solid var(--color-1);
+}
+
 .block__media {
   overflow: hidden;
   margin-bottom: 0.5rem;
