@@ -101,6 +101,9 @@ module.exports = eleventyConfig => {
   // Copy the fonts
   eleventyConfig.addPassthroughCopy({ "src/_includes/assets/fonts": "fonts" });
 
+  // Copy the favicon contents
+  eleventyConfig.addPassthroughCopy({ "src/_includes/assets/favicon": "/" });
+
   return {
     templateFormats: ["md", "njk", "html", "liquid", "woff", "woff2"],
 
