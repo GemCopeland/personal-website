@@ -50,16 +50,36 @@ time {
 }
 
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   color: var(--color-1);
   font-size: var(--font-small);
   font-weight: inherit;
   line-height: var(--line-height-small);
   margin: 0;
+}
+
+h2 {
+  color: var(--color-1);
+  font-weight: inherit;
+  font-size: inherit;
+  margin: 0;
+  line-height: 1.5;
+}
+
+h4,
+h5,
+h6 {
+  color: var(--color-black);
+  font-size: var(--font-small);
+  font-weight: inherit;
+  line-height: var(--line-height-small);
+  margin: 0;
+}
+
+strong {
+  font-family: "Standard Book", sans-serif;
+  font-style: normal;
+  font-weight: 700;
 }
 
 ol,
