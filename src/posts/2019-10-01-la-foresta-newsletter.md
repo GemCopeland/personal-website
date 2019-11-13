@@ -23,7 +23,7 @@ I've added the text of the full interview below.
 
 Evening Class asks La Foresta:
 
-# Who are you?
+## Who are you?
 
 We are an open network of associations, informal groups, social cooperatives and individuals that have come together to create a community academy at the train station of Rovereto, northern Italy. Foresta in Italian means both “forest” and “the foreign woman”: a woman from another place. In both meanings there is an element of mystery. Both fit well the way we want to collaborate and the composition of our network.
 
@@ -32,7 +32,7 @@ By the end of this year, the space will have been renovated and open its doors t
 
 At the moment there are about 25 people involved. We are quite diverse in terms of gender, age, expertise and areas of interest, which span from migrant support to cultural animation, collective gardening to hacking, digital literacy to practice-based research.
 
-# What was the motivation for starting La Foresta?
+## What was the motivation for starting La Foresta?
 
 When the group began forming in August 2017, the common wish was to find a space as a shared resource (with floor space, infrastructure, machines, etc) to continue to develop individual activities but also to generate possibilities for encounter, making in common and forging new alliances.
 
@@ -48,22 +48,22 @@ Some questions we formulated together at the beginning of this adventure are:
 - Where, how and with whom can we begin?
 - What tools do we need?
 
-# One of our main impressions from spending time here is the sense of abundance—people are so generous with their time, attention and resources. What role do you think generosity plays in creating a space like this?
+## One of our main impressions from spending time here is the sense of abundance—people are so generous with their time, attention and resources. What role do you think generosity plays in creating a space like this?
 
 There is a saying in synergic gardening that ci concimiamo a vicenda—“we fertilise each other”. The social relations between us are the most important thing we have, and need to be cultivated and safeguarded, while material resources come and go. We want to build up an environment in which everyone feels free to contribute to the Forest according to their own resources and will, without feeling guilty for giving too much or too little.
 Our approach is that whoever proposes a new activity, tool or method also takes responsibility for it, while feeling supported by others and welcome to try out new things. In the Forest everything is in a permanent state of experimentation and evaluation.
 
-# Can you draw a map of your interdependent network?
+## Can you draw a map of your interdependent network?
 
 La Foresta asks Evening Class
 
-# Who are you?
+## Who are you?
 
 An experiment in self-organised learning. An unwieldy collective effort. 14 members right now. Over 40 members since we started in 2016. A support structure. A common pool of resources. After hours. Cultivating common interests. Open for anyone to join. Flexible and resilient. A group of designers, artists and teachers. Prototyping new methods for living, working and learning together. Based in London. An interdependent network. A space for learning and investigating. A space for empathy. A collection of many voices. Self-supporting. Not-for-profit. In, between, with, around and against the academy and industry. Learning from each other. Working it out as we go.
 
-# Can you make a drawing of your organisational form?
+## Can you make a drawing of your organisational form?
 
-# How do you deal with the fact that some people are more passionate about Evening Class and therefore make more time for it?
+## How do you deal with the fact that some people are more passionate about Evening Class and therefore make more time for it?
 
 It’s hard to get the balance right between individual autonomy and mutual support. It’s important for us to allow everyone to define their own level of commitment. We need to take into account that some people are more interested, motivated or simply have more time than others.
 
@@ -71,7 +71,7 @@ On the other hand, we also need to make sure that we’re supporting each other,
 
 This is perhaps one of the most difficult aspects of our collaboration to work out, as it also changes over time. We don’t have an answer yet.
 
-# What makes you feel most alive from all the things you do with Evening Class?
+## What makes you feel most alive from all the things you do with Evening Class?
 
 The friendship we have made together within the group. It sometimes feels like this is what holds things together and keeps us turning up, more than any other structure we articulate around it. It’s an unexpectedly collegiate peership, even (especially?) without academics above us setting the agenda.
 
