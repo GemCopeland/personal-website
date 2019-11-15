@@ -2,8 +2,8 @@
 .header--desktop,
 .header--panel {
   margin-bottom: 1.625rem;
-  padding-bottom: 1rem;
-  padding-top: 1.25rem;
+  padding-bottom: var(--gutter);
+  padding-top: var(--gutter);
 }
 
 .header--desktop,
@@ -14,30 +14,31 @@
 .header--site {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
 }
 
 .header--site > *:first-child {
   flex-grow: 1;
-  padding-right: 1.25rem;
+  padding-right: var(--gutter);
 }
 
 .header--site > *:last-child {
-  margin-right: -1.25rem;
+  margin-right: calc(var(--gutter) * -1);
 }
 
 .header--site > * {
-  margin-left: -1.25rem;
+  margin-left: calc(var(--gutter) * -1);
 }
 .header--site .nav > * {
-  margin-left: -1.25rem;
-  margin-right: -1.25rem;
+  /* margin-left: calc(var(--gutter) * -1); */
+  /* margin-right: calc(var(--gutter) * -1); */
+  margin-right: 0;
 }
 
 .header--site .nav {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: calc(var(--gutter) * -1);
+  padding-right: calc(var(--gutter) * -1);
 }
 
 .nav__list {
@@ -48,7 +49,8 @@
 .nav__link {
   border: none;
   color: var(--color-grey-dark);
-  padding: 0.5rem 1.25rem;
+  padding: 0.5rem var(--gutter);
+  text-decoration: none;
 }
 
 .nav__link--current,

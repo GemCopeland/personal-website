@@ -70,10 +70,20 @@
 }
 
 .adjust-contrast {
-  padding: 1rem;
+  border: 1px solid transparent;
+  margin: 0.25rem calc(var(--gutter) - 0.5rem);
+  padding: 0.5rem;
   position: absolute;
   right: 0;
   top: 0;
+}
+
+.adjust-contrast:focus {
+  border: 1px solid var(--color-1);
+}
+
+.greyscale .adjust-contrast:focus {
+  border: 1px solid var(--color-white);
 }
 
 .adjust-contrast:after {

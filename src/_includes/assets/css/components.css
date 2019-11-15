@@ -1,12 +1,12 @@
 .button {
   background-color: var(--color-2);
-  border-bottom: 1px solid transparent;
   border-radius: 0.125rem;
   color: var(--color-white);
   display: inline-block;
   margin-bottom: 1rem;
   margin-top: 0.5rem;
   padding: 0.125rem 0.5rem;
+  text-decoration: none;
 }
 
 .tags {
@@ -20,13 +20,13 @@
   line-height: var(--line-height-small);
 }
 
+.tag a {
+  text-decoration: none;
+}
+
 .tag:after {
   content: ",";
   margin-right: 0.2rem;
-}
-
-.tag:hover {
-  text-decoration: none;
 }
 
 .tag:last-child:after {
@@ -39,10 +39,6 @@
 
 .activity__time {
   color: var(--color-grey-dark);
-}
-
-.article__time {
-  display: inline-block;
 }
 
 .header--article {

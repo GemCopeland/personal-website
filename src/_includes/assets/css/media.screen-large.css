@@ -1,4 +1,8 @@
 @media screen and (min-width: 40em) {
+  :root {
+    --gutter: 1.25rem;
+  }
+
   .thinking {
     background-color: var(--color-white);
   }
@@ -90,6 +94,10 @@
 
   body footer section {
     width: 50%;
+  }
+
+  .pagination__simple {
+    justify-content: space-between;
   }
 
   .is-tabbing .has-panels .header--site {

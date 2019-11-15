@@ -95,9 +95,10 @@ ul {
 
 a {
   border: 1px solid transparent;
-  border-bottom: 1px solid var(--color-1);
   color: currentColor;
-  text-decoration: none;
+  text-decoration-color: var(--color-1);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25rem;
 }
 
 a:hover {
@@ -107,6 +108,7 @@ a:hover {
 a:focus {
   border: 1px solid var(--color-1);
   color: var(--color-1);
+  text-decoration: none;
 }
 
 img {
