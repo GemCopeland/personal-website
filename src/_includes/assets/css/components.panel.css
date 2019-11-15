@@ -7,6 +7,7 @@
   padding-right: var(--gutter);
 }
 
+.thinking .panel--blocks .panel-contents section,
 .panel--profile .panel-contents section {
   margin-bottom: 3.125rem;
 }

@@ -79,6 +79,10 @@
     -webkit-overflow-scrolling: touch;
   }
 
+  .thinking .panel--blocks .panel-contents section {
+    margin-bottom: 1.25rem;
+  }
+
   .activity {
     align-items: baseline;
     display: flex;
