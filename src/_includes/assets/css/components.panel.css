@@ -3,12 +3,17 @@
 }
 
 .panel-contents {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
 }
 
-.panel-contents section {
+.thinking .panel--blocks .panel-contents section,
+.panel--profile .panel-contents section {
   margin-bottom: 3.125rem;
+}
+
+.panel--blocks .panel-contents section {
+  margin-bottom: 1.25rem;
 }
 
 .panel:last-child {
@@ -21,4 +26,8 @@
 
 .thinking {
   background-color: var(--color-grey-light);
+}
+
+.panel--profile .prose > *:first-child {
+  margin-top: 0;
 }

@@ -6,6 +6,9 @@ tags:
   - La Foresta
   - residency
   - conversation
+metaImage:
+  src: https://d2w9rnfcy7mm78.cloudfront.net/5166553/original_402df0b692de87cf676de66ce373b57a.jpg?1570125552?bc=0
+  alt: Evening Class and La Foresta newsletter
 ---
 
 I recently spent a few weeks in Rovereto, northern Italy, to do a residency at [La Foresta](https://laforesta.net/).

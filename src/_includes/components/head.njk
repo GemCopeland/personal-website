@@ -2,8 +2,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{ title }} — {% if section == 'home' %}{{ page.data.strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
-  {# TODO Hook up meta description #}
+  <title>{{ title }} — {% if section == 'home' %}{{ strapline }}{% else %}{{ global.siteTitle }}{% endif %}</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#693fff">
+  <meta name="msapplication-TileColor" content="#603cba">
+  <meta name="theme-color" content="#ffffff">
+  {% if section == 'home' %}
+    <meta property="og:title" content="Profile">
+  {% else %}
+    <meta property="og:title" content="{{ title }}">
+  {% endif %}
+  <meta property="og:site_name" content="{{ global.siteTitle }}">
+  <meta property="og:url" content="{{ url }}">
+  {% if metaDescription %}
+    <meta name="description" content="{{ metaDescription }}">
+    <meta property="og:description" content="{{ metaDescription }}">
+  {% endif %}
+  {% if metaImage.src %}
+    <meta property="og:image" content="{{ metaImage.src }}">
+  {% endif %}
+  {% if metaImage.alt %}
+    <meta property="og:image:alt" content="{{ metaImage.alt }}">
+    <meta property="twitter:image:alt" content="{{ metaImage.alt }}">
+  {% endif %}
+  {% if global.twitterHandle %}
+    <meta property="twitter:site" content="{{ global.twitterHandle }}">
+  {% endif %}
   {% set css %}
     {% include "assets/css/variables.css" %}
     {% include "assets/css/fonts.css" %}

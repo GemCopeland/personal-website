@@ -15,11 +15,11 @@
 }
 
 .subtle-links a {
-  border-bottom: 1px solid transparent;
+  text-decoration: none;
 }
 
 .subtle-links a:hover {
-  border-bottom: 1px solid var(--color-1);
+  text-decoration: underline;
   color: var(--color-1);
 }
 

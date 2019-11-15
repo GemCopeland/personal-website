@@ -17,7 +17,7 @@
           {% if channel.images %}
             <div class="block__media">
               {% for image in channel.images %}
-                <img src="{{ image }}">
+                <img src="{{ image }}" loading="lazy" height="60">
               {% endfor %}
             </div>
           {% endif %}

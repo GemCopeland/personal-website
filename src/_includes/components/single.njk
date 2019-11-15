@@ -14,7 +14,7 @@
 
   {% if singleTags %}
     <footer class="footer">
-      <ul class="tags subtle-links">
+      <ul class="tags">
         {% for tag in singleTags %}
           {%- if tag != "post" -%}
             {% set tagUrl %}/writing/tag/{{ tag | slug }}/{% endset %}

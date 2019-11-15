@@ -1,4 +1,8 @@
 @media screen and (min-width: 40em) {
+  :root {
+    --gutter: 1.25rem;
+  }
+
   .thinking {
     background-color: var(--color-white);
   }
@@ -75,6 +79,10 @@
     -webkit-overflow-scrolling: touch;
   }
 
+  .thinking .panel--blocks .panel-contents section {
+    margin-bottom: 1.25rem;
+  }
+
   .activity {
     align-items: baseline;
     display: flex;
@@ -90,6 +98,30 @@
 
   body footer section {
     width: 50%;
+  }
+
+  .pagination__simple {
+    justify-content: space-between;
+  }
+
+  .is-tabbing .has-panels .header--site {
+    left: 0;
+    position: sticky !important;
+    right: 0;
+    top: 0;
+  }
+
+  .is-tabbing .panel--blocks {
+    background-color: var(--color-white);
+  }
+
+  .is-tabbing .block__link {
+    border: 1px solid var(--color-grey);
+  }
+
+  .is-tabbing .block__link:hover,
+  .is-tabbing .block__link:focus {
+    border: 1px solid var(--color-1);
   }
 }
 

@@ -1,20 +1,29 @@
 .footer {
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  position: relative;
 }
 
 .footer--site {
   background-color: var(--color-2);
+  padding-top: 1rem;
 }
 
 .footer .section {
-  padding: 1rem;
+  padding-bottom: 1.25rem;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
 }
 
 .footer--site h2 {
   color: var(--color-1);
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  margin-top: 0 !important;
+}
+
+.footer--site *:last-child {
+  margin-bottom: 0;
 }
 
 .section--footer > * {

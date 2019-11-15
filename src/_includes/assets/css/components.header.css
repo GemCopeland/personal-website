@@ -2,8 +2,8 @@
 .header--desktop,
 .header--panel {
   margin-bottom: 1.625rem;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
+  padding-bottom: var(--gutter);
+  padding-top: var(--gutter);
 }
 
 .header--desktop,
@@ -14,30 +14,31 @@
 .header--site {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
 }
 
 .header--site > *:first-child {
   flex-grow: 1;
-  padding-right: 1.25rem;
+  padding-right: var(--gutter);
 }
 
 .header--site > *:last-child {
-  margin-right: -1.25rem;
+  margin-right: calc(var(--gutter) * -1);
 }
 
 .header--site > * {
-  margin-left: -1.25rem;
+  margin-left: calc(var(--gutter) * -1);
 }
 .header--site .nav > * {
-  margin-left: -1.25rem;
-  margin-right: -1.25rem;
+  /* margin-left: calc(var(--gutter) * -1); */
+  /* margin-right: calc(var(--gutter) * -1); */
+  margin-right: 0;
 }
 
 .header--site .nav {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: calc(var(--gutter) * -1);
+  padding-right: calc(var(--gutter) * -1);
 }
 
 .nav__list {
@@ -48,8 +49,8 @@
 .nav__link {
   border: none;
   color: var(--color-grey-dark);
-  display: inline-block;
-  padding: 0.5rem 1.25rem;
+  padding: 0.5rem var(--gutter);
+  text-decoration: none;
 }
 
 .nav__link--current,
@@ -66,4 +67,46 @@
 .site-title {
   font-size: inherit;
   line-height: inherit;
+}
+
+.writing--tag .nav__link--current {
+  color: var(--color-grey-dark);
+  padding-right: 0;
+}
+
+.writing--tag .nav__link--current:hover,
+.writing--tag .nav__link--current:focus {
+  color: var(--color-1);
+}
+
+.writing--tag .panel {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.skip-buttons:focus-within {
+  display: flex;
+  padding: var(--gutter) var(--gutter) 0 var(--gutter);
+}
+
+.button--skip {
+  border: none;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+}
+
+.button--skip:focus {
+  border: 1px solid color(--color-1);
+  clip: none;
+  height: auto;
+  overflow: auto;
+  padding: 0.125rem 0.5rem;
+  position: static !important;
+  width: auto;
 }

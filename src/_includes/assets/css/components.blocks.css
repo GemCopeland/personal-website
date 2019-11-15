@@ -4,13 +4,12 @@
 
 .block {
   background-color: var(--color-white);
-  margin-bottom: 1.25rem;
+  margin-bottom: var(--gutter);
   padding: 1rem;
   position: relative;
 }
 
 .block__link {
-  border-bottom: none;
   bottom: 0;
   display: block;
   left: 0;
@@ -43,7 +42,11 @@
 }
 
 .block__desc a {
-  border-bottom: none;
+  text-decoration: none;
+}
+
+.block__desc a:focus {
+  border: 1px solid var(--color-1);
 }
 
 .block__media {
