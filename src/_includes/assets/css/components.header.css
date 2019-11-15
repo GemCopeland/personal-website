@@ -84,3 +84,29 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+.skip-buttons:focus-within {
+  display: flex;
+  padding: var(--gutter) var(--gutter) 0 var(--gutter);
+}
+
+.button--skip {
+  border: none;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+}
+
+.button--skip:focus {
+  border: 1px solid color(--color-1);
+  clip: none;
+  height: auto;
+  overflow: auto;
+  padding: 0.125rem 0.5rem;
+  position: static !important;
+  width: auto;
+}

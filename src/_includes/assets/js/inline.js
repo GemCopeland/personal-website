@@ -37,17 +37,10 @@ const toggleContrast = () => {
   }
 };
 
-const hideLinks = matches => {
-  let badLinks = false;
-  const siteFooter = document.querySelectorAll("body > .footer--site a");
-  const panelFooter = document.querySelectorAll(".panel .footer--site a");
-  if (matches) {
-    badLinks = siteFooter;
-    goodLinks = panelFooter;
-  } else {
-    badLinks = panelFooter;
-    goodLinks = siteFooter;
-  }
+// Set the tab index
+const setTabbing = (matches, mainElems, panelElems) => {
+  let badLinks = matches ? mainElems : panelElems;
+  let goodLinks = matches ? panelElems : mainElems;
   badLinks.forEach(link => {
     link.setAttribute("tabindex", "-1");
   });
@@ -56,12 +49,28 @@ const hideLinks = matches => {
   });
 };
 
+// Switch the contrast ID for the skip link
+const idContrast = (matches, mainContrast, panelContrast) => {
+  let badButton = matches ? mainContrast : panelContrast;
+  let goodButton = matches ? panelContrast : mainContrast;
+  badButton.removeAttribute("id");
+  goodButton.setAttribute("id", "contrast");
+};
+
 // Hide the footer elements if necessary
 const hideFooter = () => {
   const mql = window.matchMedia("(min-width: 40em)");
-  hideLinks(mql.matches);
+  const mainFooter = document.querySelector("body > .footer--site");
+  const mainElems = mainFooter.querySelectorAll("a, button");
+  const mainContrast = mainFooter.querySelector(".js-contrast");
+  const panelFooter = document.querySelector(".panel .footer--site");
+  const panelElems = panelFooter.querySelectorAll("a, button");
+  const panelContrast = panelFooter.querySelector(".js-contrast");
+  setTabbing(mql.matches, mainElems, panelElems);
+  idContrast(mql.matches, mainContrast, panelContrast);
   mql.addListener(e => {
-    hideLinks(e.matches);
+    setTabbing(e.matches, mainElems, panelElems);
+    idContrast(e.matches, mainContrast, panelContrast);
   });
 };
 
