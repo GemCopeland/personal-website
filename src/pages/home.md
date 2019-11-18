@@ -34,22 +34,22 @@ colleagues:
     url: https://piperhaywood.com
   - name: Hannah Blows
     url: http://thisblows.uk/
-  - name: Aaron Gillett
-    url: https://aarongillett.com/
   - name: Rebecca Worth
     url: http://www.youwouldlovethis.com/
-  - name: Robbie Blundell
-    url: http://r-b.site/
+  - name: Aaron Gillett
+    url: https://aarongillett.com/
+  - name: Christopher Lacy
+    url: http://christopherlacy.co.uk/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
   - name: Rectangle
     url: https://rectangle.design/
+  - name: Design and Cultural Workers United
+    url: https://www.uvwunion.org.uk/culture-design-workers
   - name: Agorama Server Co-op
     url: https://home.agorama.org.uk/
   - name: Strike!
     url: http://www.strike.coop/
-  - name: Design and Cultural Workers United
-    url: https://www.uvwunion.org.uk/culture-design-workers
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
 offers:
@@ -58,9 +58,10 @@ offers:
   - Interactive design and prototyping
   - Information architecture
   - User experience design
-  - User interface design
   - Identity design
-workList: # Add to pages below
+  - Teaching
+  - Writing
+workList:
   - text: La Foresta local network
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
   - text: Odunpazari Modern Museum
@@ -81,12 +82,10 @@ credits: |
   Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference. This cookie expires in one year.
 ---
 
-I am an interdependent digital designer and researcher.
+I am an interdependent digital designer and researcher, currently based in London.
 
-I am currently working on [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
+I am a member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
-I am also part of [Evening Class](https://evening-class.org/), a design collective and self-organised learning group. Together we develop research around our common interests, write texts, host events, run workshops, work on design projects and support one another.
+I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World and [Evening Class](https://evening-class.org/), a self-organised learning group.
 
-I have worked in Australia, The Netherlands and the UK and have led digital design projects for a wide range of organisations, primarily within the cultural, social innovation and educational sectors. Most recently, I was the senior digital art director at [Future Corp](https://futurecorp.london/) in London.
-
-I am available for collaborations, lectures or workshops, and love talking to new people, so send me an email.
+I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently at [Future Corp](https://futurecorp.london/) in London.
