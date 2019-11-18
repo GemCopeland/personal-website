@@ -44,12 +44,12 @@ colleagues:
     url: https://www.alexpiacentini.com/
   - name: Rectangle
     url: https://rectangle.design/
-  - name: Design and Cultural Workers United
-    url: https://www.uvwunion.org.uk/culture-design-workers
   - name: Agorama Server Co-op
     url: https://home.agorama.org.uk/
   - name: Strike!
     url: http://www.strike.coop/
+  - name: United Voices of the World
+    url: https://www.uvwunion.org.uk/culture-design-workers
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
 offers:
