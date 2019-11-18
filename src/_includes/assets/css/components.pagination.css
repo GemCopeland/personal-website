@@ -10,7 +10,7 @@
 .pagination__simple {
   display: flex;
   font-size: 1.5rem;
-  max-width: calc(34rem + var(--gutter));
+  max-width: calc(34rem + (var(--gutter) * 2));
 }
 
 .pagination__list {
