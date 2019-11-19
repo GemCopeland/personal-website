@@ -49,7 +49,7 @@ colleagues:
   - name: Strike!
     url: http://www.strike.coop/
   - name: United Voices of the World
-    url: https://www.uvwunion.org.uk/culture-design-workers
+    url: https://www.uvwunion.org.uk/design-culture-workers
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
 offers:
@@ -77,9 +77,9 @@ workList:
 credits: |
   This site is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Thank you!
 
-  It is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by the wonderful Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Unless otherwise stated, all of the content on this website is subject to a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+  It is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Unless otherwise stated, all of the content on this website is subject to a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-  Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference. This cookie expires in one year.
+  Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference, which will expire in one year.
 ---
 
 I am an interdependent digital designer and researcher, currently based in London.
