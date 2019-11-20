@@ -39,6 +39,7 @@
 .block__desc {
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  color: var(--color-grey-dark);
 }
 
 .block__desc a {
