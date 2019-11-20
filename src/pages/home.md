@@ -30,32 +30,34 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
-  - name: Piper Haywood
-    url: https://piperhaywood.com
-  - name: Hannah Blows
-    url: http://thisblows.uk/
-  - name: Rebecca Worth
-    url: http://www.youwouldlovethis.com/
   - name: Aaron Gillett
     url: https://aarongillett.com/
-  - name: Christopher Lacy
-    url: http://christopherlacy.co.uk/
-  - name: Alex Piacientini
-    url: https://www.alexpiacentini.com/
-  - name: Rectangle
-    url: https://rectangle.design/
   - name: Agorama Server Co-op
     url: https://home.agorama.org.uk/
+  - name: Alex Piacientini
+    url: https://www.alexpiacentini.com/
+  - name: Bec Worth
+    url: http://www.youwouldlovethis.com/
+  - name: Brave New Alps
+    url: https://www.brave-new-alps.com/
+  - name: Christopher Lacy
+    url: http://christopherlacy.co.uk/
+  - name: Hannah Blows
+    url: http://thisblows.uk/
+  - name: Piper Haywood
+    url: https://piperhaywood.com
+  - name: Rectangle
+    url: https://rectangle.design/
   - name: Strike!
     url: http://www.strike.coop/
   - name: United Voices of the World
     url: https://www.uvwunion.org.uk/design-culture-workers
-  - name: Brave New Alps
-    url: https://www.brave-new-alps.com/
+
 offers:
   - Strategy
   - Art direction
-  - Interactive design and prototyping
+  - Interactive design
+  - Prototyping
   - Information architecture
   - User experience design
   - Identity design
@@ -86,6 +88,6 @@ I am an interdependent digital designer and researcher, currently based in Londo
 
 I am a member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
-I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World and [Evening Class](https://evening-class.org/), a self-organised learning group.
+I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World and [Evening Class](https://evening-class.org/), an experiment in self-organised education.
 
-I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently at [Future Corp](https://futurecorp.london/) in London.
+I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently as digital art director at [Future Corp](https://futurecorp.london/).
