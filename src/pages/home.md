@@ -40,7 +40,7 @@ colleagues:
     url: http://www.youwouldlovethis.com/
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
-  - name: Christopher Lacy
+  - name: Chris Lacy
     url: http://christopherlacy.co.uk/
   - name: Hannah Blows
     url: http://thisblows.uk/
@@ -48,7 +48,7 @@ colleagues:
     url: https://piperhaywood.com
   - name: Rectangle
     url: https://rectangle.design/
-  - name: Strike!
+  - name: STRIKE!
     url: http://www.strike.coop/
   - name: United Voices of the World
     url: https://www.uvwunion.org.uk/design-culture-workers
