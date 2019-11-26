@@ -2,17 +2,6 @@
 
 This is a simple website for publishing a CV, research and writing. It will be used for [gemmacope.land](https://gemmacope.land).
 
-It is a WORK IN PROGRESS!
-
-## Rationale
-
-- To design and develop a website in a collaborative way, as a conversation between us rather than a 'waterfall'
-- To make a site that is modern but also as simple and lightweight as possible
-- The code should be simple and well-documented enough that Gemma can edit it herself
-- To help Gemma become more comfortable with using Git
-- To allow other people with similar interests and levels of experience to fork it
-- To be open about our process from the beginning
-
 ## Guide
 
 The instructions below assume that the reader is an enthusiastic beginner to things like Git, the command line, static site generators, and other things code-related. As such, there are footnotes peppered throughout that provide a little more context on terms that may be unfamiliar.
