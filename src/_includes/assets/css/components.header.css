@@ -31,8 +31,6 @@
   margin-left: calc(var(--gutter) * -1);
 }
 .header--site .nav > * {
-  /* margin-left: calc(var(--gutter) * -1); */
-  /* margin-right: calc(var(--gutter) * -1); */
   margin-right: 0;
 }
 
