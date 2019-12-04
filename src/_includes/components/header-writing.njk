@@ -2,21 +2,23 @@
 
 <div class="header header--desktop" id="top" aria-hidden="true">
   <div class="panel">
-    {% set linkUrl = '/writing/' %}
-    {% set linkText = 'Writing' %}
-    {% set current = true %}
-    {% include "components/nav-link.njk" %}{% if tag %}<span class="color-grey"> &mdash; </span>{{ tag }}{% endif %}
+    <div class="nav__item nav__item--writing">
+      {% set linkUrl = '/writing/' %}
+      {% set linkText = 'Writing' %}
+      {% set current = true %}
+      {% include "components/nav-link.njk" %}{% if tag %}<span class="color-grey"> &mdash; </span>{{ tag }}{% endif %}
+    </div>
   </div>
   <div class="panel">
     <nav class="nav">
       <ul class="nav__list">
-        <li class="nav__item">
+        <li class="nav__item nav__item--thinking">
           {% set linkUrl = '/thinking/' %}
           {% set linkText = 'Thinking' %}
           {% set current = false %}
           {% include "components/nav-link.njk" %}
         </li>
-        <li class="nav__item">
+        <li class="nav__item nav__item--home">
           {% set linkUrl = '/' %}
           {% set linkText = global.siteTitle %}
           {% set current = false %}
