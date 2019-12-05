@@ -64,6 +64,8 @@ offers:
   - Teaching
   - Writing
 workList:
+- text: Vent Your Rent
+    url: https://ventyour.rent/
   - text: La Foresta local network
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
   - text: Odunpazari Modern Museum
