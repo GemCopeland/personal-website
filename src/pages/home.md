@@ -44,6 +44,8 @@ colleagues:
     url: http://christopherlacy.co.uk/
   - name: Hannah Blows
     url: http://thisblows.uk/
+  - name: MayDay Rooms
+    url: https://maydayrooms.org/
   - name: Piper Haywood
     url: https://piperhaywood.com
   - name: Rectangle
