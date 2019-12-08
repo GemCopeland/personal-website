@@ -40,8 +40,12 @@ colleagues:
     url: http://www.youwouldlovethis.com/
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
+  - name: Carvalho Bernau
+    url: http://carvalho-bernau.com/
   - name: Chris Lacy
     url: http://christopherlacy.co.uk/
+  - name: Evening Class
+    url: https://evening-class.org/
   - name: Hannah Blows
     url: http://thisblows.uk/
   - name: MayDay Rooms
@@ -92,6 +96,6 @@ I am an interdependent digital designer and researcher, currently based in Londo
 
 I am a member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
-I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World and [Evening Class](https://evening-class.org/), an experiment in self-organised education.
+I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World.
 
 I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently as digital art director at [Future Corp](https://futurecorp.london/).
