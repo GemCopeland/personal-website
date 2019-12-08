@@ -1,6 +1,6 @@
 ---
 title: Dissenting Ephemera
-type: Workshop
+type: Talk
 location: London, UK
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
