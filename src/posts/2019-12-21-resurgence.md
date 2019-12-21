@@ -1,6 +1,6 @@
 ---
 title: Resurgence
-displayTitle: false
+displayTitle: true
 tags:
   - collective care
   - mental health
