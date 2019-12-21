@@ -1,5 +1,5 @@
 ---
-title: Design's agency
+title: Designs agency
 displayTitle: true
 tags:
   - lecture
