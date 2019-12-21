@@ -1,5 +1,5 @@
 ---
-title: Design's agency
+title: Design & agency
 displayTitle: true
 tags:
   - lecture
@@ -9,7 +9,7 @@ tags:
 
 I recently did a remote lecture for the [Transformation Design](https://www.hbk-bs.de/en/studiengaenge/transformation-design/) course at HBK Braunschweig.
 
-The students are currently doing a subject on *operating systems*, looking at the frameworks and structures that surround design: alternative, established and experimental ways of working, cooperation, organisation and solidarity.
+The students are currently doing a subject on *operating systems*, looking at the frameworks and structures that surround design: established and experimental ways of working, cooperation, organisation and solidarity.
 
 It made me so happy that this course exists! I spoke about my own practice as a digital designer, the different studios I've worked for, collectives I'm part of and the different tools, structures and processes that I've learnt about and found useful in my work.
 
