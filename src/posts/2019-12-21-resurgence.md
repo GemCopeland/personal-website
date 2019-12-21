@@ -28,7 +28,7 @@ This week I started reading [Staying with the Trouble](https://www.dukeupress.ed
 
 This staying present (mindfulness 101, I know) has also been the main thing keeping me together on a personal level as well. I usually deal with anxiety by just working more, but haven't been able to as I just feel too tired and too sad. I start to feel okay again when I just focus everything on exactly what I'm feeling at that moment, focusing on my gratitude for abundant Australian sunshine or how it feels to swim in the ocean.
 
-RB pointed out that Haraway's idea of resurgence can be found in [The Mushroom at the End of the World](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) as well:
+RB pointed out that this theme of resurgence can be found throughout [The Mushroom at the End of the World](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) as well:
 
 > One of the most miraculous things about forests is that they sometimes grow back after they have been destroyed. We might think of this as resilience, or as ecological remediation, and I find these concepts useful. But what if we pushed even further by thinking through resurgence? Resurgence is the force of the life of the forest, its ability to spread its seeds and roots and runners to reclaim places that have been deforested.
 
