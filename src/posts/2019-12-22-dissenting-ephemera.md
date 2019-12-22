@@ -10,7 +10,7 @@ tags:
 
 Some of my notes from the Dissenting Ephemera workshop at MayDay Rooms a few weeks ago:
 
-[leftove.rs](http://leftove.rs) is an online archive of radical political ephemera, built in collaboration between MayDay Rooms and 0x2620 Berlin.
+[leftove.rs](http://leftove.rs) is an online archive of radical political ephemera, built in collaboration between [MayDay Rooms](https://maydayrooms.org/) and [0x2620 Berlin](https://0x2620.org/).
 
 They've spent the last year digitising the MayDay Rooms archive and scraping other archives and now have a substantial body of material to work with. They've been experimenting with different ways of structuring, distributing and expanding upon this archive. For this workshop, they invited a range of people working in similar areas to share their experiences and contribute to the development of the platform.
 
