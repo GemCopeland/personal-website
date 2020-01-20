@@ -68,7 +68,6 @@ offers:
   - User experience design
   - Identity design
   - Teaching
-  - Writing
 workList:
   - text: Vent Your Rent
     url: https://ventyour.rent/
@@ -92,9 +91,11 @@ credits: |
   Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference, which will expire in one year.
 ---
 
-I am an interdependent digital designer and researcher, currently based in London.
+I am an interdependent digital designer, currently based in London.
 
 I am a member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
+
+I teach Digital as part of the [BA Graphic Communication Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm) course at Central Saint Martins.
 
 I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World.
 
