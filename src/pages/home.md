@@ -46,6 +46,8 @@ colleagues:
     url: http://christopherlacy.co.uk/
   - name: Evening Class
     url: https://evening-class.org/
+  - name: Feminist Open Source Group
+    url: https://feministopensource.group/
   - name: Hannah Blows
     url: http://thisblows.uk/
   - name: MayDay Rooms
