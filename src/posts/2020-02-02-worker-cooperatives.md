@@ -1,5 +1,5 @@
 ---
-title: On workers' cooperatives
+title: On worker cooperatives
 displayTitle: true
 tags:
   - cooperatives
