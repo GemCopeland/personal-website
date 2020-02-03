@@ -99,6 +99,6 @@ I am a member of [Common Knowledge](http://commonknowledge.coop), a worker coope
 
 I teach Digital as part of the [BA Graphic Communication Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm) course at Central Saint Martins.
 
-I am also part of the [Designers + Cultural Workers branch](https://twitter.com/UVW_DCW) of United Voices of the World.
+I am also part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
 
 I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently as digital art director at [Future Corp](https://futurecorp.london/).
