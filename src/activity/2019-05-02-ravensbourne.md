@@ -1,6 +1,6 @@
 ---
 title: Ravensbourne
-type: Workshop
+type: Internet health workshop
 location: London, UK
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY

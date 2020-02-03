@@ -1,6 +1,6 @@
 ---
 title: Hurra Hurra
-type: Workshop
+type: Building Alternatives workshop
 location: Halle, DE
 subtext: as part of Evening Class
 dateFormat: # "year", otherwise will be displayed MM.YYYY
