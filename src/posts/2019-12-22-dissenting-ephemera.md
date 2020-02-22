@@ -62,3 +62,9 @@ Some of the people and groups that were there were [Banner Repeater](https://www
 Seeing all these different attempts at peer-to-peer distribution and radical archiving made me feel more strongly than ever that we need to share these tools and resources, rather than having new projects start up and then burn out.
 
 I'm collecting any related links and text in this [Arena channel](https://www.are.na/gemma-copeland/leftove-rs).
+
+---
+
+## Update, 22.02.2020
+
+I've written up what I spoke about in [this post.](https://gemmacope.land/writing/thinking-about-archives/)
