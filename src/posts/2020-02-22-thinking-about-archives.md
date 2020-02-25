@@ -10,6 +10,8 @@ tags:
 
 This is a rough summary of what I remember talking about at the [Dissenting Ephemera](https://gemmacope.land/writing/dissenting-ephemera/) event last December.
 
+<!-- more -->
+
 I put my talk together somewhat last minute. As I was digging through old folders looking for what I wanted to present, I came across an illustration by [Richard Giblett](http://www.richardgiblett.com.au/myceliumrhizome.html), which I'd collected at some point while researching for the Pages Magazine website back in 2014.
 
 I realised it was the same image that printed while playing around with the riso printer at La Foresta in Rovereto in late 2019. It must have come up while I was searching [Are.na](http://are.na) for images of rhizomes, and I didn't realise at the time that I'd seen it before.
@@ -19,8 +21,6 @@ I realised it was the same image that printed while playing around with the riso
 This is what I love about archiving as a process: I'm continuously collecting, grouping and making connections between things, but most of the time it's intuitive rather than conscious. Over time, the rhizomatic archive grows in unexpected ways and patterns start to emerge. I like that this growth is a collective endeavour: the archive constantly being reshaped and revisited by its users.
 
 For this talk, I spoke about a couple of digital archive projects I've worked on over the years, looking for the threads that begin to emerge between them.
-
-<!-- more -->
 
 ## A permeable archive
 
