@@ -1,7 +1,7 @@
 ---
 title: Dissenting Ephemera
 type: Talk
-location: London, UK
+location: MayDay Rooms, London, UK
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 2019-12-07

@@ -1,6 +1,6 @@
 ---
 title: Interface Chaos
-type: Panel discussion
+type: Discussion
 location: London, UK
 subtext: as part of Evening Class
 dateFormat: # "year", otherwise will be displayed MM.YYYY
