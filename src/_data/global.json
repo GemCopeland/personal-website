@@ -5,5 +5,10 @@
   "lang": "en",
   "schemaType": "Person",
   "siteTitle": "Gemma Copeland",
-  "twitterHandle": "gemcopeland"
+  "twitterHandle": "gemcopeland",
+  "url": "https://gemmacope.land",
+  "author": {
+    "name": "Gemma Copeland",
+    "email": "mail@gemmacope.land"
+  }
 }

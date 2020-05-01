@@ -2,12 +2,17 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 const now = new Date();
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setBrowserSyncConfig({
     notify: true,
   });
+
+  // Add plugin
+  eleventyConfig.addPlugin(pluginRss);
 
   // Add profile collection so that we can access this outside of homepage
   // TODO Surely there is a better way to do this? Possible to create a data file that pulls from home.md?
