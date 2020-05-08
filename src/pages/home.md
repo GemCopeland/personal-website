@@ -18,8 +18,6 @@ sameAs:
     url: https://www.are.na/gemma-copeland
   - text: Twitter
     url: https://twitter.com/gemcopeland
-  - text: Keybase
-    url: https://keybase.io/GemmaCopeland
 
 ##################
 #### Activity ####
