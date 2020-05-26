@@ -4,7 +4,7 @@
 ##################
 layout: layouts/home.njk
 title: Gemma Copeland
-strapline: Digital design and research
+strapline: Digital design
 permalink: /
 metaDescription:
 
@@ -18,6 +18,8 @@ sameAs:
     url: https://www.are.na/gemma-copeland
   - text: Twitter
     url: https://twitter.com/gemcopeland
+  - text: GitHub
+    url: https://github.com/GemCopeland
 
 ##################
 #### Activity ####
@@ -28,8 +30,6 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
-  - name: Aaron Gillett
-    url: https://aarongillett.com/
   - name: Agorama Server Co-op
     url: https://home.agorama.org.uk/
   - name: Alex Piacientini
@@ -48,27 +48,24 @@ colleagues:
     url: https://feministopensource.group/
   - name: Hannah Blows
     url: http://thisblows.uk/
+  - name: How Melnyczuk
+    url: https://www.melnycz.uk/
   - name: MayDay Rooms
     url: https://maydayrooms.org/
   - name: Piper Haywood
     url: https://piperhaywood.com
   - name: Rectangle
     url: https://rectangle.design/
+  - name: Robbie Blundell
+    url: https://r-b.site/
+  - name: Sam Baldwin
+    url: https://sambaldwin.info/
   - name: STRIKE!
     url: http://www.strike.coop/
-  - name: United Voices of the World
-    url: https://www.uvwunion.org.uk/design-culture-workers
 
-offers:
-  - Strategy
-  - Art direction
-  - Interactive design
-  - Prototyping
-  - Information architecture
-  - User experience design
-  - Identity design
-  - Teaching
 workList:
+  - text: Progressive International
+    url: https://progressive.international/
   - text: Vent Your Rent
     url: https://ventyour.rent/
   - text: La Foresta local network
@@ -77,6 +74,8 @@ workList:
     url: https://omm.art/en/
   - text: Magnum Creative
     url: https://creative.magnumphotos.com/
+  - text: Studio Kunze
+    url: https://www.studiokunze.com/
   - text: Ethical Culture Fieldston School
     url: https://ecfs.org
 
@@ -84,11 +83,11 @@ workList:
 #### Credits #####
 ##################
 credits: |
-  This site is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Thank you!
+  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
 
-  It is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Unless otherwise stated, all of the content on this website is subject to a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+  [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  Your data isn’t collected when using this site. If you switch to high contrast mode, the site sets up a cookie to remember your preference, which will expire in one year.
+  Last updated: 05.2020
 ---
 
 I am an interdependent digital designer, currently based in London.
@@ -97,6 +96,6 @@ I am a member of [Common Knowledge](http://commonknowledge.coop), a worker coope
 
 I teach Digital as part of the [BA Graphic Communication Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm) course at Central Saint Martins.
 
-I am also part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
+I am part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
 
 I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently as digital art director at [Future Corp](https://futurecorp.london/).
