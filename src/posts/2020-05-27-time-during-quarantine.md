@@ -31,4 +31,4 @@ This pandemic has highlighted that while our perception of time is subjective an
 > Whatever time is, calendars and clocks measure, control, and constitute it. […] These logistical media—so fundamental that they sometimes are not seen as media at all—negotiate heaven and earth, nature and culture, cosmic and social organisation, and define our basic orientation to time and also to space. In doing so, they also relieve us of the burden of thinking about what time is and does.
 — from [The Marvellous Clouds](https://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html) by John Durham Peters
 
-[Time during Quarantine channel](https://www.are.na/gemma-copeland/time-in-quarantine)
+[Time during Quarantine](https://www.are.na/gemma-copeland/time-during-quarantine) channel
