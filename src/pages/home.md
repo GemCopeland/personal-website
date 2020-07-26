@@ -64,6 +64,8 @@ colleagues:
     url: http://www.strike.coop/
 
 workList:
+  - text: Claim the Future
+    url: http://claimthefuture.today/
   - text: Progressive International
     url: https://progressive.international/
   - text: Vent Your Rent
