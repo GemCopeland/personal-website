@@ -16,6 +16,8 @@ Both the identity and website were a joy to work on, so I thought I should docum
 
 <!-- more -->
 
+---
+
 Claim the Future aims to respond to the economic and political upheaval caused by the pandemic by uniting the left behind a radical and optimistic vision of the future. 
 
 The team have drafted a series of position papers that address a wide range of different areas, from healthcare to migrants' rights. These position papers will form the basis on which to initiate a series of actions and campaigns.
@@ -76,8 +78,10 @@ I'm pretty happy with the end result. It's quite open and there are so many diff
 
 ![The words "Claim the Future" on a textured background](https://d2w9rnfcy7mm78.cloudfront.net/8131619/original_9de122f7651eeab95558817eb2219fa3.jpg?1595761449?bc=0)
 
+---
+
 ## Join!
 
 There are going to be loads of ways to get involved with this project over the next few months. I think it's going to be really exciting.
 
-You can join as an individual or organisation via [the website.](https://claimthefuture.today/#join)
+You can join as an individual or organisation via [the website.](https://claimthefuture.today/)

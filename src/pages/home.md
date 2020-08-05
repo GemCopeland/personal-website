@@ -74,6 +74,8 @@ workList:
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
   - text: Odunpazari Modern Museum
     url: https://omm.art/en/
+  - text: ATID
+    url: https://atid.uk/
   - text: Magnum Creative
     url: https://creative.magnumphotos.com/
   - text: Studio Kunze
