@@ -2,7 +2,7 @@
 title: On worker cooperatives
 displayTitle: true
 tags:
-  - cooperatives
+  - cooperation
   - reflection
   - Common Knowledge
   - work
