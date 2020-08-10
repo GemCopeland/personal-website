@@ -4,7 +4,7 @@ displayTitle: true
 tags:
   - teaching
   - learning
-  – web design
+  - web design
 ---
 
 *This is one of the posts I wrote for the Core Languages blog last semester, as part of a course at Central Saint Martens that introduced graphic design students to the digital design mindset.*
