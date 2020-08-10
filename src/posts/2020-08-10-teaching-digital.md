@@ -23,15 +23,15 @@ My class was all about introducing students to the mindset and fundamental princ
 As I'm deeply interested in politics as well as digital design, I wanted to make sure that we examined digital design and development in a critical and expansive way, rather than just "learning to code". My aim was to contextualise these principles within the wider social, political and historical contexts of digital media, and reflect upon how these developments have changed how we think, communicate and design.
 
 > Why does it matter? Because we live in media, as fish live in water. We can and must design the media, design the molecules of our new water, and I believe the details of this design matter very deeply.
-— Ted Nelson
+— Ted Nelson, Computer Lib / Dream Machines
 
 ![An image of bubbles underwater, edited to be "digital blue" (#0000ff)](https://d2w9rnfcy7mm78.cloudfront.net/8281457/original_606e21ec912d751cf83d97bbf0a2d751.jpg?1597051119?bc=0)
 
 Each week, I would do a short lecture followed by a couple of hours of workshop time. Halfway through, I'd usually do another mini-lecture and introduce more complexity to the task they were working on. 
 
-I am completely indebted to the designers and teachers that have generously put their syllabi online, including [Minkyoung Kim](http://minkyoungkim.com/teaching/gdfws19/),[Mindy Seu](https://designforthe.net/), [Laurel Schwulst](https://veryinteractive.net/) and [Sasha Portis](http://talking-digital.net/). Learning to teach and developing a new course is really difficult, and I think I would be completely lost if I didn't have their work to build upon.
+I am completely indebted to the designers and teachers that have generously put their syllabi online, including [Minkyoung Kim](http://minkyoungkim.com/teaching/gdfws19/), [Mindy Seu](https://designforthe.net/), [Laurel Schwulst](https://veryinteractive.net/) and [Sasha Portis](http://talking-digital.net/). Learning to teach and developing a new course at the same time is really difficult, and I think I would be completely lost if I didn't have their work to build upon.
 
-I'm also grateful that Jaap De Maat is such a friendly and supportive course leader.
+I'm also grateful for Jaap De Maat being such a friendly and supportive course leader.
 
 ## Workshops
 
