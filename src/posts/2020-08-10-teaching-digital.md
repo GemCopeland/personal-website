@@ -14,7 +14,7 @@ My class was part of the Core Languages course, which included other classes lik
 
 The somewhat unusual thing about these classes was that they were more like drop-in sessions: each week the students could choose a different Core Language class to attend. They could also choose to attend every class from one Core Language over the semester. This meant that each class needed to be self-contained, so newcomers could understand it, while also remaining interesting for those who had been to previous classes.
 
-It was also quite a strange time to start teaching: from February there were four weeks of strike action, and then from the beginning of March we started to see the impacts of coronavirus.
+It was also quite a strange time to start teaching: from February there were four weeks of [strike action](https://gemmacope.land/writing/strike/), and then from the beginning of March we started to see the impacts of coronavirus.
 
 ## What I taught
 
