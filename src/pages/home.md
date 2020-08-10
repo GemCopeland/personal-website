@@ -100,4 +100,4 @@ Member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative 
 
 Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
 
-Interested in self-organisation, developing new models for living and working collaboratively, imagining post-precarious futures, and digital technology's role in supporting these practices.
+Interested in developing new models for living and working collaboratively, imagining post-precarious futures, exploring self-organising systems, and understanding how digital technology can support these practices.
