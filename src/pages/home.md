@@ -91,13 +91,13 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  Last updated: 05.2020
+  Last updated: 08.2020
 ---
 
-I am an interdependent digital designer, currently based in London.
+Interdependent digital designer based in London.
 
-I am a member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
+Member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that designs digital tools for and with grassroots activists.
 
-I am part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
+Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of United Voices of the World.
 
-I have led digital design projects for a range of organisations in Australia, The Netherlands and the UK, most recently as digital art director at [Future Corp](https://futurecorp.london/).
+Interested in peer-to-peer organising and learning, working collaboratively, imagining post-precarious futures, and digital technology's role in supporting these practices.
