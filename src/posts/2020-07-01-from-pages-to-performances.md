@@ -5,6 +5,7 @@ tags:
   - teaching
   - learning
   - web design
+  - open work
 ---
 
 *This is one of the posts I wrote for the Core Languages blog last semester, as part of a course at Central Saint Martens that introduced graphic design students to the digital design mindset.*
@@ -13,7 +14,7 @@ What is unique about digital design as a medium? How can we approach design for 
 
 In [this essay](https://www.artforum.com/print/201406/the-warhol-files-andy-warhol-s-long-lost-computer-graphics-46874), Cory Arcangel suggests that the term "web performance" is more appropriate for describing the digital medium than "web page":
 
-> The term that really drives me up the wall, though, is web page. Page connotes something stable, unchanging, and definite. A book page exists. A book page is. A web page, on the other hand, is a vastly more complicated structure. It is a set of instructions blasted from a server farm across the globe through fiber-optic cables, then interpreted by a computer’s hypertext transfer protocol browser and displayed by a light-emitting-diode screen. All this, by the way, is happening in real time—reconstituted at each millisecond through a unique and contingent tangle of systems—and is supported by the constant churn of the power grid, itself (incredibly) still commonly powered by burning coal. So instead of web page, I’d prefer the term web performance, which would remind us that this information is both immediate and ephemeral. In a sense, it is thousands of coal-powered virtual [Rube Goldberg machines]((https://sebastianlyserena.dk/form)) — lined up from end to end — that power our Facebook Paper apps on our iPhones.
+> The term that really drives me up the wall, though, is web page. Page connotes something stable, unchanging, and definite. A book page exists. A book page is. A web page, on the other hand, is a vastly more complicated structure. It is a set of instructions blasted from a server farm across the globe through fiber-optic cables, then interpreted by a computer’s hypertext transfer protocol browser and displayed by a light-emitting-diode screen. All this, by the way, is happening in real time—reconstituted at each millisecond through a unique and contingent tangle of systems—and is supported by the constant churn of the power grid, itself (incredibly) still commonly powered by burning coal. So instead of web page, I’d prefer the term web performance, which would remind us that this information is both immediate and ephemeral. In a sense, it is thousands of coal-powered virtual [Rube Goldberg machines](https://sebastianlyserena.dk/form) — lined up from end to end — that power our Facebook Paper apps on our iPhones.
 
 <!-- more -->
 
