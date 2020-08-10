@@ -14,6 +14,8 @@ It's a collection of essays about geology and biology, shared histories and unst
 
 > Ghosts and monsters are two points of departure for characters, agencies and stories that challenge the double conceit of modern Man. Against the fable of Progress, ghosts guide us through haunted lives and landscapes. Against the conceit of the Individual, monsters highlight symbiosis, the enfolding of bodies within bodies in evolution and in every ecological niche. In dialectical fashion, ghosts and monsters unsettle anthropos from its presumed centre stage in the Anthoropocene by highlighting the webs and histories from which all life emerges.
 
+![A rock covered with lichen and moss, found on the mountain Cadair Idris in Wales](https://d2w9rnfcy7mm78.cloudfront.net/8282157/original_4839c1e1cb08bc51dda776118f6082e3.jpg?1597058472?bc=0)
+
 <!-- more -->
 
 One of the key thinkers who is mentioned in the book is [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis), who "opposed competition-oriented views of evolution, stressing the importance of symbiotic or cooperative relationships between species". (She also developed the Gaia Theory with James Lovelock.)
