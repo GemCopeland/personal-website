@@ -4,6 +4,7 @@ displayTitle: true
 tags:
   - teaching
   - learning
+  - digital design
 ---
 
 Last semester I started teaching Digital as part of [BA Graphic Communication Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm) at Central Saint Martins.

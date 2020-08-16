@@ -4,6 +4,7 @@ displayTitle: true
 tags:
   - reflection
   - time
+  - pandemic
 ---
 
 I've just finished reading [Mrs Dalloway](https://en.wikipedia.org/wiki/Mrs_Dalloway), which has me thinking a lot about time. (It was originally called The Hours, after all.) It's such a wonderful book: Woolf effortlessly changes tempo, switches between the inner dialogue of different characters, moves from describing a fleeting present moment in great detail to remembering events long since passed.

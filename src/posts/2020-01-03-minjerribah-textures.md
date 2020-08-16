@@ -4,6 +4,7 @@ displayTitle: false
 tags:
   - nature
   - Australia
+  - photolog
 ---
 
 Minjerribah textures, feat. cute blob, scribbly gum and interspecies crossroads:

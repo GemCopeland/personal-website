@@ -4,6 +4,7 @@ displayTitle: true
 tags:
   - process
   - identity design
+  - open work
 ---
 
 We've just launched a website for [Claim The Future](http://claimthefuture.today/), a project led by John McDonnell. [The full text of his speech](https://labourlist.org/2020/07/build-better-but-not-back-john-mcdonnells-full-speech/) at the launch on Wednesday gives a good overview of the project:

@@ -2,9 +2,9 @@
 title: Dissenting Ephemera
 displayTitle: true
 tags:
-  - workshop
+  - teaching
+  - learning
   - archives
-  - radical education
   - conversation
   - Common Knowledge
 ---

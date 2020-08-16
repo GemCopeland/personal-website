@@ -2,7 +2,7 @@
 title: Design & agency
 displayTitle: true
 tags:
-  - lecture
+  - teaching
   - Common Knowledge
   - Evening Class
 ---

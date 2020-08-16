@@ -6,6 +6,7 @@ tags:
   - digital design
   - LUST
   - La Foresta
+  - teaching
 ---
 
 This is a rough summary of what I remember talking about at the [Dissenting Ephemera](https://gemmacope.land/writing/dissenting-ephemera/) event last December.

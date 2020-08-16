@@ -4,7 +4,9 @@ displayTitle: false
 tags:
   - walk
   - mushrooms
-  - forest
+  - nature
+  - photolog
+  - London
 metaImage:
   src: https://d2w9rnfcy7mm78.cloudfront.net/5761367/original_d3a71b66353dbe182e45c0c36c3553ea.jpg?1576907036?bc=0
   alt: Mushrooms from Epping Forest
