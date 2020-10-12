@@ -3,7 +3,7 @@
 ## Page details ##
 ##################
 layout: layouts/home.njk
-title: Gemma Copeland
+title: Felix T Platten
 strapline: Digital design
 permalink: /
 metaDescription:
