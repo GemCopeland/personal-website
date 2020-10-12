@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gemma Copeland</title>
+    <link href="https://gemmacope.land/feed.xml" rel="self"/>
+    <link href="https://gemmacope.land"/>
+    <updated>2020-09-19T00:00:00+01:00</updated>
+    <id>https://gemmacope.land</id>
+    
+      <author>
+        <name>Gemma Copeland</name>
+        <email>mail@gemmacope.land</email>
+      </author>
+    
+    
+    <entry>
+      <title>Making a website</title>
+      <link href="https://gemmacope.land/writing/making-a-website/"/>
+      <updated>2019-09-01T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/making-a-website/</id>
+      <content type="html">&lt;p&gt;Some thoughts about making this website, written jointly by me and &lt;a href=&quot;http://piperhaywood.com/&quot;&gt;Piper Haywood&lt;/a&gt; (italics).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This website started as a conversation between Piper and myself. I had just left my full-time job and PH suggested that we could work together on a new website for my practice. It was also a good excuse for us to collaborate and explore some of our ideas about website design and development together.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I was interested in working with Gemma on pretty much anything! More specifically though, I wanted to work on a site that was less of an unchanging behemoth and more of a playground for learning, a permanent sandbox and ideas container. This is how treat my site, but I hadn’t had the chance to create something similar for and with someone else before.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From the outset, we set the intention that the process should be conversation between the two of us. We’re both interested in seeing design and development as a collaborative and iterative process, where both parties learn from the other. (Although, admittedly, I have learnt much more from PH during this process!)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You say that, but I’ve definitely learned a ton from you! Especially about letting ambiguity thrive, balancing it against structure.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Light&lt;/h2&gt;
+&lt;p&gt;We think that a website can be modern without being complicated. &lt;em&gt;Better does not mean louder or more moving parts or reinventing the wheel. Goodness can come from working with existing tools and celebrating the building blocks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Today’s web development world can seem incredibly intimidating for someone just starting out. There are so many different frameworks and languages to learn, it can feel like it’s better just not to start and use a template instead – something that &lt;a href=&quot;https://dow-smith.com/&quot;&gt;Jake&lt;/a&gt; puts quite succinctly &lt;a href=&quot;https://twitter.com/jakedowsmith/status/1184125876608352256&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I was fortunate to pick up web development at a time when you could get away with experimenting and tinkering using the open web as a tool for self-directed learning. I didn’t have to contend with enormous echo chambers like Twitter shaming me for not using a bundler, being unfamiliar with a language, or a million other things that were outside my consciousness early on. It makes me sad that enthusiastic beginners might feel like the web development world is beyond them.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Complexity makes websites more opaque and can make them less robust. The more a site depends on complex frameworks, the more potential points of failure it has, making it harder to maintain over time. Because of this, we’ve made decisions to keep this site small and light wherever possible. It is a static site built with &lt;a href=&quot;https://www.11ty.io/&quot;&gt;Eleventy&lt;/a&gt; and hosted on &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The aim is to use enough tools so that creating and editing content isn’t a total slog, but not so many that it feels like you need to take a course to figure it all out. We want a site is *just* complex enough and has appropriate &lt;a href=&quot;https://github.com/GemCopeland/personal-website/blob/master/README.md&quot;&gt;documentation&lt;/a&gt; for the bits that are a little more complicated.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Accessible&lt;/h2&gt;
+&lt;p&gt;Considering as broad an audience as possible from the outset ultimately makes for a better site. It sets restrictions on some visual elements, but I think that working within restrictions in a clever and thoughtful way ultimately makes something more beautiful. &lt;em&gt;And it can be *fun* to work with constraints!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As with designing for mobile first, designing for accessibility encourages you to consider the relative importance of each element.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My hope is that we can continue to explore accessibility on this site. We’ve just begun to scratch the surface.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Structured&lt;/h2&gt;
+&lt;p&gt;All text is edited in &lt;a href=&quot;https://www.markdownguide.org/basic-syntax/&quot;&gt;Markdown&lt;/a&gt;, which we love because it is simple and human-readable yet also flexible and powerful. &lt;em&gt;We’re specifically using the &lt;a href=&quot;https://github.com/markdown-it/markdown-it&quot;&gt;markdown-it&lt;/a&gt; parser which lets us automatically convert straight quotes to curly quotes and a few other nifty things. See the &lt;a href=&quot;https://github.com/GemCopeland/personal-website/blob/master/.eleventy.js&quot;&gt;&lt;code&gt;.eleventy.js&lt;/code&gt; file&lt;/a&gt; if you want to have a peek at the configuration.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Data is structured according to the vocabulary set out by &lt;a href=&quot;https://schema.org/&quot;&gt;schema.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Using these two syntaxes relates to our ideas around maintaining long-term archives. The front-end of a website is more ephemeral (like the outer layer of a tree), while the back-end should have more longevity. We added as much structure to the data as possible from the outset, even if it isn’t currently being utilised. This mindset is more about building an archive of data than a website. It’s about seeing archiving as a continuous process rather than a single event.&lt;/p&gt;
+&lt;h2&gt;Fluid&lt;/h2&gt;
+&lt;p&gt;Connected to this idea of continuous archiving is our choice to, wherever possible, hook into my existing workflows and tools. For example, the &lt;em&gt;Thinking&lt;/em&gt; panel uses &lt;a href=&quot;https://dev.are.na/&quot;&gt;Arena’s API&lt;/a&gt;. I use Arena every day, and it has become a vital part of my thinking process. Any channel that I add to &lt;em&gt;My Website&lt;/em&gt; channel will show up here. We wanted to make something that would amplify my existing workflows rather than create any extra work.&lt;/p&gt;
+&lt;p&gt;We’re also using this channel to host any images that I want to add to my blog, as a way of getting around adding another service for image hosting. &lt;em&gt;Down the line, when it’s proven that another platform would be useful, we could use a Content Delivery Network (CDN) or we might configure it with Netlify Large Media.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Open&lt;/h2&gt;
+&lt;p&gt;We have documented both our code and our process on &lt;a href=&quot;https://github.com/GemCopeland/personal-website&quot;&gt;Github&lt;/a&gt;. The source code is licensed under the &lt;a href=&quot;https://github.com/GemCopeland/personal-website/blob/master/LICENSE&quot;&gt;GNU General Public License v3.0&lt;/a&gt;, and PH has created an in-depth README that also explains things like Git, the command line, static site generators, and other things code-related. Hopefully this is a good resource for others with similar levels of experience and interest. Unless otherwise stated, all content on the site is by me and subject to a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons BY-NC-SA 4.0&lt;/a&gt; license.&lt;/p&gt;
+&lt;h2&gt;Further reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://luckysoap.com/statements/handmadeweb.html&quot;&gt;A Handmade Web&lt;/a&gt; by JR Carpenter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/&quot;&gt;My website is a shifting house next to a river of knowledge. What could yours be?&lt;/a&gt; by Laurel Schwulst&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://websitewiththesoundofitsownmaking.net/&quot;&gt;Website with the Sound of its own Making&lt;/a&gt; by Emma Rae Norton&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frankchimero.com/writing/everything-easy-is-hard-again/&quot;&gt;Everything Easy is Hard Again&lt;/a&gt; by Frank Chimero&lt;/li&gt;
+&lt;li&gt;Contribute to the channels &lt;a href=&quot;https://www.are.na/gemma-copeland/digital-design-criticism&quot;&gt;Digital Design Criticism&lt;/a&gt; and &lt;a href=&quot;https://www.are.na/gemma-copeland/performance-is-political&quot;&gt;Performance is Political&lt;/a&gt; on Arena&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Here’s to your own garden on the WWW, long may it change!&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Protocols</title>
+      <link href="https://gemmacope.land/writing/protocols/"/>
+      <updated>2019-09-21T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/protocols/</id>
+      <content type="html">&lt;p&gt;I’ve recently been working on a Membership Agreement for &lt;a href=&quot;https://evening-class.org/&quot;&gt;Evening Class&lt;/a&gt;. It’s an attempt to escape &lt;a href=&quot;https://www.jofreeman.com/joreen/tyranny.htm&quot;&gt;the tyranny of structurelessness&lt;/a&gt;, as well as to provide a guide for new members.&lt;/p&gt;
+&lt;p&gt;It’s been a rewarding exercise as it’s prompted us to think about and formalise some of the key principles that underpin everything we do, as well as making clear what forms of support we expect from each other. In some ways, these kinds of protocols can feel unnecessarily formal, but I feel like by having it all written down allows us to address how we treat each other more directly, forming the basis for a greater level of trust within the group.&lt;/p&gt;
+&lt;p&gt;This got me thinking about protocols more broadly, and what they mean for establishing and maintaining self-organised groups.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;In &lt;a href=&quot;https://www.akpress.org/emergentstrategy.html&quot;&gt;Emergent Strategy&lt;/a&gt;, adrienne maree brown highlights the protocol set out by &lt;a href=&quot;https://a4bl.wordpress.com/who-we-are/&quot;&gt;Asians 4 Black Lives&lt;/a&gt;, an intersectional ally group based in the Bay Area. There are so many aspects of this that feel important to me, but to draw out just a few:&lt;/p&gt;
+&lt;p&gt;It sets a framework for building trust, support and solidarity, both within the group and with a wider community. This comes across not only through the content but also in the tone of voice – it is calm and understanding, removing judgement and recognising that there is always an opportunity for growth, on both a personal and collective level.&lt;/p&gt;
+&lt;p&gt;It feels calm, slow and intentional, focused on long-term strategic change rather than short bursts of activity. It leaves space for plurality, highlighting that there is not one single answer or vision, but a multiplicity of different voices and attempts.&lt;/p&gt;
+&lt;p&gt;The conclusion particularly stands out to me:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We submit these principles and protocols with humility and openness. We don’t have it all figured out, but we are committed to taking a stand, and learning as we go. We will not wait to be perfect, because we believe the time is now and we would rather be held accountable for our mistakes than forgiven our inaction.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There is a clear sense of urgency and clarity here, but also the recognition of the inevitability of change. It demonstrates that a protocol is not a fixed set of rules, but something to be constantly questioned and renegotiated by its members.&lt;/p&gt;
+&lt;p&gt;This got me thinking about what Paul Soulellis has been writing about his idea of &lt;a href=&quot;https://docs.google.com/document/d/1gLnHQq2VjPrsRRB_wA-DTmHsRBreET09e-ZpT-j-ez0/edit&quot;&gt;Urgentcraft&lt;/a&gt;. I strongly recommend reading the whole thing, but this particular section feels very important to me:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I love the contradiction here, that to better understand crisis, we may need to recognize the slowness of how conditions evolve, how power operates, the patience to build and fortify over time. Committing to maintenance as a form of urgency. And I think there’s something particularly queer about slowness these days, as a resistance to acceleration and the normative speeding up of things. Especially as it relates to network culture and our production and consumption of media.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I feel like a protocol is a group’s commitment to maintenance, to the practice of becoming. It is a collective attempt to sketch out the world we want to live in, to create the conditions in which we want to practice. It is an ongoing, slow process of resistance and negotiation, grounded in the insistence that another world is possible.&lt;/p&gt;
+&lt;p&gt;Finally, this brings me back to my favourite quote from Emergent Strategy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is such urgency in the multitude of crises we face, it can make it hard to remember that in fact it is urgency thinking (urgent constant unsustainable growth) that got us to this point, and that our potential success lies in doing deep, slow, intentional work.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>A conversation with La Foresta</title>
+      <link href="https://gemmacope.land/writing/a-conversation-with-la-foresta/"/>
+      <updated>2019-10-31T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/a-conversation-with-la-foresta/</id>
+      <content type="html">&lt;p&gt;I recently spent a few weeks in Rovereto, northern Italy, to do a residency at &lt;a href=&quot;https://laforesta.net/&quot;&gt;La Foresta&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While I was there I printed a mini-newsletter, as part of an ongoing project that &lt;a href=&quot;https://evening-class.org/&quot;&gt;Evening Class&lt;/a&gt; is doing for the &lt;a href=&quot;https://www.joaap.org/&quot;&gt;Journal of Aesthetics and Protest&lt;/a&gt;. The newsletter is a short conversation between &lt;a href=&quot;https://www.brave-new-alps.com/&quot;&gt;Brave New Alps&lt;/a&gt;, one of the initiators of the La Foresta project, and two of us from Evening Class.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5166553/original_402df0b692de87cf676de66ce373b57a.jpg?1570125552?bc=0&quot; alt=&quot;Evening Class and La Foresta newsletter&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I’ve added the text of the full interview below.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Evening Class asks La Foresta:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Who are you?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We are an open network of associations, informal groups, social cooperatives and individuals that have come together to create a community academy at the train station of Rovereto, northern Italy. Foresta in Italian means both “forest” and “the foreign woman”: a woman from another place. In both meanings there is an element of mystery. Both fit well the way we want to collaborate and the composition of our network.&lt;/p&gt;
+&lt;p&gt;The project, as it is now, is the result of a two-year collaboration between us and the Municipality of Rovereto. Following an initial project proposal from our side, the municipality signed an nine-year lease with FS, the Italian railway company, to implement a social-cultural project inside a 150m2 indoor space of the train station, plus a 100m2 outdoor space/garden.&lt;br&gt;
+By the end of this year, the space will have been renovated and open its doors to the public. It will be divided into five areas: entrance &amp;amp; convivial waiting room, educational space with kitchen and kids area, event space, workshop, and garden.&lt;/p&gt;
+&lt;p&gt;At the moment there are about 25 people involved. We are quite diverse in terms of gender, age, expertise and areas of interest, which span from migrant support to cultural animation, collective gardening to hacking, digital literacy to practice-based research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What was the motivation for starting La Foresta?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When the group began forming in August 2017, the common wish was to find a space as a shared resource (with floor space, infrastructure, machines, etc) to continue to develop individual activities but also to generate possibilities for encounter, making in common and forging new alliances.&lt;/p&gt;
+&lt;p&gt;Our location inside a train station has been steering our collective imaginary since the beginning. In Rovereto, the station is one of the few places where there is an atmosphere of internationality and diversity, with many social groups traversing the same spot as part of their everyday lives. It is a “portal” connecting Rovereto—which sometimes can feel quite provincial and bourgeois—to the world. This animates us and helps maintain a good level of energy.&lt;/p&gt;
+&lt;p&gt;We have been working from the as-yet-unrenovated space since October 2018. Although it is makeshift, being and working inside the building has helped strengthen the relations within the group and to bring in new people.&lt;/p&gt;
+&lt;p&gt;Some questions we formulated together at the beginning of this adventure are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How might we make a community today?&lt;/li&gt;
+&lt;li&gt;What are the ingredients for building solidarity, resilience and openness?&lt;/li&gt;
+&lt;li&gt;How to respond to the multitude of today’s crises?&lt;/li&gt;
+&lt;li&gt;Where, how and with whom can we begin?&lt;/li&gt;
+&lt;li&gt;What tools do we need?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;One of our main impressions from spending time here is the sense of abundance—people are so generous with their time, attention and resources. What role do you think generosity plays in creating a space like this?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There is a saying in synergic gardening that ci concimiamo a vicenda—“we fertilise each other”. The social relations between us are the most important thing we have, and need to be cultivated and safeguarded, while material resources come and go. We want to build up an environment in which everyone feels free to contribute to the Forest according to their own resources and will, without feeling guilty for giving too much or too little.&lt;br&gt;
+Our approach is that whoever proposes a new activity, tool or method also takes responsibility for it, while feeling supported by others and welcome to try out new things. In the Forest everything is in a permanent state of experimentation and evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you draw a map of your interdependent network?&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;La Foresta asks Evening Class&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Who are you?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;An experiment in self-organised learning. An unwieldy collective effort. 14 members right now. Over 40 members since we started in 2016. A support structure. A common pool of resources. After hours. Cultivating common interests. Open for anyone to join. Flexible and resilient. A group of designers, artists and teachers. Prototyping new methods for living, working and learning together. Based in London. An interdependent network. A space for learning and investigating. A space for empathy. A collection of many voices. Self-supporting. Not-for-profit. In, between, with, around and against the academy and industry. Learning from each other. Working it out as we go.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How do you deal with the fact that some people are more passionate about Evening Class and therefore make more time for it?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It’s hard to get the balance right between individual autonomy and mutual support. It’s important for us to allow everyone to define their own level of commitment. We need to take into account that some people are more interested, motivated or simply have more time than others.&lt;/p&gt;
+&lt;p&gt;On the other hand, we also need to make sure that we’re supporting each other, and that the same people don’t end up doing all the work while others benefit from it. We try to always be aware of, and actively redistribute, the reproductive labour that underpins all of our activities. We collectively write protocols, like our Working Agreement and Membership Agreement, in order to define structures and our expectations of one another.&lt;/p&gt;
+&lt;p&gt;This is perhaps one of the most difficult aspects of our collaboration to work out, as it also changes over time. We don’t have an answer yet.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What makes you feel most alive from all the things you do with Evening Class?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The friendship we have made together within the group. It sometimes feels like this is what holds things together and keeps us turning up, more than any other structure we articulate around it. It’s an unexpectedly collegiate peership, even (especially?) without academics above us setting the agenda.&lt;/p&gt;
+&lt;p&gt;Being in the same space, making something together. Having a space where we’re free to experiment and improvise, and a reliable network that can contribute to and feedback on our projects.&lt;/p&gt;
+&lt;p&gt;The connections we have made to other people, projects and movements in different locations around the world. When we speak to these people and realise (through their reaction) that we are actually creating something valuable and interesting.&lt;br&gt;
+The feeling of being part of a collective, something bigger than yourself.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you make a drawing of your organisational form?&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>What kind of Internet do you want to live in?</title>
+      <link href="https://gemmacope.land/writing/what-kind-of-internet-do-you-want-to-live-in/"/>
+      <updated>2019-11-01T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/what-kind-of-internet-do-you-want-to-live-in/</id>
+      <content type="html">&lt;p&gt;Last weekend was &lt;a href=&quot;https://www.mozillafestival.org/en/&quot;&gt;MozFest&lt;/a&gt;, which is easily my favourite tech event. This is the second year I’ve attended, and although it was different from last year’s experience it was just as exciting. At the end of the festival I always feel so energised and inspired.&lt;/p&gt;
+&lt;p&gt;As with last year, the most exciting part was the people I met and the conversations I had. As &lt;a href=&quot;https://twitter.com/laiyiohlsen/status/1188749697550303241&quot;&gt;Lai Yi&lt;/a&gt; mentions, it is so incredible to go to a conference about the Internet and speak to so many women. The direction that the Internet is heading these days can feel pretty bleak, so it is wonderful to spend a weekend with so many people who are trying their hardest to change its trajectory.&lt;/p&gt;
+&lt;p&gt;I’ve written up some more thoughts as &lt;a href=&quot;http://commonknowledge.coop/&quot;&gt;Common Knowledge&lt;/a&gt; on our &lt;a href=&quot;https://commonknowledge.coop/writing/notes-from-mozfest-2019&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Mushrooms from Epping Forest</title>
+      <link href="https://gemmacope.land/writing/mushrooms-from-epping-forest/"/>
+      <updated>2019-11-17T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/mushrooms-from-epping-forest/</id>
+      <content type="html">&lt;p&gt;Some of the mushrooms KG and I found in &lt;a href=&quot;https://en.wikipedia.org/wiki/Epping_Forest&quot;&gt;Epping Forest&lt;/a&gt;. We managed to find loads of field blewits, which are edible (and delicious)!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5761367/original_d3a71b66353dbe182e45c0c36c3553ea.jpg?1576907036?bc=0&quot; alt=&quot;A close-up of white fungi growing on a log&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5761369/original_2b9a90f2bce952e917884a2f127ea5b5.jpg?1576907044?bc=0&quot; alt=&quot;Harvested field blewits, lying upside down&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5761368/original_5f249f20c66b85f28c4ba69e9943c722.jpg?1576907038?bc=0&quot; alt=&quot;Lots of different types of mushrooms growing amongst Autumn leaves&quot;&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Design &amp; agency</title>
+      <link href="https://gemmacope.land/writing/design-and-agency/"/>
+      <updated>2019-11-27T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/design-and-agency/</id>
+      <content type="html">&lt;p&gt;I recently did a remote lecture for the &lt;a href=&quot;https://www.hbk-bs.de/en/studiengaenge/transformation-design/&quot;&gt;Transformation Design&lt;/a&gt; course at HBK Braunschweig.&lt;/p&gt;
+&lt;p&gt;The students are currently doing a subject on &lt;em&gt;operating systems&lt;/em&gt;, looking at the frameworks and structures that surround design: established and experimental ways of working, cooperation, organisation and solidarity.&lt;/p&gt;
+&lt;p&gt;It made me so happy that this course exists! I spoke about my own practice as a digital designer, the different studios I’ve worked for, collectives I’m part of and the different tools, structures and processes that I’ve learnt about and found useful in my work.&lt;/p&gt;
+&lt;p&gt;I also went on for quite a while about how great I think worker cooperatives are — planning to write this bit up in more detail soon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.are.na/block/5761464&quot;&gt;View the presentation&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Resurgence</title>
+      <link href="https://gemmacope.land/writing/resurgence/"/>
+      <updated>2019-12-21T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/resurgence/</id>
+      <content type="html">&lt;p&gt;I don’t have anything much to add to the post-election cacophony. I know how important reflection is after a result like this, but in the week that has passed since I’ve found that I can’t bear to spend too much time thinking about what has happened, and what it’s going to mean for the next five years, for a country already tearing itself apart, for those who are already suffering and for the vague glimmer of hope I was holding out for decisive climate action.&lt;/p&gt;
+&lt;p&gt;I do want to record what I’ve found to be useful in dealing with the despair, mainly so I can refer back to it when I inevitably feel like this again in the future. Perhaps it will be of some use to others as well.&lt;/p&gt;
+&lt;p&gt;I found out the results about an hour before landing in my hometown – 16,516 km and 28 hours of solitude and mild discomfort and sleep deprivation away from my adopted home. Regardless of how long that flight is, I never think it’s enough. I don’t think that humans should be able to travel that far, that quickly. I always have about a week of &lt;a href=&quot;https://www.are.na/meg-miller/literary-theories-of-jet-lag&quot;&gt;spiritual jetlag&lt;/a&gt;, where I can’t quite believe the difference in weather, culture or people. Everything just feels vaguely unreal and I feel disconnected from everything, in two places at once.&lt;/p&gt;
+&lt;p&gt;The lead-up to the election was manic and completely exhausting, but I was buoyed up by the people I was working with, most of whom I’d never met before: a deep sense of shared purpose and vision of a better future. Finding out suddenly just how badly we’d lost this particular fight, I just felt completely adrift. An abrupt, seismic shift from feeling like I had agency, was part of something bigger than myself, to feeling powerless and completely alone.&lt;/p&gt;
+&lt;p&gt;This week I started reading &lt;a href=&quot;https://www.dukeupress.edu/staying-with-the-trouble&quot;&gt;Staying with the Trouble&lt;/a&gt; by Donna Haraway as a way of distracting myself from the political spectacle. Literally the first page of the introduction begins with exactly what I needed to hear:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Trouble&lt;/em&gt; is an interesting word. It derives from a thirteenth-century French verb meaning “to stir up”, to make cloudy, to disturb. We—all of us on Terra—live in disturbing times, mixed-up times, troubling and turbid times. The task is to become capable, with each other in all of our bumptious kinds, of response.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mixed-up times are overflowing with both pain and joy—with vastly unjust patterns of pain and joy, with unnecessary killing of ongoingness but also with necessary resurgence. Our task to is to make trouble, to stir up potent response to devastating events, as well as to settle trouble waters and rebuild quiet places.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In urgent times, many of us are tempted to address trouble in terms of making an imagined future safe, or stopping something from happening that looms in the future, of clearing away the present and the past in order to make futures for coming generations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Staying with the trouble does not require such a relationship to times called the future. In fact, staying with the trouble requires learning to be truly present, not as a vanishing pivot between awful or edenic pasts and apocalyptic or salvific futures, but as mortal critters entwined in myriad unfinished configurations of places, times, matters, meanings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This staying present (mindfulness 101, I know) has also been the main thing keeping me together on a personal level as well. I usually deal with anxiety by just working more, but haven’t been able to as I just feel too tired and too sad. I start to feel okay again when I just focus everything on exactly what I’m feeling at that moment, focusing on my gratitude for abundant Australian sunshine or how it feels to swim in the ocean.&lt;/p&gt;
+&lt;p&gt;RB pointed out that this theme of resurgence can be found throughout &lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world&quot;&gt;The Mushroom at the End of the World&lt;/a&gt; as well:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One of the most miraculous things about forests is that they sometimes grow back after they have been destroyed. We might think of this as resilience, or as ecological remediation, and I find these concepts useful. But what if we pushed even further by thinking through resurgence? Resurgence is the force of the life of the forest, its ability to spread its seeds and roots and runners to reclaim places that have been deforested.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I like that resurgence inherently requires a period of dormancy. As badly-timed as this election was, at least it has coincided with a time of the year that some of us (in the West) have collectively decided is a time of dormancy. Although it’s incredible to see people immediately respond to this result by looking for ways to directly organise together and support each other, I also think that there is a lot of value to be had in being quiet, shrinking back, contracting, hiding, at least for a little while.&lt;/p&gt;
+&lt;p&gt;The other thing that has kept me going is talking directly to people in my network, both in the UK and Australia. I’m so grateful for the love and support and solidarity across all of these interconnected webs. I’m reminded of a chapter in &lt;a href=&quot;https://www.akpress.org/pleasure-activism.html&quot;&gt;Pleasure Activism&lt;/a&gt; by adrienne maree brown, where she’s talking to Monique Tula, who says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There’s an exclusive, until recently, men-only club near Sonoma, California, called the Bohemian Club. Their motto used to be “spiders, weave not thy web here.” The spiders they’re referring to are women. Members of this club include politicians, university presidents, oil tycoons—basically rich white men who believe they own the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I envision a world full of spiders, weaving interconnected webs that resist patriarchal forms of supremacy that work so well at keeping us distraught, distracted, and divided.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m exhausted but looking forward to 2020, to resurgence and a world full of spiders.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Dissenting Ephemera</title>
+      <link href="https://gemmacope.land/writing/dissenting-ephemera/"/>
+      <updated>2019-12-22T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/dissenting-ephemera/</id>
+      <content type="html">&lt;p&gt;Some of my notes from the Dissenting Ephemera workshop at MayDay Rooms a few weeks ago:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://leftove.rs/&quot;&gt;leftove.rs&lt;/a&gt; is an online archive of radical political ephemera, built in collaboration between &lt;a href=&quot;https://maydayrooms.org/&quot;&gt;MayDay Rooms&lt;/a&gt; and &lt;a href=&quot;https://0x2620.org/&quot;&gt;0x2620 Berlin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;They’ve spent the last year digitising the MayDay Rooms archive and scraping other archives and now have a substantial body of material to work with. They’ve been experimenting with different ways of structuring, distributing and expanding upon this archive. For this workshop, they invited a range of people working in similar areas to share their experiences and contribute to the development of the platform.&lt;/p&gt;
+&lt;p&gt;I was super impressed with the archive — it’s running on &lt;a href=&quot;http://pan.do/ra&quot;&gt;Pandora&lt;/a&gt;, an open source media archive platform which they’ve customised. You can even do a full text search on both PDFs and images. They mentioned that at this stage, the technology behind it is the least of their problems. The challenge now is involving people to structure, use and develop the platform.&lt;/p&gt;
+&lt;h2&gt;Context&lt;/h2&gt;
+&lt;p&gt;Rosemary mentioned in her introduction that all political ephemera requires context — you can’t show it in isolation, it must be positioned within a wider historical context and in relation to other social, cultural and political movements.&lt;/p&gt;
+&lt;p&gt;We discussed different ways of browsing content: not just by time and location but by historical events, social movements, groups, tactics and issues. Of course, a historical event could be anything from one day to a decade, which is an interesting challenge.&lt;/p&gt;
+&lt;p&gt;We also discussed enabling users to make their own collections, providing context in a more freeform and subjective way.&lt;/p&gt;
+&lt;h2&gt;Interoperability&lt;/h2&gt;
+&lt;p&gt;Another recurrent question was around distribution and openness.&lt;/p&gt;
+&lt;p&gt;How do you open up the collections of different institutions? How do you enable interactions and entanglements between different collections? What is the connection between online and offline? How do we find a common syntax so that different archives can talk to each other?&lt;/p&gt;
+&lt;h2&gt;Ephemerality&lt;/h2&gt;
+&lt;p&gt;How do you document and archive radical content that is even more ephemeral and fragmented than printed matter, like social spaces or streets? Nick Thoburn gave the example of Inventory Magazine, which documented, recorded and reproduced found texts created by London’s homeless population.&lt;/p&gt;
+&lt;p&gt;The other example he gave was a book documenting the &lt;a href=&quot;https://baltimoreuprising2015.org/&quot;&gt;2015 Baltimore Uprising&lt;/a&gt;, which consists only of screengrabs from Twitter. The book presents the tweets without introduction or context, insisting that you engage with the tweets themselves. The purpose is not to explain or document the uprising, but to prolong it.&lt;/p&gt;
+&lt;h2&gt;Maintenance&lt;/h2&gt;
+&lt;p&gt;A theme that came up through everyone’s talks was that of care and maintenance. A library isn’t a self-organising system — they often survive due to the hard work of a small handful of people. It takes a long time and a lot of diligent labour. How do you sustain these people and these kinds of projects? How do you make something that works for people, and make it desirable for them to actually use and maintain it?&lt;/p&gt;
+&lt;h2&gt;Layers&lt;/h2&gt;
+&lt;p&gt;Karen Di Franco from &lt;a href=&quot;https://www.bookworks.org.uk/&quot;&gt;Bookworks&lt;/a&gt; spoke about layers of description and subjectivity. She used the example of a photocopied piece of ephemera with handwritten notation on top — how do you document this secondary layer? Does it belong to a different category than an unannotated version of the same thing? How do you describe an iteration on the same object?&lt;/p&gt;
+&lt;p&gt;The act of archiving isn’t an objective process but highly subjective and open to interpretation. The archivist must decide how to describe and categorise something, what information is included and what should be left out.&lt;/p&gt;
+&lt;h2&gt;Activation&lt;/h2&gt;
+&lt;p&gt;Another recurrent theme was around the activation of archives. It’s not enough to just create archives and hope that people will educate themselves — you need to find ways to provide entrypoints and pathways through the content.&lt;/p&gt;
+&lt;p&gt;Tomislav Medak from &lt;a href=&quot;http://memoryoftheworld.org/&quot;&gt;Memory of the World&lt;/a&gt; asked: what’s the political use of what we do? How do you activate these collections and enable radical education? How do you make an archive accessible to a broad range of people? Translation is an important element of this, but there are others aspects to literacy as well. A syllabus can’t just be a reading list.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Some of the people and groups that were there were &lt;a href=&quot;https://www.bannerrepeater.org/&quot;&gt;Banner Repeater&lt;/a&gt;, Nick Thoburn, Memory of the World, Bookworks, &lt;a href=&quot;https://www.metamute.org/&quot;&gt;Mute Magazine&lt;/a&gt;, &lt;a href=&quot;http://www.mazizone.eu/&quot;&gt;MAZI&lt;/a&gt; and &lt;a href=&quot;https://pirate.care/&quot;&gt;Pirate Care&lt;/a&gt;. It was exciting to have all of this experience together in one room, and interesting to see how the same puzzles and themes turn up again and again, in different contexts and across decades.&lt;/p&gt;
+&lt;p&gt;Seeing all these different attempts at peer-to-peer distribution and radical archiving made me feel more strongly than ever that we need to share these tools and resources, rather than having new projects start up and then burn out.&lt;/p&gt;
+&lt;p&gt;I’m collecting any related links and text in this &lt;a href=&quot;https://www.are.na/gemma-copeland/leftove-rs&quot;&gt;Arena channel&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Update, 22.02.2020&lt;/h2&gt;
+&lt;p&gt;I’ve written up what I spoke about in &lt;a href=&quot;https://gemmacope.land/writing/thinking-about-archives/&quot;&gt;this post.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Minjerribah textures</title>
+      <link href="https://gemmacope.land/writing/minjerribah-textures/"/>
+      <updated>2020-01-03T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/minjerribah-textures/</id>
+      <content type="html">&lt;p&gt;Minjerribah textures, feat. cute blob, scribbly gum and interspecies crossroads:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6061611/original_125e61a530371d9e3444820d158bfa54.jpg?1580661165?bc=0&quot; alt=&quot;A moon jelly washed up on the shore&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6061612/original_df967e841cb1b9bbd5d32fdb4077568a.jpg?1580661170?bc=0&quot; alt=&quot;The bark of a scribbly gum, taken on a walk to lake Karboora&quot;&gt;&lt;br&gt;
+&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6061613/original_6fa9bfe8d1d97a3046fd8f4959e6ec7b.jpg?1580661171?bc=0&quot; alt=&quot;Prints in the sand left by birds, dogs, humans and cars&quot;&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>On worker cooperatives</title>
+      <link href="https://gemmacope.land/writing/on-worker-cooperatives/"/>
+      <updated>2020-02-02T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/on-worker-cooperatives/</id>
+      <content type="html">&lt;p&gt;One of my favourite quotes from Bianca Elzenbaumer of &lt;a href=&quot;https://www.brave-new-alps.com/&quot;&gt;Brave New Alps&lt;/a&gt; comes from her 2014 thesis, &lt;a href=&quot;http://research.gold.ac.uk/9920/&quot;&gt;&lt;em&gt;Designing Economic Cultures&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aiming to produce critically-engaged content whilst practicing in conventional ways underestimates the substantial potential designers have to contribute to social change not only through the content of their work, but also through their ways of doing and being.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The origin of the word &lt;em&gt;radical&lt;/em&gt; is &lt;em&gt;from the root&lt;/em&gt;: fundamental, structural. The way that we practice, support ourselves and collaborate with each other hugely impacts the work that we make. If we want to enable radical change, we need to begin by questioning the entire structure of our work.&lt;/p&gt;
+&lt;p&gt;I think that forming a worker cooperative is one way of prefiguring an alternative vision of the future of work. It recognises that we exist within capitalism, that we need to sustain ourselves within this system, but it also offers an alternative model of working: one based on solidarity, interdependence, self-determination and sustainability, rather than profit, growth and individual success.&lt;/p&gt;
+&lt;h2&gt;What is a worker cooperative?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.radicalroutes.org.uk/&quot;&gt;Radical Routes&lt;/a&gt; have created an incredible handbook called &lt;a href=&quot;https://www.seedsforchange.org.uk/workersco-ops.pdf&quot;&gt;&lt;em&gt;How to set up a workers’ co-op&lt;/em&gt;&lt;/a&gt;. In it, they define a workers’ co-op as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A group of people that organise together, as equals, to help everyone in the group. A worker co-op could be defined as a business owned and managed collectively by its workers for their mutual benefit. It’s organised democratically and fairly by (and only by) its members.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All workers’ co-ops follow the seven cooperative principles, which are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open and Voluntary Membership&lt;/li&gt;
+&lt;li&gt;Democratic Member Control&lt;/li&gt;
+&lt;li&gt;Members’ Economic Participation&lt;/li&gt;
+&lt;li&gt;Autonomy and Independence&lt;/li&gt;
+&lt;li&gt;Education, Training, and Information&lt;/li&gt;
+&lt;li&gt;Cooperation Among Cooperatives&lt;/li&gt;
+&lt;li&gt;Concern for Community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Traditional design studio structures&lt;/h2&gt;
+&lt;p&gt;I really enjoyed all the design studios I’ve worked in, and have had highly collaborative working relationships with many of my previous coworkers. But, at the end of the day, collaboration ends with the creative work.&lt;/p&gt;
+&lt;p&gt;Practical details around how the business is run, how much money is actually being made, how much everyone is being paid – these are all intentionally hidden from view. No matter how successful you are, or how fun your work is, you still have a boss. If things go badly, there’s no guarantee that your job will be safe. The result is that individual workers are ultimately in competition with each other, atomised, and stripped of their collective bargaining power.&lt;/p&gt;
+&lt;p&gt;We’re taught an individualistic mindset from the moment we start studying design. We’re shown examples of successful (white/straight/cis/male) designers and taught to admire their individual genius rather than recognise the privilege that enabled their success, or the unnamed junior staff who support them.&lt;/p&gt;
+&lt;h2&gt;Being part of a worker co-op&lt;/h2&gt;
+&lt;p&gt;In my experience, being part of a cooperative has been a revelation on many levels. For one, there’s no hierarchy within the group. I love being in complete control over my own time – I can decide how and when I want to work. I also love not being restricted to one role, or being defined as only a “designer”. I can try out whatever interests me and learn more through the process. This feels much more fitting to what it actually means to be a person.&lt;/p&gt;
+&lt;p&gt;There’s also such a sense of genuine solidarity within the co-op. I think part of this comes from Sociocratic practices like daily check-ins, which enable us to provide emotional and practical support to each other. We can also protect each other from precarity, openly discuss money and collectively decide to distribute finances to whoever needs it most.&lt;/p&gt;
+&lt;p&gt;Our goal at Common Knowledge is to establish a sustainable business model. However, we’re not looking to generate profit – the political, social and educational aspects of our work come first. We collectively decide how to allocate any surplus we create: towards our solidarity work, maintaining our collective or the wider community.&lt;/p&gt;
+&lt;p&gt;Lizzie O’Shea (one of Common Knowledge’s advisory board members) discusses the benefits of worker co-op’s in her book &lt;a href=&quot;https://www.versobooks.com/books/2960-future-histories&quot;&gt;&lt;em&gt;Future Histories&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Structuring organisations in this way creates the strongest incentive among workers to be creative, take responsibility, avoid unnecessary conflict, and monitor and improve performance. In other words, to educate themselves and each other on how best to work with technology. Worker cooperatives are places where workers can play with new skills. They can learn, practice and experiment with new ways of doing things. They can share knowledge and feedback, confident that they will also share in the benefits of any higher productivity that may come about as a result.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Cooperation among cooperatives&lt;/h2&gt;
+&lt;p&gt;We work from &lt;a href=&quot;https://space4.tech/&quot;&gt;Space4&lt;/a&gt;, a co-working space that supports a lot of different co-ops, and we’re part of &lt;a href=&quot;https://www.coops.tech/&quot;&gt;CoTech&lt;/a&gt;, a national network of tech co-ops. It’s so genuinely enjoyable and productive to be a node in both of these networks. We share knowledge and work within the network on a daily basis. I like the fractal nature of all of this – it reminds me of Emergent Strategy (again):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When we speak of systemic change, we need to be fractal. Fractals—a way to speak of the patterns we see—move from the macro to the micro level. We must create patterns that cycle upwards.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6061422/original_611c5b87c4bc932c3f6b47ed49b2dcee.jpg?1580658544?bc=0&quot; alt=&quot;A close-up of some ferns covered in water droplets, taken in the Don Valley, Victoria&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Hyperlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;There’s loads of #bigdata on how workers’ co-ops are actually more productive than traditional businesses on &lt;a href=&quot;https://en.wikipedia.org/wiki/Worker_cooperative#Research_on_worker_cooperatives&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stir To Action run courses on &lt;a href=&quot;https://www.stirtoaction.com/workshops/worker-co-ops&quot;&gt;how to set up a co-op&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Evening Class has an &lt;a href=&quot;https://www.are.na/evening-class-ijv-ziw5qtc/worker-cooperatives-o9ujhogyu00&quot;&gt;Arena channel&lt;/a&gt;, specifically focusing on creative workers’ co-ops&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Thinking about archives</title>
+      <link href="https://gemmacope.land/writing/thinking-about-archives/"/>
+      <updated>2020-02-22T00:00:00+00:00</updated>
+      <id>https://gemmacope.land/writing/thinking-about-archives/</id>
+      <content type="html">&lt;p&gt;This is a rough summary of what I remember talking about at the &lt;a href=&quot;https://gemmacope.land/writing/dissenting-ephemera/&quot;&gt;Dissenting Ephemera&lt;/a&gt; event last December.&lt;/p&gt;
+&lt;p&gt;I put my talk together somewhat last minute. As I was digging through old folders looking for what I wanted to present, I came across an illustration by &lt;a href=&quot;http://www.richardgiblett.com.au/myceliumrhizome.html&quot;&gt;Richard Giblett&lt;/a&gt;, which I’d collected at some point while researching for the Pages Magazine website back in 2014.&lt;/p&gt;
+&lt;p&gt;I realised it was the same image that printed while playing around with the riso printer at La Foresta in Rovereto in late 2019. It must have come up while I was searching &lt;a href=&quot;http://are.na/&quot;&gt;Are.na&lt;/a&gt; for images of rhizomes, and I didn’t realise at the time that I’d seen it before.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6250187/original_f6008933f8c33ed10c5259f24ca8ffcf.jpg?1582377325?bc=0&quot; alt=&quot;La Foresta rhizome&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This is what I love about archiving as a process: I’m continuously collecting, grouping and making connections between things, but most of the time it’s intuitive rather than conscious. Over time, the rhizomatic archive grows in unexpected ways and patterns start to emerge. I like that this growth is a collective endeavour: the archive constantly being reshaped and revisited by its users.&lt;/p&gt;
+&lt;p&gt;For this talk, I spoke about a couple of digital archive projects I’ve worked on over the years, looking for the threads that begin to emerge between them.&lt;/p&gt;
+&lt;h2&gt;A permeable archive&lt;/h2&gt;
+&lt;p&gt;I started working on &lt;a href=&quot;https://www.pagesmagazine.net/&quot;&gt;Pages Magazine&lt;/a&gt; when I was at &lt;a href=&quot;http://lust.nl/&quot;&gt;LUST&lt;/a&gt; in 2014. Pages is a magazine published in Farsi and English, covering topics like art, culture, architecture and new media.&lt;/p&gt;
+&lt;p&gt;We worked in collaboration with Pages’ editors to explore the idea of a permeable archive: one that is in constant flux, shaped by its contributors, shifting contexts and current events.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/6250185/original_d76eda08756c0a58c415046ab20086b6.jpg?1582377312?bc=0&quot; alt=&quot;An excerpt from a presentation for Pages Magazine, illustrating the publishing process&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We wanted to apply a digital mindset to their publishing efforts, approaching it as a permanently unfinished, always evolving process, and collapsing the time and distance between author, editor, publisher and reader. Digital media allows us to separate content from form: content can be kept liquid and open for as long as possible, with form applied only as needed to distribute the content on different platforms. Approached in this way, publishing becomes an open network that invites collaboration and conversation.&lt;/p&gt;
+&lt;p&gt;We thought about what publishing means in an Iranian context, looking for ways that we could leverage digital and peer-to-peer networks to circumvent some of the issues they had with distribution. We came up with the idea of an automated publishing system where authors could contribute and revise articles directly via email. Past versions of each article remain available online, while users could collect single articles into their own custom publications, and download them as PDFs.&lt;/p&gt;
+&lt;h2&gt;An active archive&lt;/h2&gt;
+&lt;p&gt;The second project, which I also worked on at LUST, was for the Sandberg Instituut in Amsterdam.&lt;/p&gt;
+&lt;p&gt;We approached this project thinking about the Sandberg as an archive that is constantly being shaped by its participants. We wanted to apply this concept to the smallest possible element: a typeface. We worked with &lt;a href=&quot;http://carvalho-bernau.com/&quot;&gt;Atelier Carvalho Bernau&lt;/a&gt; on a parametric typeface skeleton and built a generator that allowed students and staff to generate custom iterations of the Sandberg typeface.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5296203/original_218e44ef11a2bfb2a476645eb93298a4.jpg?1571574155?bc=0&quot; alt=&quot;A screenshot of the index page, which lists every word on the site in alphabetical order&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The homepage shows a continuously updating stream of every word and every image in the archive, linked back to its original page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5296208/original_0245c959864c161ba997c897b091c364.png?1571574219?bc=0&quot; alt=&quot;A screenshot showing the &amp;quot;Your Collection&amp;quot; sidebar, where users can collect images and texts from the site&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Visitors can add any element of the site – paragraph, image or page – into a custom collection, which can either be viewed as a presentation or exported to PDF.&lt;/p&gt;
+&lt;h2&gt;A local archive&lt;/h2&gt;
+&lt;p&gt;The final archive was a project I worked on last summer, as part of a residency with &lt;a href=&quot;http://laforesta.net/&quot;&gt;La Foresta&lt;/a&gt; in northern Italy.&lt;/p&gt;
+&lt;p&gt;La Foresta is located inside the local train station, one of the main places in Rovereto where there is an atmosphere of internationality and diversity, with many different social groups traversing the space as part of their everyday lives. It’s a transitory space, a portal connecting Rovereto and the wider world.&lt;/p&gt;
+&lt;p&gt;I wanted to create a digital equivalent of this physical space – an archive of common resources and a platform for community interaction and collaboration. I was interested in setting up a platform for community collaboration that wasn’t dependent upon or tracked by commercial platforms, and finding out how a small-scale, private network might influence how people interact with each other.&lt;/p&gt;
+&lt;p&gt;I set up a local network using the excellent &lt;a href=&quot;http://www.mazizone.eu/&quot;&gt;Mazi project&lt;/a&gt; as a starting point. Anyone within the vicinity can connect to the network via WiFi, and use it to securely add messages, share files, edit documents and chat to others nearby. The network is local and offline-first, meaning it’s only accessible when you’re in the train station itself.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/5115746/original_38a802bbdb5c34b369b56c79bc8b446e.png?1569563808?bc=0&quot; alt=&quot;A screenshot showing homepage portal for La Foresta&#39;s local network&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I hoped that using something as well-documented and user-friendly as Mazi (with some extra La Foresta-specific &lt;a href=&quot;https://gitlab.com/la-foresta/la-foresta-local-network/-/wikis/home&quot;&gt;documentation&lt;/a&gt; added by me) would also make it easy for anyone to contribute and, with a sufficient amount of interest, also to be able to add or modify the network themselves.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Time during quarantine</title>
+      <link href="https://gemmacope.land/writing/time-during-quarantine/"/>
+      <updated>2020-05-27T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/time-during-quarantine/</id>
+      <content type="html">&lt;p&gt;I’ve just finished reading &lt;a href=&quot;https://en.wikipedia.org/wiki/Mrs_Dalloway&quot;&gt;Mrs Dalloway&lt;/a&gt;, which has me thinking a lot about time. (It was originally called The Hours, after all.) It’s such a wonderful book: Woolf effortlessly changes tempo, switches between the inner dialogue of different characters, moves from describing a fleeting present moment in great detail to remembering events long since passed.&lt;/p&gt;
+&lt;p&gt;It was particularly interesting to read this in our current context of lockdown. There seems to be a general consensus that &lt;a href=&quot;https://www.vox.com/2020/5/7/21248259/why-time-feels-so-weird-right-now-quarantine-coronavirus-pandemic&quot;&gt;time is very weird right now&lt;/a&gt;. March was endless while April and May have passed by incredibly quickly. There are ongoing jokes on Twitter about people struggling to remember what day it is, and questioning why we have days of the week at all.&lt;/p&gt;
+&lt;p&gt;There are a number of different explanations for this: our rhythms and routines are messed up, our days are more monotonous, we aren’t going to the events or spaces that we usually use to demarcate our time. At the same time, we’re incredibly anxious, seismic shifts are happening on a global level, and there’s no end in sight.&lt;/p&gt;
+&lt;p&gt;I’m curious how people in different types of jobs are experiencing this time period, from key workers, who are still working and who even before the crisis were more likely to be working irregular shifts, to those who have been furloughed.&lt;/p&gt;
+&lt;p&gt;In Mrs Dalloway, time is both linear and circular: the day progresses steadily, yet the present, past and future are happening all at once. Clocks are an ever-present motif throughout the novel:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Shredding and slicing, dividing and subdividing, the clocks of Harley Street nibbled at the June day, counselled submission, upheld authority, and pointed out in chorus the supreme advantages of a sense of proportion, until the mound of time was so far diminished that a commercial clock, suspended above a shop in Oxford Street, announced… that it was half-past one.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Without these clocks, which serve to bring the characters back to the present moment and also reminding them of their mortality, time is completely personal, subjective, irregular.&lt;/p&gt;
+&lt;p&gt;As we struggle to keep track and make sense of quarantine, it’s not clocks that are reminding us of “objective” time but political events instead. In the essay &lt;a href=&quot;https://www.ribbonfarm.com/2020/03/09/plot-economics/&quot;&gt;Plot Economics&lt;/a&gt;, Venkatesh Rao suggests that during a global narrative collapse like these, we collectively revert to &lt;em&gt;log level time&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Temporality (your constructed sense of subjective time) collapses to what I call the log level. As in, you’re down to monitoring the equivalent of computer event logs; the tick-tock stream of raw events being recorded, prior to being evaluated and filtered for significance.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This pandemic has highlighted that while our perception of time is subjective and personal, we also have a shared understanding of time that is cultural and political:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Whatever time is, calendars and clocks measure, control, and constitute it. […] These logistical media—so fundamental that they sometimes are not seen as media at all—negotiate heaven and earth, nature and culture, cosmic and social organisation, and define our basic orientation to time and also to space. In doing so, they also relieve us of the burden of thinking about what time is and does.&lt;br&gt;
+— from &lt;a href=&quot;https://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html&quot;&gt;The Marvellous Clouds&lt;/a&gt; by John Durham Peters&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.are.na/gemma-copeland/time-during-quarantine&quot;&gt;Time during Quarantine&lt;/a&gt; channel&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>From pages to performances</title>
+      <link href="https://gemmacope.land/writing/from-pages-to-performances/"/>
+      <updated>2020-07-01T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/from-pages-to-performances/</id>
+      <content type="html">&lt;p&gt;&lt;em&gt;This is one of the posts I wrote for the Core Languages blog last semester, as part of a course at Central Saint Martens that introduced graphic design students to the digital design mindset.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;What is unique about digital design as a medium? How can we approach design for screens in a way that is natively digital, rather than an appropriation of print design?&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&quot;https://www.artforum.com/print/201406/the-warhol-files-andy-warhol-s-long-lost-computer-graphics-46874&quot;&gt;this essay&lt;/a&gt;, Cory Arcangel suggests that the term “web performance” is more appropriate for describing the digital medium than “web page”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The term that really drives me up the wall, though, is web page. Page connotes something stable, unchanging, and definite. A book page exists. A book page is. A web page, on the other hand, is a vastly more complicated structure. It is a set of instructions blasted from a server farm across the globe through fiber-optic cables, then interpreted by a computer’s hypertext transfer protocol browser and displayed by a light-emitting-diode screen. All this, by the way, is happening in real time—reconstituted at each millisecond through a unique and contingent tangle of systems—and is supported by the constant churn of the power grid, itself (incredibly) still commonly powered by burning coal. So instead of web page, I’d prefer the term web performance, which would remind us that this information is both immediate and ephemeral. In a sense, it is thousands of coal-powered virtual &lt;a href=&quot;https://sebastianlyserena.dk/form&quot;&gt;Rube Goldberg machines&lt;/a&gt; — lined up from end to end — that power our Facebook Paper apps on our iPhones.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8281019/original_0d895ecd172da7222ec24db394af483c.gif?1597048875?bc=0&quot; alt=&quot;Animation of an antenna transmitting radio waves, showing the electric field lines&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://alistapart.com/article/dao/&quot;&gt;A Dao of Web Design&lt;/a&gt; by John Allsopp is a great starting point for graphic designers learning about the digital design mindset. It was published in 2000 but it’s still very relevant today.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When a new medium borrows from an existing one, some of what it borrows makes sense, but much of the borrowing is thoughtless, “ritual,” and often constrains the new medium. Over time, the new medium develops its own conventions, throwing off existing conventions that don’t make sense.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He speaks about how designing for the web is all about moving away from the conventions of print design, letting go of control and embracing a more flexible, adaptable and systems-based approach.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Firstly, think about what your pages do, not what they look like. Let your design flow from the services which they will provide to your users, rather than from some overarching idea of what you want pages to look like. Let form follow function, rather than trying to take a particular design and make it “work.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He argues that the unpredictability and mutability of the web is a feature, not a bug. Adaptable websites are also more accessible to a wide range of users – people can change the website to suit their own particular needs. A great example of this is the &lt;a href=&quot;https://poeticcomputation.info/&quot;&gt;Poetic Computation Reader&lt;/a&gt; by Taeyoon Choi.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&quot;https://thecreativeindependent.com/people/luna-maurer-on-being-a-designer/&quot;&gt;this interview&lt;/a&gt; for Creative Independent, Luna Maurer of Moniker describes their process-driven approach to design and technology:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We focus on the process rather than on the end product. Or you could say the final product is evolving. In fact, the process and the end product is ideally the same thing: a changing and evolving work. It correlates to the time in which we live and to the media that we use. Technology allows us to go beyond the approach of traditional media, where you print a flyer or sheet of paper. We try to make use of technology and especially react to the technology that surrounds us. It’s exciting to us to include the audience, or the visitors to the site, in order to create something that’s not standing still. It’s a truer way to react to the time that we live in.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Many of Moniker’s projects would be better characterised as performances than websites. The web just happens to be the most appropriate frame for documenting and sharing these performances. In fact, many of their projects, particularly the &lt;a href=&quot;https://conditionaldesign.org/&quot;&gt;Conditional Design&lt;/a&gt; ones, aren’t necessarily computer-based at all — they’re just a set of rules or processes in need of an audience (or participants).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedbyair.net/&quot;&gt;Linked By Air&lt;/a&gt; are another studio that really embraces designing for flux. In this essay &lt;a href=&quot;https://www.dropbox.com/s/vrbohg2yuvc8ex0/Linked%20by%20Air-%20Change.pdf?dl=0&quot;&gt;Change Over Time&lt;/a&gt;, they explain how their interest in change influences their working processes and outputs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When we design a website or an exhibition, we want it to go places we didn’t imagine after we “release” it, and this, more than the supposed wisdom of crowds, is the reason for our interest in distributed authorship. Even though change is the most natural and ubiquitous condition in the universe, we’re fascinated by it, and we try to embed an acknowledgement of this condition into our working process, and into the software and designs we develop.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In &lt;a href=&quot;http://adht.parsons.edu/designstudies/plot/designing-in-liquid-times-generative-graphic-design-in-an-age-of-uncertainty/&quot;&gt;Designing in Liquid Times: Generative Graphic Design in an Age of Uncertainty&lt;/a&gt;, Marlies Peeters gives an overview of different artists and designers that take a more open and fluid approach to their work (sometimes termed generative, relational or process-driven design).&lt;/p&gt;
+&lt;p&gt;What ties all these examples together is the concept of &lt;a href=&quot;https://en.wikipedia.org/wiki/Emergence&quot;&gt;emergence&lt;/a&gt;: the idea that &lt;em&gt;the system efficiently achieves what could not have been achieved by any of its individual agents alone.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8281057/original_696be918991c66f1a06222bd1a8e35b0.gif?1597049388?bc=0&quot; alt=&quot;An animation of Conway&#39;s Game of Life, a cellular automaton and zero player game that demonstrates emergence&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Designing for screens instead of printed material might seem daunting or frustrating at first. It’s important stop trying to apply to same principles as print design, and instead explore the idiosyncracies and strengths of digital digital as an inherently fluid and participatory medium. The exciting thing about digital design is that you can introduce a range of different inputs that will lead you to unexpected places. The most powerful example of this is participatory design, where the audience plays a direct part in creating the end result.&lt;/p&gt;
+&lt;p&gt;Brian Eno talks about this approach in his essay &lt;a href=&quot;http://www.moredarkthanshark.org/eno_int_edge-nov11.html&quot;&gt;Composers as Gardeners&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What this means, really, is a rethinking of one’s own position as a creator. You stop thinking of yourself as me, the controller, you the audience, and you start thinking of all of us as the audience, all of us as people enjoying the garden together.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>This stands as a sketch for the future</title>
+      <link href="https://gemmacope.land/writing/this-stands-as-a-sketch-for-the-future/"/>
+      <updated>2020-07-25T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/this-stands-as-a-sketch-for-the-future/</id>
+      <content type="html">&lt;p&gt;We’ve just launched a website for &lt;a href=&quot;http://claimthefuture.today/&quot;&gt;Claim The Future&lt;/a&gt;, a project led by John McDonnell. &lt;a href=&quot;https://labourlist.org/2020/07/build-better-but-not-back-john-mcdonnells-full-speech/&quot;&gt;The full text of his speech&lt;/a&gt; at the launch on Wednesday gives a good overview of the project:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We must claim the future. We have to ask and answer the questions about what lives we want to live, what communities we want to live in and what future there should be for our planet. If we don’t others will. And it will be the establishment politicians and their corporate controllers that will answer these questions for us.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131617/original_87ba6831844cd8a750bd05bebad54cb5.jpg?1595761445?bc=0&quot; alt=&quot;A smiling sun saying &amp;quot;The Future? Yes Please.&amp;quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Both the identity and website were a joy to work on, so I thought I should document a little bit of the process before I forget about it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Claim the Future aims to respond to the economic and political upheaval caused by the pandemic by uniting the left behind a radical and optimistic vision of the future.&lt;/p&gt;
+&lt;p&gt;The team have drafted a series of position papers that address a wide range of different areas, from healthcare to migrants’ rights. These position papers will form the basis on which to initiate a series of actions and campaigns.&lt;/p&gt;
+&lt;p&gt;What I like about the project is that it’s not just about theory, but practice as well. There’s a strong focus on building a movement and encouraging people to take action.&lt;/p&gt;
+&lt;p&gt;Like &lt;a href=&quot;http://progressive.international/&quot;&gt;Progressive International&lt;/a&gt;, Claim the Future also aims to strengthen and amplify existing initiatives. It’s about uniting the left and taking a step forward, moving past defeat and critical reflection.&lt;/p&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;The brief I was given for the identity design was super exciting in its ambition. They wanted something that felt determined, optimistic without being naively utopian, and communicated a clear break from the past.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://r-b.site/&quot;&gt;RB&lt;/a&gt; and I had many discussions about the aesthetic of the radical left when designing the identity for Progressive International, and this project felt like a great opportunity to continue this inquiry further.&lt;/p&gt;
+&lt;p&gt;Given this was such an visually-led project, we got &lt;a href=&quot;http://michaeloswell.com/&quot;&gt;Michael Oswell&lt;/a&gt; involved as well. (Only the best!) I much prefer working with other designers than working alone – I always feel like the end product is better when there are a few different voices involved.&lt;/p&gt;
+&lt;p&gt;The visual references that John gave were &lt;a href=&quot;https://www.wassilykandinsky.net/painting1896-1944.php&quot;&gt;Kandinsky&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Social_realism&quot;&gt;Social Realism&lt;/a&gt; – amusingly disparate ends of a spectrum. We needed to establish a visual language that communicated an optimistic vision of the future and inspired people to take action, without ignoring the harsh reality of the crisis.&lt;/p&gt;
+&lt;p&gt;I thought that &lt;a href=&quot;https://www.grapheine.com/en/history-of-graphic-design/pierre-bernard-grapus-graphic-design-of-public-utility&quot;&gt;Grapus&lt;/a&gt; was a really good reference for this project. Their work addresses political realities and sketches alternative visions of the future, in way that is visually appealing and accessible.&lt;/p&gt;
+&lt;p&gt;(Sidenote: I highly recommend &lt;em&gt;&lt;a href=&quot;https://draw-down.com/products/what-you-dont-know-grapus-leo-favier&quot;&gt;What, You Don’t Know Grapus?&lt;/a&gt;&lt;/em&gt;. It gives a lot of insight into their process, the realities of being part a collective, and how different people can experience the same thing in entirely different ways.)&lt;/p&gt;
+&lt;h2&gt;Developing the aesthetic&lt;/h2&gt;
+&lt;p&gt;From the beginning, I really wanted to create something that began as an abstract sketch and gradually came to life with loads of colour.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131614/original_4e190562a87cab3cffc7c386c22075f9.jpg?1595761425?bc=0&quot; alt=&quot;Early sketches exploring the relationship of sketches, colour and photography&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I commissioned our friend &lt;a href=&quot;https://www.instagram.com/ilyanna____/?hl=en&quot;&gt;Ilyanna Kerr&lt;/a&gt; to create a series of illustrations for each of the policy areas. We wanted to keep these quite abstract and gestural, a means of visually categorising different papers and actions. This leaves room for people to imagine their own futures, rather than being too prescriptive.&lt;/p&gt;
+&lt;p&gt;I kept thinking about this quote from &lt;a href=&quot;https://twitter.com/zachlieberman/status/1199401656053579780/photo/1&quot;&gt;Muriel Cooper:&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This stands as a sketch for the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mikey had the idea to use a &lt;a href=&quot;https://en.wikipedia.org/wiki/Stellar_corona#/media/File:Solar_eclipse_1999_4_NR.jpg&quot;&gt;stellar corona&lt;/a&gt; as part of the identity. There’s something that I really love about this image in this context… it gives a sense of blank space, ellipsis or a pause, something to be filled.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131609/original_053fa40f4515c8baea5c5749cc05aa1a.jpg?1595761419?bc=0&quot; alt=&quot;An ellipsis made from the Earth, a stellar corona and a blob of red&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This got me looking at images of the earth from space, and aerial photos of empty cities during lockdown. I thought about Stuart Brand’s &lt;a href=&quot;https://medium.com/the-long-now-foundation/earth-and-civilization-in-the-macroscope-82243cad20bd&quot;&gt;“Why haven’t we seen a photo of the whole earth yet?”&lt;/a&gt; campaign, and its impact on global consciousness and the environmental movement. I also read &lt;a href=&quot;https://www.generationc.xyz/ingrid-burrington&quot;&gt;this essay&lt;/a&gt; from Ingrid Burrington around the same time, which offered an interesting counterpoint to this Californian idealism.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Meanwhile, older and slower-burn crises collide with these new ones. The so-called lungs of the planet continue to asphyxiate, carbon dioxide overwhelms oceans, and regulations on polluting technologies are relaxed more and more in the name of a free market. Capitalism’s invisible hand has terraformed the planet to better serve corporate personhood than actual life. There’s anxiety over not just access to fossil fuels, but access to the minerals needed for technologies that might help the world transition away from fossil fuels. We trade oil fields for lithium fields, for fantasies of moon mining. People fight even over the name and date of this era of crisis (Anthropocene or Capitalocene or Chthulucene), trying to turn planetary trauma into a fixed point in rock.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131612/original_67d38ded7c46ceb20e7364961a0ade99.jpg?1595761423?bc=0&quot; alt=&quot;Aerial photography and the Earth from space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I thought it this was a useful tension in this, and that the macro view that aerial photos provide matched the scale and ambition of the project.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131610/original_0752c2cfa0453970e33bb2f1bcc4302b.jpg?1595761420?bc=0&quot; alt=&quot;A typographic layout exploring logos with different verbs&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We didn’t really want to create a logo as such, and felt that the identity was much more powerful when &lt;em&gt;Claim&lt;/em&gt; was replaced with different verbs as well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131613/original_3058717c7cf071ce78519d80684e9974.gif?1595761424?bc=0&quot; alt=&quot;An animated gif with the words &amp;quot;Build, Demand, Transform, Claim the Future&amp;quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The dotted grid emerged as a consistent element tying lots of different pieces together, and alluded to architectural plans or pegboards. We played around with combining all these elements in layouts that gave a sense of breaking from the past or turning a page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131618/original_14d696da924bcc81b239fcf7155fe0cf.jpg?1595761445?bc=0&quot; alt=&quot;Textures and watercolours with illustrations overlaid&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I’m pretty happy with the end result. It’s quite open and there are so many different elements to play with. We’ll hopefully be continuing this project in the future, so I’ll have a chance to develop it even further.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8131619/original_9de122f7651eeab95558817eb2219fa3.jpg?1595761449?bc=0&quot; alt=&quot;The words &amp;quot;Claim the Future&amp;quot; on a textured background&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Join!&lt;/h2&gt;
+&lt;p&gt;There are going to be loads of ways to get involved with this project over the next few months. I think it’s going to be really exciting.&lt;/p&gt;
+&lt;p&gt;You can join as an individual or organisation via &lt;a href=&quot;https://claimthefuture.today/&quot;&gt;the website.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>All lichen, all coral</title>
+      <link href="https://gemmacope.land/writing/all-lichen-all-coral/"/>
+      <updated>2020-08-05T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/all-lichen-all-coral/</id>
+      <content type="html">&lt;p&gt;I’m currently in northern Wales, doing a lot of walking and also reading &lt;a href=&quot;https://www.upress.umn.edu/book-division/books/arts-of-living-on-a-damaged-planet&quot;&gt;Arts of Living on a Damaged Planet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It’s a collection of essays about geology and biology, shared histories and unstable futures, nature and the Anthropocene, featuring many of my favourite writers: Anna Tsing, Donna Harraway, Ursula K Le Guin. It’s split in two halves – &lt;em&gt;Ghosts&lt;/em&gt; and &lt;em&gt;Monsters&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ghosts and monsters are two points of departure for characters, agencies and stories that challenge the double conceit of modern Man. Against the fable of Progress, ghosts guide us through haunted lives and landscapes. Against the conceit of the Individual, monsters highlight symbiosis, the enfolding of bodies within bodies in evolution and in every ecological niche. In dialectical fashion, ghosts and monsters unsettle anthropos from its presumed centre stage in the Anthoropocene by highlighting the webs and histories from which all life emerges.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8282157/original_4839c1e1cb08bc51dda776118f6082e3.jpg?1597058472?bc=0&quot; alt=&quot;A rock covered with lichen and moss, found on the mountain Cadair Idris in Wales&quot;&gt;&lt;/p&gt;
+&lt;p&gt;One of the key thinkers who is mentioned in the book is &lt;a href=&quot;https://en.wikipedia.org/wiki/Lynn_Margulis&quot;&gt;Lynn Margulis&lt;/a&gt;, who “opposed competition-oriented views of evolution, stressing the importance of symbiotic or cooperative relationships between species”. (She also developed the Gaia Theory with James Lovelock.)&lt;/p&gt;
+&lt;p&gt;Her theories on cooperative evolution, now widely accepted in the scientific community, challenge common ideas about nature and individualism. Yet the dominant cultural narrative of the Anthropocene is still one of competition, human exceptionalism and linear progress.&lt;/p&gt;
+&lt;p&gt;Many of the essays describe multispecies entanglements and symbiotic relationships across every scale, from cells to landscapes. The book is all about thinking about complex meshes and entanglements rather than simplified, linear, one-way hierarchies.&lt;/p&gt;
+&lt;p&gt;By highlighting examples of symbosis and collaborative survival in nature, and pointing to the fallacy of seeing humans as apart from nature, it points towards new ways of thinking about how we might live together.&lt;/p&gt;
+&lt;p&gt;I particularly loved the essay Shimmer by &lt;a href=&quot;https://en.wikipedia.org/wiki/Deborah_Bird_Rose&quot;&gt;Deborah Bird Rose&lt;/a&gt;, an anthropologist whose work focuses on multispecies communities living through climate change, based on decades of fieldwork with Indigenous Australians.&lt;/p&gt;
+&lt;p&gt;She introduces the Aboriginal concept of &lt;em&gt;bir’yun&lt;/em&gt; – which translates to “brilliance” or “shimmering”, the ancestral power of life. It is a concept that seeps into all aspects of life, and doesn’t distinguish between nature or culture. One example she uses to describe it is the overlaying different temporal patterns in music and dance; another is in the pulse between wet and dry seasons, as the landscape moves from dullness to brilliance and back again.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Bir’yun&lt;/em&gt; shows us that the world is not composed of gears and cogs but of multifaceted, multispecies relations and pulses. To act as if the world beyond humans is composed of “things” for human use is a catastrophic assault on the diversity, complexity, abundance and beauty of life.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m reminded of much of Le Guin’s writing, especially The Carrier Bag Theory of Fiction, and how we need to write new stories of collaborative survival, &lt;em&gt;against the fable of Progress and the conceit of the Individual&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A major challenge is how to think geological, biological, chemical and cultural activity together, as a network of interactions with shared histories and unstable futures. There is something mythlike in this task: we consider anew the living and the dead; the ability to speak with invisible and cosmic beings; and the possibility of the end of the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Strike!</title>
+      <link href="https://gemmacope.land/writing/strike!/"/>
+      <updated>2020-08-07T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/strike!/</id>
+      <content type="html">&lt;p&gt;At the start of the year, University of the Arts London (UAL) joined the ongoing University and College Union (UCU) strikes, which were centred on the “four fights”:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;falling pay&lt;/li&gt;
+&lt;li&gt;the gender and ethnic pay gap&lt;/li&gt;
+&lt;li&gt;precarious employment practices&lt;/li&gt;
+&lt;li&gt;unsafe workloads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I had only just begun working as an Associate Lecturer, but went on strike out of solidarity. It was eye-opening to learn about the worsening conditions for teaching staff, both through statistics and personal stories. &lt;a href=&quot;https://www.frieze.com/article/why-uk-art-schools-are-strike&quot;&gt;Why UK Art Schools Are On Strike&lt;/a&gt; from Frieze provides a good overview, specifically from an art school perspective.&lt;/p&gt;
+&lt;p&gt;Designers + Cultural Workers (UVW-DCW) helped out by designing &lt;a href=&quot;https://notesfrombelow.org/tag/ucu-pension-strike&quot;&gt;The University Worker&lt;/a&gt;, a rank and file strike bulletin published by Notes from Below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8282020/original_ce51adf53f8d649632b7003f0c3ec646.jpg?1597057221?bc=0&quot; alt=&quot;A photo of the CSM picket line, taken from above. There are people sitting on the ground for a teach-out, and colourful signs laid out on the ground.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We also contributed to a couple of teach-outs: &lt;a href=&quot;https://www.mixcloud.com/strikeradio/designers-need-a-union-too-teach-out-lcc-with-uvwdcw-from-the-ucu-strike-2020/&quot;&gt;a conversation recorded for Strike Radio&lt;/a&gt; about why designers need to unionise, and &lt;em&gt;Unions for Everything&lt;/em&gt; at CSM, alongside some of our UVW sister branches (representing Architects and Sex Workers), &lt;a href=&quot;https://londonrentersunion.org/&quot;&gt;London Renters Union&lt;/a&gt; and &lt;a href=&quot;https://www.mutual-aid.uk/&quot;&gt;Cooperation Town&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Each group spoke about why they exist, what they do, and why we need unions, grassroots organising and mutual aid in all aspects of our lives. We also read through &lt;a href=&quot;https://communemag.com/101-notes-on-the-la-tenants-union/&quot;&gt;101 Notes on the LA Tenants Union&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unfortunately towards the end of the strikes, coronavirus started to dominate the headlines, and London went into lockdown shortly after. The optimism that I felt during the strikes feels very naive now.&lt;/p&gt;
+&lt;p&gt;The ongoing crisis is only going to worsen working conditions within universities and institutions, while social distancing makes it harder for workers to strike. It’s extremely concerning to watch &lt;a href=&quot;https://twitter.com/JoeHayns/status/1290604876129603584&quot;&gt;how cultural institutions are responding to the crisis&lt;/a&gt;, as they begin to reopen their doors.&lt;/p&gt;
+&lt;p&gt;It is encouraging, however, to see union membership surge as a result of this crisis, as this is our best hope for protecting each other and reshaping the industry from below. I’m really proud of the &lt;a href=&quot;https://docs.google.com/document/d/1VhvV2IIZ-ekAsPmuqDUUY7GNPf7UbmJ26aDkbIJMWLE/edit&quot;&gt;statement&lt;/a&gt; UVW-DCW wrote back in March:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We must use this crisis as an opportunity to reframe our industry. Our sector has committed to the prevailing logic of individualisation and competitiveness, to the detriment of its workforce. The status of creative work is increasingly casualised, in the interest of distributing profits unevenly to those at the top. A moment of disruption creates a chance for our industry to be re-assembled in the interests of its workers, with solidarity, community, equality, self-education and care at the centre of all future cultural production.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Further reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://new.100archive.com/article/cultural-sector-timelapse&quot;&gt;Pre- and post-pandemic reflections from Designers + Cultural Workers Union&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://elephant.art/what-is-the-future-for-an-art-world-torn-apart-by-commerce-over-community-06082020/&quot;&gt;What Is the Future for an Art World Torn Apart By Commerce Over Community?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://saveoursouthbank.com/&quot;&gt;Southbank SOS&lt;/a&gt;, an open letter from Southbank staff highlighting their terrifying plans for mass redundancies and switching to a “start-up culture” in 2021&lt;/li&gt;
+&lt;li&gt;Follow &lt;a href=&quot;https://twitter.com/thewhitepube/&quot;&gt;The White Pube&lt;/a&gt; for some of the most enjoyable and on-point publishing about the inherent inequalities of the art world&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Delete your account</title>
+      <link href="https://gemmacope.land/writing/delete-your-account/"/>
+      <updated>2020-08-10T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/delete-your-account/</id>
+      <content type="html">&lt;p&gt;Feel a bit guilty for not having done this earlier, but I’ve finally cancelled my Spotify subscription. This was prompted in part by &lt;a href=&quot;https://musically.com/2020/07/30/spotify-ceo-talks-covid-19-artist-incomes-and-podcasting-interview/&quot;&gt;this recent interview&lt;/a&gt; with Spotify’s CEO, which paints a pretty bleak picture about how they see the future of the music industry. It feels important to find ways to directly support artists, given that they’re some of those hardest hit by lockdown (and that music is one of the things that keeps me sane).&lt;/p&gt;
+&lt;p&gt;I wasn’t using Spotify that much anymore, so I doubt I’ll miss it. I usually just listen to NTS, which recently launched a &lt;a href=&quot;https://www.nts.live/supporters&quot;&gt;Supporters&lt;/a&gt; network.&lt;/p&gt;
+&lt;p&gt;Some of my favourite NTS shows are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/maria-somerville&quot;&gt;Maria Somerville&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/questing-w-zakia&quot;&gt;Questing with Zakia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/post-geography&quot;&gt;Post Geography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/perfect-sound-forever&quot;&gt;Perfect Sound Forever&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/are-you-before&quot;&gt;Are You Before&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/uline-catalog&quot;&gt;Uline Catalog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/soundsofthedawn&quot;&gt;Sounds of the Dawn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/luke-mele&quot;&gt;Luke Mele&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nts.live/shows/moony-habits&quot;&gt;Moony Habits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aside from that, I’m going to keep building my &lt;a href=&quot;https://bandcamp.com/&quot;&gt;Bandcamp&lt;/a&gt; library, and maybe also try &lt;a href=&quot;https://resonate.is/&quot;&gt;Resonate&lt;/a&gt;, a music streaming service and platform co-op that values fairness and control.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Hyperlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.are.na/gemma-copeland/listen-to-this-8z3shemr_fe&quot;&gt;Listen to This&lt;/a&gt;, an Arena channel of my favourite songs and mixes&lt;/li&gt;
+&lt;li&gt;Mat Dryhurst often discusses alternatives to major labels and streaming platforms, on &lt;a href=&quot;https://gemmacope.land/writing/delete-your-account/(https://twitter.com/matdryhurst/status/1289524738205683713)&quot;&gt;Twitter&lt;/a&gt; as well as on &lt;a href=&quot;https://interdependence.fm/episodes&quot;&gt;Interdependence&lt;/a&gt;, the podcast he co-hosts with Holly Herndon.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Teaching digital</title>
+      <link href="https://gemmacope.land/writing/teaching-digital/"/>
+      <updated>2020-08-10T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/teaching-digital/</id>
+      <content type="html">&lt;p&gt;Last semester I started teaching Digital as part of &lt;a href=&quot;https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm&quot;&gt;BA Graphic Communication Design&lt;/a&gt; at Central Saint Martins.&lt;/p&gt;
+&lt;p&gt;My class was part of the Core Languages course, which included other classes like Typography, Print and Production, and Photography. The idea behind this was to introduce second year students to foundational concepts and skills that could then feed into their wider graphic design practice and the longer term, research-based projects from their other classes.&lt;/p&gt;
+&lt;p&gt;The somewhat unusual thing about these classes was that they were more like drop-in sessions: each week the students could choose a different Core Language class to attend. They could also choose to attend every class from one Core Language over the semester. This meant that each class needed to be self-contained, so newcomers could understand it, while also remaining interesting for those who had been to previous classes.&lt;/p&gt;
+&lt;p&gt;It was also quite a strange time to start teaching: from February there were four weeks of &lt;a href=&quot;https://gemmacope.land/writing/strike/&quot;&gt;strike action&lt;/a&gt;, and then from the beginning of March we started to see the impacts of coronavirus.&lt;/p&gt;
+&lt;h2&gt;What I taught&lt;/h2&gt;
+&lt;p&gt;My class was all about introducing students to the mindset and fundamental principles, process and technologies used in digital design.&lt;/p&gt;
+&lt;p&gt;As I’m deeply interested in politics as well as digital design, I wanted to make sure that we examined digital design and development in a critical and expansive way, rather than just “learning to code”. My aim was to contextualise these principles within the wider social, political and historical contexts of digital media, and reflect upon how these developments have changed how we think, communicate and design.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why does it matter? Because we live in media, as fish live in water. We can and must design the media, design the molecules of our new water, and I believe the details of this design matter very deeply.&lt;br&gt;
+— Ted Nelson, Computer Lib / Dream Machines&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8281457/original_606e21ec912d751cf83d97bbf0a2d751.jpg?1597051119?bc=0&quot; alt=&quot;An image of bubbles underwater, edited to be &amp;quot;digital blue&amp;quot; (#0000ff)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Each week, I would do a short lecture followed by a couple of hours of workshop time. Halfway through, I’d usually do another mini-lecture and introduce more complexity to the task they were working on.&lt;/p&gt;
+&lt;p&gt;I am completely indebted to the designers and teachers that have generously put their syllabi online, including &lt;a href=&quot;http://minkyoungkim.com/teaching/gdfws19/&quot;&gt;Minkyoung Kim&lt;/a&gt;, &lt;a href=&quot;https://designforthe.net/&quot;&gt;Mindy Seu&lt;/a&gt;, &lt;a href=&quot;https://veryinteractive.net/&quot;&gt;Laurel Schwulst&lt;/a&gt; and &lt;a href=&quot;http://talking-digital.net/&quot;&gt;Sasha Portis&lt;/a&gt;. Learning to teach and developing a new course at the same time is really difficult, and I think I would be completely lost if I didn’t have their work to build upon.&lt;/p&gt;
+&lt;p&gt;I’m also grateful for Jaap De Maat being such a friendly and supportive course leader.&lt;/p&gt;
+&lt;h2&gt;Workshops&lt;/h2&gt;
+&lt;h3&gt;Week 1: What is the Internet?&lt;/h3&gt;
+&lt;p&gt;I gave a rundown of the history of the internet and the web, how they have developed over time, and how the language and metaphors we use fundamentally shape how we understand complex technologies.&lt;/p&gt;
+&lt;p&gt;I wanted to begin the course without any computers involved, so that we could discuss the medium in a purely conceptual way. We did a workshop where students shared their earliest memories of the internet and drew how they visualised its past, present and future.&lt;/p&gt;
+&lt;h3&gt;Week 2: Digital Publishing&lt;/h3&gt;
+&lt;p&gt;We began by discussing the unique characteristics of digital publishing, and how different platforms shape and contextualise meaning.&lt;/p&gt;
+&lt;p&gt;The workshop was a condensed version of &lt;em&gt;Republish a Text&lt;/em&gt;, originally developed by &lt;a href=&quot;http://clementvalla.com/&quot;&gt;Clement Valla&lt;/a&gt;. Students selected an existing text and then republished it on a new platform, paying attention to how they could edit and add new meaning through this process.&lt;/p&gt;
+&lt;h3&gt;Week 3: The ABC of WWW&lt;/h3&gt;
+&lt;p&gt;This week was an overview of how a website is actually made. I explained the basics of setting up hosting and domains, what tools you need to create and publish websites, and where to learn more.&lt;/p&gt;
+&lt;p&gt;I also introduced the basics of HTML, and showed them how they could get something online super quickly and for free using GitHub Pages. I thought this would be pretty simple but there were all sorts of unexpected problems – in the future, I’d definitely try to squeeze less into one workshop and allow more time for troubleshooting.&lt;/p&gt;
+&lt;h3&gt;Week 4: HTML and CSS Basics&lt;/h3&gt;
+&lt;p&gt;I gave a lecture on  designing for screens and the different things that designers need to consider, including interactivity, user participation and variability.&lt;/p&gt;
+&lt;p&gt;Then I gave another rundown on HTML and got them to markup one of their essays with basic HTML. After the break, I gave an introduction to CSS so that they could apply basic styling to the same text.&lt;/p&gt;
+&lt;p&gt;In these classes, it was really hard to find a balance between those who either got it immediately or had done it before, and those who required a lot more guidance. I’m still not sure what the best way to approach a class like this is. I think that perhaps I should prepare HTML and CSS files beforehand so students can begin tinkering with these, and then move on to marking up their own text.&lt;/p&gt;
+&lt;p&gt;Out of all the things I shared, &lt;a href=&quot;https://jgthms.com/web-design-in-4-minutes/&quot;&gt;Web Design in 4 Minutes&lt;/a&gt; seemed to be the most successful in explaining HTML and CSS.&lt;/p&gt;
+&lt;p&gt;One thing that I ended up explaining many times was that the HTML and CSS files need to be able to talk to each other. A friend suggested that I compare it to how images break in InDesign if you move the Links folder – I need to try this next time.&lt;/p&gt;
+&lt;h3&gt;Week 5: CSS Compositions&lt;/h3&gt;
+&lt;p&gt;In this class, I introduced the box model, layout and positioning in CSS, then had them recreate &lt;a href=&quot;https://www.are.na/gemma-copeland/css-compositions&quot;&gt;abstract compositions&lt;/a&gt; using just CSS.&lt;/p&gt;
+&lt;p&gt;This was one of the classes where it was quite hard to cater to different experience levels. I ended up revisiting the past few weeks of tutorials with the half of the class that hadn’t been there previously.&lt;/p&gt;
+&lt;h2&gt;Writing&lt;/h2&gt;
+&lt;p&gt;The second half of the semester was taught entirely online, due to coronavirus. Rather than record lectures or try to deliver workshops over a video conferencing platform, we were asked to spend a few hours a week researching and writing posts for the Core Languages blog.&lt;/p&gt;
+&lt;p&gt;I began by writing about digital tools and spaces that allow for creativity, expression and social closeness online, given that everyone was having to suddenly adapting to social distancing, lockdown and living their entire lives online. Examples included &lt;a href=&quot;https://en.wikipedia.org/wiki/Place_(Reddit)&quot;&gt;Place&lt;/a&gt;, one of my favourite examples of Internet culture, creative online collaboration and emergence in both digital aesthetics and social structures. I also wrote about spatial interfaces, collaborative world-building and digital-first art experiences.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8280988/original_ff707fe595aa9602c696c75bdc3a2c6c.gif?1597048211?bc=0&quot; alt=&quot;A timelapse of the subreddit r/place/, a canvas for collaborative pixel art that was online for 72 hours in 2017&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I also wrote about how digital design is about &lt;a href=&quot;https://gemmacope.land/writing/from-pages-to-performances/&quot;&gt;embracing flux&lt;/a&gt;, what makes a &lt;a href=&quot;https://howtocode.club/hypertext/&quot;&gt;good website&lt;/a&gt;, my web design process, user experience basics, accessibility and web typography.&lt;/p&gt;
+&lt;h2&gt;What I learned&lt;/h2&gt;
+&lt;p&gt;This was my first time teaching over a longer period of time, rather than workshops, so it was quite a steep learning curve for me. I found the “drop-in” nature of the course particularly challenging, as it made it harder to progress to more complex ideas over the semester. It was very hard to find the right amount of complexity, without boring some students or overwhelming others.&lt;/p&gt;
+&lt;p&gt;I think it would have been useful to have a better understanding of how much students knew already and what they wanted to learn. &lt;a href=&quot;https://piperhaywood.com/&quot;&gt;PH&lt;/a&gt; sent around a survey to this effect before starting her workshops at LCC, which I thought was a great idea. I did a bit of this in an ad hoc way by asking students at the end of each class what they thought and what they wanted to learn more about. Generally the response was Processing (generative design) or how to make a folio website.&lt;/p&gt;
+&lt;p&gt;I have strong doubts about how useful it is to just teach someone a toolset rather than a way of thinking. For that reason, I tried to make sure that the course was primarily about understanding digital media as a landscape and medium. The hope was that those who found this interesting would be able to research and learn more in their own time.&lt;/p&gt;
+&lt;p&gt;In reality, I feel that this was sometimes too abstract and disconnected from what we did in the workshops. I’d like to get better at making a more direct link between theory and practice.&lt;/p&gt;
+&lt;p&gt;If I were to do it again, I’m not sure if I would jump straight into HTML and CSS like I did this time. I feel like it would have been more successful to focus more heavily on the design side, while pointing students towards where they could learn more about web development.&lt;/p&gt;
+&lt;p&gt;I also realised after a few classes that I’m very susceptible to exhausting myself by over-teaching – I need to relax a bit, try not to fit too much into each class, and not expect myself to know everything.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Llyn Cau</title>
+      <link href="https://gemmacope.land/writing/llyn-cau/"/>
+      <updated>2020-08-16T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/llyn-cau/</id>
+      <content type="html">&lt;p&gt;&lt;img src=&quot;https://d2w9rnfcy7mm78.cloudfront.net/8350585/original_dc6e16a70db939d85043a0945ff60c58.jpg?1597593435?bc=0&quot; alt=&quot;A steep, mossy slope leading down to a clear, still lake&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A very misty Llyn Cau, halfway up &lt;a href=&quot;https://en.wikipedia.org/wiki/Cadair_Idris&quot;&gt;Cadair Idris&lt;/a&gt; in Wales.&lt;/p&gt;
+&lt;p&gt;We hiked most of this trail through low clouds. We noticed it getting warmer as we got closer to the peak, and then suddenly we were above the clouds and in brilliant sunshine.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Making writing a habit</title>
+      <link href="https://gemmacope.land/writing/making-writing-a-habit/"/>
+      <updated>2020-09-19T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/making-writing-a-habit/</id>
+      <content type="html">&lt;p&gt;I really want to make writing more of a habit.&lt;/p&gt;
+&lt;p&gt;Alex linked us to Matt Webb’s &lt;a href=&quot;http://interconnected.org/home/2020/09/10/streak&quot;&gt;15 rules for blogging&lt;/a&gt; the other day. Matt suggests that the way to publish often is to not be precious about what you’re writing, and to focus on one thing at a time:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One idea per post. If I find myself launching into another section, cut and paste the extra into a separate draft post, and tie off the original one with the word “Anyway.” Then publish.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Hyperfocus</title>
+      <link href="https://gemmacope.land/writing/hyperfocus/"/>
+      <updated>2020-09-19T00:00:00+01:00</updated>
+      <id>https://gemmacope.land/writing/hyperfocus/</id>
+      <content type="html">&lt;p&gt;Over the last few weeks I’ve been trying to apply the principles of &lt;a href=&quot;https://www.waterstones.com/book/hyperfocus/chris-bailey/9781509866137&quot;&gt;Hyperfocus&lt;/a&gt; to my work. Productivity books aren’t the kind of thing I’d usually read, but this one has actually been quite useful.&lt;/p&gt;
+&lt;p&gt;A lot of it just seems like common sense, like recognising that you have a finite amount of attention you can spend in every moment. It’s basically about applying meditation techniques to daily life to make the most of your attention. It starts with being more aware of the kinds of work you’re doing, which parts are purposeful and which parts are unnecessary busy-work.&lt;/p&gt;
+&lt;p&gt;It’s a lot about intention-setting: intentions for the hyperfocus session (an hour or less), for the day and for the week as well.&lt;/p&gt;
+&lt;p&gt;He summarises the core idea of hyperfocus as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Keep one important, complex object of attention in your awareness as you work.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You decide what this object of attention should be, set a timer for how long you want to focus on it, eliminate any distractions and give it your full attention.&lt;/p&gt;
+&lt;p&gt;As with meditation, if you catch your mind wandering, you gently draw it back to the task at hand.&lt;/p&gt;
+&lt;p&gt;The counterpoint to hyperfocus is scatterfocus, where you just let your mind wander and observe where it goes. This is where the more creative thinking comes in, associations between otherwise unrelated ideas.&lt;/p&gt;
+&lt;p&gt;There are a number of other techniques in it that I’ve found really useful, like writing down “open loops” that are distracting or worrying you, and scheduling specific blocks of time to check email each day.&lt;/p&gt;
+&lt;p&gt;I liked the book because it’s ultimately about working less and making sure you allow yourself to recharge. I am definitely someone who tends to work too much, and tends towards anxiety as well. It was so useful for me to read this because it reminded me that overworking and multitasking doesn’t lead to better results.&lt;/p&gt;
+</content>
+    </entry>
+  </feed>
