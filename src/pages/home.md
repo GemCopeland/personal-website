@@ -32,6 +32,8 @@ sameAs:
 colleagues:
   - name: Evening Class
     url: https://evening-class.org/
+  - name: Miber Engineering
+    url: http://www.miber.co.uk/
 
 
 workList:
