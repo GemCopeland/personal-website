@@ -30,6 +30,8 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
+  - name: Alexandra Margetic
+    url: https://aa-m.co/
   - name: Alessia Acuri 
     url: https://alessiaarcuri.com/
   - name: Evening Class
