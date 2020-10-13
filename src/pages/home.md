@@ -30,10 +30,16 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
+  - name: Alessia Acuri 
+    url: https://alessiaarcuri.com/
   - name: Evening Class
     url: https://evening-class.org/
+  - name: Gemma Copeland
+    url: https://gemmacope.land/
   - name: Miber Engineering
     url: http://www.miber.co.uk/
+  - name: Robbie Blundell
+    url: https://r-b.site/
 
 
 workList:
