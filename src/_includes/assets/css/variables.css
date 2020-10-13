@@ -1,7 +1,7 @@
 :root {
-  --color-1: #6100ff; /* Customise */
-  --color-2: #dfccff; /* Customise */
-  --color-black: #353535;
+  --color-1: hsl(0, 0%, 32%); /* Customise */
+  --color-2: #FFFFCC; /* Customise */
+  --color-black: black;
   --color-grey: #eaeaea;
   --color-grey-dark: #8a8a8a;
   --color-grey-light: #f8f8f8;
