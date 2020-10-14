@@ -45,10 +45,8 @@ colleagues:
 
 
 workList:
-  - text: Claim the Future
-    url: http://localhost:8080/writing/hyperfocus/
-  - text: Progressive International
-    url: https://progressive.international/
+  - text: My First Post
+    url: https://heuristic-pasteur-d625a4.netlify.app/writing/hyperfocus/
 
 ##################
 #### Credits #####
@@ -58,7 +56,7 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  Last updated: 08.2020
+  Last updated: 10.2020
 ---
 
 Interdisciplinary industrial designer currently based in London. Junior Designer at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).

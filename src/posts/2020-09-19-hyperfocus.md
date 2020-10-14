@@ -1,5 +1,5 @@
 ---
-title: Hyperfocus
+title: My First Post
 displayTitle: false
 tags:
   - work
