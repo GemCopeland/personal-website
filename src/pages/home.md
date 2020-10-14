@@ -46,7 +46,7 @@ colleagues:
 
 workList:
   - text: My First Post
-    url: https://heuristic-pasteur-d625a4.netlify.app/writing/hyperfocus/
+    url: https://heuristic-pasteur-d625a4.netlify.app/writing/my-first-post/
 
 ##################
 #### Credits #####
