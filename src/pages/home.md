@@ -56,7 +56,7 @@ workList:
 credits: |
   This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Your data isn’t collected when using this site.
 
-  [Subscribe to RSS](https://gemmacope.land/feed.xml)
+  <!--[Subscribe to RSS](https://gemmacope.land/feed.xml)-->
 
   Last updated: 10.2020
 ---
