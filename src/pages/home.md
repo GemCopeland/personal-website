@@ -45,8 +45,8 @@ colleagues:
 
 
 workList:
-  - text: My First Post
-    url: https://heuristic-pasteur-d625a4.netlify.app/writing/my-first-post/
+  - text: ECsemblage Magazine
+    url: https://f618.info/writing/ecsemblage-magazine/
 
 ##################
 #### Credits #####
