@@ -1,7 +1,7 @@
 ---
 title: National Trust
-type: Exhbition Design
-location: Hardwick and Clumber Park, Trelissick Park, Montacute House
+type: Exhibition Design
+location: Hardwick and Clumber Park, Trelissick Park, Montacute House, UK
 subtext: as part of Realise Live
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 2019-10-17
