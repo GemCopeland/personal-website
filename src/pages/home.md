@@ -61,4 +61,4 @@ credits: |
   Last updated: 10.2020
 ---
 
-Interdisciplinary industrial designer currently based in London. Junior Designer at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
+Industrial designer currently based in London. Junior Designer at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
