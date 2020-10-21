@@ -1,5 +1,5 @@
 ---
 title: Thinking
-layout: layouts/thinking.njk
+layout: layouts/arena.njk
 metaDescription:
 ---
