@@ -7,7 +7,7 @@
   padding-right: var(--gutter);
 }
 
-.thinking .panel--blocks .panel-contents section,
+.arena .panel--blocks .panel-contents section,
 .panel--profile .panel-contents section {
   margin-bottom: 3.125rem;
 }
@@ -24,7 +24,7 @@
   display: none;
 }
 
-.thinking {
+.arena {
   background-color: var(--color-grey-light);
 }
 

@@ -3,7 +3,7 @@
     --gutter: 1.25rem;
   }
 
-  .thinking {
+  .arena {
     background-color: var(--color-white);
   }
 
@@ -37,15 +37,15 @@
   .home,
   .home body,
   .home main,
-  .thinking,
-  .thinking body,
-  .thinking main {
+  .arena,
+  .arena body,
+  .arena main {
     height: 100%;
     overflow: hidden;
   }
 
   .home body > footer,
-  .thinking body > footer {
+  .arena body > footer {
     /* Visually hide */
     clip: rect(1px, 1px, 1px, 1px);
     height: 1px;
@@ -64,7 +64,7 @@
   }
 
   .home main,
-  .thinking main {
+  .arena main {
     display: flex;
   }
 
@@ -79,7 +79,7 @@
     -webkit-overflow-scrolling: touch;
   }
 
-  .thinking .panel--blocks .panel-contents section {
+  .arena .panel--blocks .panel-contents section {
     margin-bottom: 1.25rem;
   }
 
@@ -127,7 +127,7 @@
 
 @media screen and (min-width: 55em) {
   .home .panel--profile footer,
-  .thinking .panel--profile footer {
+  .arena .panel--profile footer {
     display: flex;
   }
 }
