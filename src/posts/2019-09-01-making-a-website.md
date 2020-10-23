@@ -2,7 +2,7 @@
 title: Making a website
 displayTitle: true
 tags:
-  - digital design
+  - design
   - open work
   - open web
   - conversation

@@ -3,7 +3,7 @@ title: This stands as a sketch for the future
 displayTitle: true
 tags:
   - process
-  - identity design
+  - design
   - open work
 ---
 

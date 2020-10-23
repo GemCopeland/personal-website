@@ -4,6 +4,7 @@ displayTitle: false
 tags:
   - work
   - intentions
+  - reading
 ---
 
 Over the last few weeks I've been trying to apply the principles of [Hyperfocus](https://www.waterstones.com/book/hyperfocus/chris-bailey/9781509866137) to my work. Productivity books aren't the kind of thing I'd usually read, but this one has actually been quite useful.

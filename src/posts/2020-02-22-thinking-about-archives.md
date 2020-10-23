@@ -3,7 +3,7 @@ title: Thinking about archives
 displayTitle: true
 tags:
   - archives
-  - digital design
+  - design
   - LUST
   - La Foresta
   - teaching

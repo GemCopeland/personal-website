@@ -4,7 +4,7 @@ displayTitle: true
 tags:
   - teaching
   - learning
-  - digital design
+  - design
   - open work
 ---
 

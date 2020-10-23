@@ -2,9 +2,10 @@
 title: Resurgence
 displayTitle: true
 tags:
-  - collective care
-  - mental health
+  - care
+  - health
   - urgency
+  - reading
 ---
 
 I don't have anything much to add to the post-election cacophony. I know how important reflection is after a result like this, but in the week that has passed since I've found that I can't bear to spend too much time thinking about what has happened, and what it's going to mean for the next five years, for a country already tearing itself apart, for those who are already suffering and for the vague glimmer of hope I was holding out for decisive climate action.
