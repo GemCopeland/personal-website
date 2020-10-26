@@ -15,6 +15,8 @@ It builds upon the work and principles of the [Design Justice Network](https://d
 
 > Design justice rethinks design processes, centers people who are normally marginalized by design, and uses collaborative, creative practices to address the deepest challenges our communities face.
 
+<!-- more -->
+
 ## Intersectionality in design
 The first part is really about exploring design's relationship to power and privilege. They use the concept of the [matrix of domination](https://en.wikipedia.org/wiki/Matrix_of_domination), an intersectional analysis of oppression. They use this to explain how design decisions can privilege certain people over others, regardless of whether this was the designer's intention.
 
