@@ -30,16 +30,19 @@ He speaks about how designing for the web is all about moving away from the conv
 
 He argues that the unpredictability and mutability of the web is a feature, not a bug. Adaptable websites are also more accessible to a wide range of users – people can change the website to suit their own particular needs. A great example of this is the [Poetic Computation Reader](https://poeticcomputation.info/) by Taeyoon Choi.
 
+## Process-driven design
 In [this interview](https://thecreativeindependent.com/people/luna-maurer-on-being-a-designer/) for Creative Independent, Luna Maurer of Moniker describes their process-driven approach to design and technology: 
 
 > We focus on the process rather than on the end product. Or you could say the final product is evolving. In fact, the process and the end product is ideally the same thing: a changing and evolving work. It correlates to the time in which we live and to the media that we use. Technology allows us to go beyond the approach of traditional media, where you print a flyer or sheet of paper. We try to make use of technology and especially react to the technology that surrounds us. It’s exciting to us to include the audience, or the visitors to the site, in order to create something that’s not standing still. It’s a truer way to react to the time that we live in.
 
 Many of Moniker's projects would be better characterised as performances than websites. The web just happens to be the most appropriate frame for documenting and sharing these performances. In fact, many of their projects, particularly the [Conditional Design](https://conditionaldesign.org/) ones, aren't necessarily computer-based at all — they're just a set of rules or processes in need of an audience (or participants).
 
+## Designing for flux
 [Linked By Air](https://www.linkedbyair.net/) are another studio that really embraces designing for flux. In this essay [Change Over Time](https://www.dropbox.com/s/vrbohg2yuvc8ex0/Linked%20by%20Air-%20Change.pdf?dl=0), they explain how their interest in change influences their working processes and outputs.
 
 > When we design a website or an exhibition, we want it to go places we didn't imagine after we "release" it, and this, more than the supposed wisdom of crowds, is the reason for our interest in distributed authorship. Even though change is the most natural and ubiquitous condition in the universe, we're fascinated by it, and we try to embed an acknowledgement of this condition into our working process, and into the software and designs we develop.
 
+## Emergence
 In [Designing in Liquid Times: Generative Graphic Design in an Age of Uncertainty](http://adht.parsons.edu/designstudies/plot/designing-in-liquid-times-generative-graphic-design-in-an-age-of-uncertainty/), Marlies Peeters gives an overview of different artists and designers that take a more open and fluid approach to their work (sometimes termed generative, relational or process-driven design).
 
 What ties all these examples together is the concept of [emergence](https://en.wikipedia.org/wiki/Emergence): the idea that *the system efficiently achieves what could not have been achieved by any of its individual agents alone.*

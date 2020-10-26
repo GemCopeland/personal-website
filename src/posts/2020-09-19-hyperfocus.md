@@ -11,6 +11,7 @@ Over the last few weeks I've been trying to apply the principles of [Hyperfocus]
 
 A lot of it just seems like common sense, like recognising that you have a finite amount of attention you can spend in every moment. It's basically about applying meditation techniques to daily life to make the most of your attention. It starts with being more aware of the kinds of work you're doing, which parts are purposeful and which parts are unnecessary busy-work.
 
+## Setting intentions
 It's a lot about intention-setting: intentions for the hyperfocus session (an hour or less), for the day and for the week as well.
 
 He summarises the core idea of hyperfocus as:
@@ -21,6 +22,7 @@ You decide what this object of attention should be, set a timer for how long you
 
 As with meditation, if you catch your mind wandering, you gently draw it back to the task at hand.
 
+## Scatterfocus and recharging
 The counterpoint to hyperfocus is scatterfocus, where you just let your mind wander and observe where it goes. This is where the more creative thinking comes in, associations between otherwise unrelated ideas.
 
 There are a number of other techniques in it that I've found really useful, like writing down "open loops" that are distracting or worrying you, and scheduling specific blocks of time to check email each day.
