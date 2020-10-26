@@ -10,7 +10,6 @@ tags:
 
 I've just finished reading [Design Justice](https://mitpress.mit.edu/books/design-justice) by Sasha Costanza-Chock. This book really should be required reading for any designer working today.
 
-## What is design justice?
 It builds upon the work and principles of the [Design Justice Network](https://designjustice.org/). This is how they define design justice:
 
 > Design justice rethinks design processes, centers people who are normally marginalized by design, and uses collaborative, creative practices to address the deepest challenges our communities face.
