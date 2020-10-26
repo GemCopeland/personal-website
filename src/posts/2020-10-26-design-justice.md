@@ -68,6 +68,6 @@ Which reminded me of a quote from [Lisa Nyberg](http://www.lisanyberg.net/pedago
 
 ## Reading list
 Some related books I want to read next:
-- [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
+- [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) by Paulo Friere
 - [Designs for the Pluriverse](https://www.dukeupress.edu/designs-for-the-pluriverse) by Arturo Escobar – this book has now come up in loads of others books, podcasts and on Twitter
 - [+KAOS: Ten Years of Hacking and Media Activism](https://networkcultures.org/blog/publication/kaos-ten-years-of-hacking-and-media-activism/)
