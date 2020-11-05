@@ -10,7 +10,7 @@ tags:
 
 I've just finished reading [Design Justice](https://mitpress.mit.edu/books/design-justice) by Sasha Costanza-Chock. This book really should be required reading for any designer working today.
 
-It builds upon the work and principles of the [Design Justice Network](https://designjustice.org/). This is how they define design justice:
+It builds upon the work and principles of the [Design Justice Network](https://designjustice.org/), defined as:
 
 > Design justice rethinks design processes, centers people who are normally marginalized by design, and uses collaborative, creative practices to address the deepest challenges our communities face.
 
@@ -19,7 +19,7 @@ It builds upon the work and principles of the [Design Justice Network](https://d
 ## Intersectionality in design
 The first part is really about exploring design's relationship to power and privilege. They use the concept of the [matrix of domination](https://en.wikipedia.org/wiki/Matrix_of_domination), an intersectional analysis of oppression. They use this to explain how design decisions can privilege certain people over others, regardless of whether this was the designer's intention.
 
-Some of this is uncomfortable to read, but necessary and useful. They analyse and critique a number of different design approaches, including human-centred design and universal design. These processes tend towards homogenising or erasing difference. Design justice, on the other hand, recognises that it might not be possible to reduce the cognitive load for all users, but that decisions of who to privelge need to be considered and made explicit.
+Some of this is uncomfortable to read, but necessary and useful. They analyse and critique a number of different design approaches, including human-centred design and universal design. These processes tend towards homogenising or erasing difference. Design justice, on the other hand, recognises that it might not be possible to reduce the cognitive load for all users, but that decisions of who to privilege need to be considered and made explicit.
 
 > Privilege and power never go away, but a design justice studio can become a place where they are explicitly recognized, acknowledged, and discussed.
 
