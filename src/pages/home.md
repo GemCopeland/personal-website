@@ -34,8 +34,6 @@ colleagues:
     url: https://home.agorama.org.uk/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
-  - name: Bec Worth
-    url: http://www.youwouldlovethis.com/
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
   - name: Carvalho Bernau
