@@ -31,9 +31,9 @@
         {% include "components/nav-link.njk" %}
       </li>
       <li class="nav__item nav__item--writing">
-        {% set linkUrl = '/writing/' %}
-        {% set linkText = 'Writing' %}
-        {% set current = section == 'writing' or section == 'post' %}
+        {% set linkUrl = '/blog/' %}
+        {% set linkText = 'Blog' %}
+        {% set current = section == 'blog' or section == 'post' %}
         {% include "components/nav-link.njk" %}{% if tag %}<span class="color-grey"> &mdash; </span>{{ tag }}{% endif %}
       </li>
     </ul>
