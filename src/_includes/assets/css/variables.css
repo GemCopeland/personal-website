@@ -1,11 +1,11 @@
 :root {
-  --color-1: hsl(0, 0%, 32%); /* Customise */
-  --color-2: #FFFFCC; /* Customise */
-  --color-black: black;
+  --color-1: #867370; /* Customise */
+  --color-2: #291D0E; /* Customise */
+  --color-black: #93809C;
   --color-grey: #eaeaea;
   --color-grey-dark: #8a8a8a;
-  --color-grey-light: #f8f8f8;
-  --color-white: #ffffff;
+  --color-grey-light:#1D160C;
+  --color-white: #3B2C16;
   --font-small: 0.75rem;
   --gutter: 1rem;
   --line-height-small: 1.4;
