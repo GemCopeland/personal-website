@@ -26,6 +26,7 @@
 
 .arena {
   background-color: var(--color-grey-light);
+  
 }
 
 .panel--profile .prose > *:first-child {

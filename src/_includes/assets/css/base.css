@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
+  background-color: var(--background-color);
 }
 
 *,
@@ -141,4 +142,7 @@ button {
   font-weight: inherit;
   margin: 0;
   padding: 0;
+}
+::-webkit-scrollbar {
+  display: none;
 }
