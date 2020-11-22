@@ -15,7 +15,7 @@ name: Felix T Platten
 email: felixtplatten@gmail.com
 sameAs:
   - text: Arena
-    url: https://www.are.na/felix-t-platten
+    url: https://www.are.na/f618
   - text: Instagram
     url: https://www.instagram.com/f618_/
   - text: Letterboxd
