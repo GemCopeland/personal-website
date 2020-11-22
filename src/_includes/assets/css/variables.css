@@ -1,12 +1,14 @@
 :root {
-  --color-1: #867370; /* Customise */
-  --color-2: #291D0E; /* Customise */
-  --color-black: #93809C;
-  --color-grey: #eaeaea;
-  --color-grey-dark: #8a8a8a;
-  --color-grey-light:#1D160C;
-  --color-white: #3B2C16;
+  --background-color: #0D0B07;
+  --color-1: #4E4735; /* heading text / highlight */
+  --color-2: #0D0B07; /* footer background */
+  --color-black: #4E4735; /* body text */
+  --color-grey: #E3D4C0;
+  --color-grey-dark: #3B3629; /*sub text*/
+  --color-grey-light:#1C1812; /* arena background */
+  --color-white: #0D0B07; /* arena tiles */
   --font-small: 0.75rem;
   --gutter: 1rem;
   --line-height-small: 1.4;
+
 }
