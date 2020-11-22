@@ -1,10 +1,10 @@
 :root {
   --background-color: #0D0B07;
-  --color-1: #4E4735; /* heading text / highlight */
+  --color-1: #656051; /* heading text / highlight */
   --color-2: #0D0B07; /* footer background */
-  --color-black: #4E4735; /* body text */
+  --color-black: #5d533b; /* body text */
   --color-grey: #E3D4C0;
-  --color-grey-dark: #3B3629; /*sub text*/
+  --color-grey-dark: #716c5f; /*sub text*/
   --color-grey-light:#1C1812; /* arena background */
   --color-white: #0D0B07; /* arena tiles */
   --font-small: 0.75rem;
