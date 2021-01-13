@@ -9,7 +9,7 @@ tags:
 
 ![ECsemblage Cover](https://d2w9rnfcy7mm78.cloudfront.net/9134054/large_7502a0c8a09434927c1c87b0de7babce.png?1602842859?bc=0)
 
-Evening-Class worked on a mail art inspired magazine. My entry amounts to a semi-sensical materialist nonsense picture essay (ugh) which patchworks recent ideas on craft, death n’ ceremony. I cannot emphasise enough the effect that Phippe Nitchse’s [euphaniaisa machine](https://www.exitinternational.net/sarco/) has had on my thinking, so maybe this output can be viewed as another way of my subconscious stressing its importance. Michael Wallace (online anon) collected my documents and put the layout together.
+Evening-Class worked on a mail art inspired magazine. My entry amounts to a semi-sensical materialist picture essay (ugh) which patchworks recent ideas on craft, death n’ ceremony. I cannot emphasise enough the effect that Phippe Nitchse’s [euphaniaisa machine](https://www.exitinternational.net/sarco/) has had on my thinking, so maybe this output can be viewed as another way of my subconscious stressing its importance. Michael Wallace (online anon) collected my documents and put the layout together.
 
 ![ECsemblage Singles](https://d2w9rnfcy7mm78.cloudfront.net/10220116/large_3cdf9586cf3c537564a46639e7299fa0.png?1610541311?bc=0)
 
