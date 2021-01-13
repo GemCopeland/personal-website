@@ -11,8 +11,8 @@ tags:
 
 Evening-Class worked on a mail art inspired magazine. My entry amounts to a semi-sensical materialist nonsense picture essay (ugh) which patchworks recent ideas on craft, death n’ ceremony. I cannot emphasise enough the effect that Phippe Nitchse’s [euphaniaisa machine](https://www.exitinternational.net/sarco/) has had on my thinking, so maybe this output can be viewed as another way of my subconscious stressing its importance. Michael Wallace (online anon) collected my documents and put the layout together.
 
-![ECsemblage Singles](https://d2w9rnfcy7mm78.cloudfront.net/9122362/large_32f868af1668a9e308b97466aab52aba.png?1602772399?bc=0)
+![ECsemblage Singles](https://d2w9rnfcy7mm78.cloudfront.net/10219823/original_5f513ec9b4030e8c1cc5f5b07f790855.png?1610539718?bc=0)
 
 ECsemblage can be purchased here on [Bigcartel](https://eveningclass.bigcartel.com/product/ecsembling-1). All proceeds will be donated to the [Artists Fund Artists](https://www.gofundme.com/f/artistsfundartists) campaign, which at the time of publication was directing all profit towards Black artists in the UK.
 
-![ECsemblage Doubles](https://d2w9rnfcy7mm78.cloudfront.net/9122361/large_2452b0ff9fa252895d3c1e59e917fdde.png?1602772398?bc=0)
+![ECsemblage Doubles](https://d2w9rnfcy7mm78.cloudfront.net/10219821/large_821c281d0dc7cec9c5cb334ffc048ac6.png?1610539714?bc=0)
