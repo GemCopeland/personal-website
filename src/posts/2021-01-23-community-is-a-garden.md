@@ -17,4 +17,4 @@ I really liked the list of practices at the end, particularly *Ambiguity*:
 
 It references a few of my favourite writers, adrienne maree brown and Donna Haraway, and has prompted me to finally read [Braiding Sweetgrass](https://en.wikipedia.org/wiki/Braiding_Sweetgrass), which I've wanted to do for a while.
 
-I'm collecting more example of [Community-Led Design Practices](https://www.are.na/gemma-copeland/community-led-design-practices) on Arena.
+I'm collecting more examples of [Community-Led Design Practices](https://www.are.na/gemma-copeland/community-led-design-practices) on Arena.
