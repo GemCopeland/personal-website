@@ -64,38 +64,38 @@ I listened to a lot of [Interdependence](https://www.patreon.com/interdependence
 
 ## In photos
 
-![Walking in the Yarra Ranges national park in Victoria, New Years Day 2020](https://d2w9rnfcy7mm78.cloudfront.net/10080068/original_ac1fbd2808a3122f4f086ed00863c158.jpg?1609611615?bc=0)
+![Four people walking in an Australian forest with ferns and gumtrees](https://d2w9rnfcy7mm78.cloudfront.net/10080068/original_ac1fbd2808a3122f4f086ed00863c158.jpg?1609611615?bc=0)
 Walking in the Yarra Ranges national park in Victoria, New Years Day 2020
 
-![A walk with people from Evening Class, somewhere on the outskirts of London, February](https://d2w9rnfcy7mm78.cloudfront.net/10080092/original_548f349207910300c2f8dd6a894a436a.jpg?1609611859?bc=0)
+![A group of people wearing winter clothes, standing on fallen tree stumps](https://d2w9rnfcy7mm78.cloudfront.net/10080092/original_548f349207910300c2f8dd6a894a436a.jpg?1609611859?bc=0)
 A walk with people from Evening Class, somewhere on the outskirts of London, February
 
-![A teach-out at the LCC picket line, March](https://d2w9rnfcy7mm78.cloudfront.net/10080102/original_1ad2ac385ce09cac330f5812a0fb140f.jpg?1609611894?bc=0)
+![A group of people sitting on benches in front of a university, underneath colourful flags. One sign says "Official Picket" and another says "Strike"](https://d2w9rnfcy7mm78.cloudfront.net/10080102/original_1ad2ac385ce09cac330f5812a0fb140f.jpg?1609611894?bc=0)
 A teach-out at the LCC picket line, March
 
-![Working from the sunny kitchen table feat. Alan the cat, April](https://d2w9rnfcy7mm78.cloudfront.net/10080104/original_51b53bebc3f7513de06d6ac022f8364a.jpg?1609611900?bc=0)
+![An open laptop on a kitchen table, with a vase of yellow daffodils on the left and an orange cat on the right. Outside there are rooftops and a very blue sky.](https://d2w9rnfcy7mm78.cloudfront.net/10080104/original_51b53bebc3f7513de06d6ac022f8364a.jpg?1609611900?bc=0)
 Working from the sunny kitchen table feat. Alan the cat, April
 
-![One of many video calls with friends, May](https://d2w9rnfcy7mm78.cloudfront.net/10080106/original_8cd5c2cb3aba8965253b7c6513c7a366.jpg?1609611908?bc=0)
+![A screenshot of a FaceTime video call with four women smiling](https://d2w9rnfcy7mm78.cloudfront.net/10080106/original_8cd5c2cb3aba8965253b7c6513c7a366.jpg?1609611908?bc=0)
 One of many video calls with friends, May
 
-![Brockwell Park in full bloom, June](https://d2w9rnfcy7mm78.cloudfront.net/10080108/original_c9740ba5cff4acf645c263c0f6124df9.jpg?1609611925?bc=0)
+![A stone pathway leading into a garden. On either side of the path, are bright flowers in orange, yellow, purple and white.](https://d2w9rnfcy7mm78.cloudfront.net/10080108/original_c9740ba5cff4acf645c263c0f6124df9.jpg?1609611925?bc=0)
 Brockwell Park in full bloom, June
 
-![Our new garden with the welcome dinner we made for our housemate, July](https://d2w9rnfcy7mm78.cloudfront.net/10080110/original_9742b9065b754cec35974214129336b9.jpg?1609611934?bc=0)
+![A table laden with food, in a slightly overgrown garden](https://d2w9rnfcy7mm78.cloudfront.net/10080110/original_9742b9065b754cec35974214129336b9.jpg?1609611934?bc=0)
 Our new garden with the welcome dinner we made for our housemate, July
 
-![View from the path descending Cadair Idris in Wales, August](https://d2w9rnfcy7mm78.cloudfront.net/10080111/original_6303da5d9fa3a2b4ad839b8006abc97c.jpg?1609611945?bc=0)
+![A man walking down a mountain, with heather in the foreground and green hills in the distance](https://d2w9rnfcy7mm78.cloudfront.net/10080111/original_6303da5d9fa3a2b4ad839b8006abc97c.jpg?1609611945?bc=0)
 View from the path descending Cadair Idris in Wales, August
 
-![Wild swimming, September](https://d2w9rnfcy7mm78.cloudfront.net/10080112/original_47240d6354fc876f56c8e4f5d8660a17.jpg?1609611951?bc=0)
+![Two girls swimming in a river on a sunny day](https://d2w9rnfcy7mm78.cloudfront.net/10080112/original_47240d6354fc876f56c8e4f5d8660a17.jpg?1609611951?bc=0)
 Wild swimming, September
 
-![The village that we stayed in La Gomera, October](https://d2w9rnfcy7mm78.cloudfront.net/10080113/original_899a596df4c194aa0048cc67e94a69b1.jpg?1609611952?bc=0)
+![A view through palm trees to a village, with houses and farms on terraces, leading up to a mountain in the background](https://d2w9rnfcy7mm78.cloudfront.net/10080113/original_899a596df4c194aa0048cc67e94a69b1.jpg?1609611952?bc=0)
 The village that we stayed in La Gomera, October
 
-![Sebastian's favourite sleeping spot – upside down next to the heater, November](https://d2w9rnfcy7mm78.cloudfront.net/10080114/original_f0b6675345b62ab35f5adb2c735af6ce.jpg?1609611957?bc=0)
+![A cat lying upside down, with his legs next to the heater](https://d2w9rnfcy7mm78.cloudfront.net/10080114/original_f0b6675345b62ab35f5adb2c735af6ce.jpg?1609611957?bc=0)
 Sebastian's favourite sleeping spot, November
 
-![Snow and sunshine in Wales, December](https://d2w9rnfcy7mm78.cloudfront.net/10080117/original_16eb38c411ae101de967d07171f55366.jpg?1609611966?bc=0)
+![Sunshine streaming through tall trees and snow on the ground](https://d2w9rnfcy7mm78.cloudfront.net/10080117/original_16eb38c411ae101de967d07171f55366.jpg?1609611966?bc=0)
 Snow and sunshine in Wales, December
