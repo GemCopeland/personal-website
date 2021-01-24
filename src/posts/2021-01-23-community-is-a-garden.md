@@ -13,7 +13,7 @@ I came across [this toolkit](https://www.are.na/block/9400568) when searching fo
 It explores how artists and communities can work together towards climate justice. It has a few interviews and case studies, accompanied by a few prompts and reflective exercises centred around building collaborative relationships and spaces for dialogue.
 
 I really liked the list of practices at the end, particularly *Ambiguity*:
-> Moments of disorientation create space for unpredictable discovery. How can you challenge existing narratives, leave questions unanswered, and introduce new lines of inquiry? Through open-ended practice, how can you create conditions that scaffold com- munal discovery? How can you begin with questions rather than answers?
+> Moments of disorientation create space for unpredictable discovery. How can you challenge existing narratives, leave questions unanswered, and introduce new lines of inquiry? Through open-ended practice, how can you create conditions that scaffold communal discovery? How can you begin with questions rather than answers?
 
 It references a few of my favourite writers, adrienne maree brown and Donna Haraway, and has prompted me to finally read [Braiding Sweetgrass](https://en.wikipedia.org/wiki/Braiding_Sweetgrass), which I've wanted to do for a while.
 
