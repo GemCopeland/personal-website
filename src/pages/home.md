@@ -38,8 +38,6 @@ colleagues:
     url: https://evening-class.org/
   - name: Gemma Copeland
     url: https://gemmacope.land/
-  - name: Miber Engineering
-    url: http://www.miber.co.uk/
   - name: PC World
     url: https://gobnation.bandcamp.com/album/s-t
   - name: Robbie Blundell
