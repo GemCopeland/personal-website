@@ -56,7 +56,7 @@ credits: |
 
   <!--[Subscribe to RSS](https://gemmacope.land/feed.xml)-->
 
-  Last updated: 10.2020
+  Last updated: 01.2021
 ---
 
 Industrial designer currently based in London. Junior Designer at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
