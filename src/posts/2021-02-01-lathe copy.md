@@ -6,6 +6,8 @@ tags:
   - fusion 360
 ---
 
+![fusion360](https://d2w9rnfcy7mm78.cloudfront.net/10507922/original_c8461e476b9dc7a78f737f7de47404d5.png?1612180275?bc=0)
+
 ![lathe1](https://d2w9rnfcy7mm78.cloudfront.net/10507612/original_d0f95525cc1bea2499f5199d24547a2e.jpg?1612178182?bc=0)
 
 ![lathe2](https://d2w9rnfcy7mm78.cloudfront.net/10507615/original_a73618de9d19f2a09fa90745962fdc72.jpg?1612178214?bc=0)
@@ -14,4 +16,4 @@ tags:
 
 ![lathe4](https://d2w9rnfcy7mm78.cloudfront.net/10507620/original_1b54b811981bb28143a2ef4a35fc1a1a.jpg?1612178233?bc=0)
 
-Becoming familiar with a Haas TL-1 CNC Lathe - turning a custom crankshaft drive pulley out of 100mm mild steel stock. The model and CAM was designed and programmed in Fusion 360. 
+Becoming familiar with a Haas TL-1 CNC Lathe - turning a custom crankshaft drive pulley out of 100mm mild steel stock. The model and CAM were designed and programmed in Fusion 360. 
