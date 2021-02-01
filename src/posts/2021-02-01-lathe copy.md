@@ -16,4 +16,4 @@ tags:
 
 ![lathe4](https://d2w9rnfcy7mm78.cloudfront.net/10507620/original_1b54b811981bb28143a2ef4a35fc1a1a.jpg?1612178233?bc=0)
 
-Becoming familiar with a Haas TL-1 CNC Lathe - turning a custom crankshaft drive pulley out of 100mm mild steel stock. The model and CAM were designed and programmed in Fusion 360. 
+Becoming familiar with a Haas TL-1 CNC Lathe - turning a custom crankshaft drive pulley out of 100mm mild steel stock. The model and CAM was done in Fusion 360. 
