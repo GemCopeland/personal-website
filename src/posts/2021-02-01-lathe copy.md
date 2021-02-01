@@ -3,6 +3,8 @@ title: Haas Lathe
 displayTitle: false
 tags:
   - work
+  - lathe
+  - cnc
   - fusion 360
 ---
 
