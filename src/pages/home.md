@@ -3,15 +3,15 @@
 ## Page details ##
 ##################
 layout: layouts/home.njk
-title: Felix T Platten
-strapline: Industrial Design
+title: Felix Taylor Platten
+strapline: INDUSTRIAL
 permalink: /
 metaDescription:
 
 ##################
 #### Contact #####
 ##################
-name: Felix T Platten
+name: Felix Taylor Platten
 email: felixtplatten@gmail.com
 sameAs:
   - text: Arena
@@ -55,8 +55,7 @@ credits: |
   This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). Your data isn’t collected when using this site.
 
   <!--[Subscribe to RSS](https://gemmacope.land/feed.xml)-->
-
-  Last updated: 01.2021
+  
 ---
 
 Industrial designer based in London. Junior Designer at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
