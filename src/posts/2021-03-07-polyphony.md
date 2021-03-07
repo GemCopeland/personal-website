@@ -7,7 +7,7 @@ tags:
 - nature
 ---
 
-As of this week, I'm living at [Rupert](http://rupert.lt/) in Vilnius, bathing in the reflected success of my artist-in-residence bf How. Feeling very lucky and inspired.
+As of this week, I'm living at [Rupert](http://rupert.lt/) in Vilnius, bathing in the reflected success of [HM](https://www.melnycz.uk/). Feeling very lucky and inspired.
 
 I've been drawing lots of [Major Arcana](https://en.wikipedia.org/wiki/Major_Arcana) cards, which indicates deep shifts and changes. Feels apt.
 
