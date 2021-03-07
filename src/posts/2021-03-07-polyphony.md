@@ -11,7 +11,7 @@ As of this week, I'm living at [Rupert](http://rupert.lt/) in Vilnius, bathing i
 
 I've been drawing lots of [Major Arcana](https://en.wikipedia.org/wiki/Major_Arcana) cards, which indicates deep shifts and changes. Feels apt.
 
-![A desk and two chairs in front of a tall window, looking out into snow and pines, next to The Moon tarot card](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a8cf8df-7baf-489f-a4c3-7547a9ae9fc1/rupert.jpg)
+![A desk and two chairs in front of a tall window, looking out into snow and pines, next to The Moon tarot card](https://d2w9rnfcy7mm78.cloudfront.net/11067992/original_018e3c7b4de240a449c2e7c9a8f3110e.jpg?1615139847?bc=0)
 
 I'm simultaneously reading a few books that feel interconnected:
 
@@ -45,6 +45,7 @@ I was originally interested in this after reading [The DOOM! Report](https://nem
 
 I'm also dipping in and out of the [Atlas of Anomalous AI](https://ignota.org/collections/frontpage/products/atlas-of-anomalous-ai), also published by Ignota and edited by Ben Vickers and K Allado-McDowell. I love anything that references the [Mnemosyne Atlas.](https://warburg.library.cornell.edu/about)
 
+![An ink drawing of the Tibetan god Yama holding the wheel of life, from the Wellcome collection](https://d2w9rnfcy7mm78.cloudfront.net/11068036/original_de42522826d34a1fefb6248ebb6e40ba.jpg?1615140087?bc=0)
 ## Interdependence 40 with Audrey Tang (digital minister of Taiwan)
 
 I was so excited when I saw that the latest [Interdependence](https://www.patreon.com/interdependence) was with [Audrey Tang](https://audreyt.org/). This is one of their best episodes so far, imho.  
@@ -55,16 +56,16 @@ Some interesting thoughts about how to give non-human entities a say in politics
 
 She mentioned so many interesting things, it was hard to keep up. Including this report from the UN: [The Age of Digital Interdependence](https://www.un.org/en/pdfs/DigitalCooperation-report-for%20web.pdf). I hate reading PDFs on screen but this one looks pretty interesting, if a bit too human-centric.
 
-### [Going Horizontal](https://goinghorizontal.co/)
+## [Going Horizontal](https://goinghorizontal.co/)
 
 A book about creating non-hierarchal organisations, which we're reading as part of the inaugural Common Knowledge book club! 
 
-### [Entangled Life](https://www.merlinsheldrake.com/entangled-life)
+## [Entangled Life](https://www.merlinsheldrake.com/entangled-life)
 
 Because I love thinking with mushrooms! They never cease to amaze me. So far, it's an enjoyable and fascinating book.
 
 ![A still from Studio Ghibli's Princess Monoke, showing the forest spirit, a giant blue creature made of stars](https://d2w9rnfcy7mm78.cloudfront.net/11067841/original_82e931803ee29cb857f3823ab0e318f6.jpg?1615138802?bc=0)
 
-### [10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/10yearshayaomiyazaki/?type=tvEpisode&)
+## [10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/10yearshayaomiyazaki/?type=tvEpisode&)
 
 A documentary about Miyazaki's creative process. It's interesting to see that his talent seems both innate and a lot of hard work. He can capture the energy of an entire story or character in just one sketch, but also has days or weeks where he hates everything that he makes, continuously throws everything out and begins again, or just avoids working all together.
