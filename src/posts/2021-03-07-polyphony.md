@@ -5,9 +5,10 @@ tags:
 - reading
 - climate crisis
 - nature
+- process
 ---
 
-As of this week, I'm living at [Rupert](http://rupert.lt/) in Vilnius, bathing in the reflected success of [HM](https://www.melnycz.uk/). Feeling very lucky and inspired.
+As of this week, I'm living in Vilnius for a few months while [HM](https://www.melnycz.uk/)  does the [Rupert](http://rupert.lt/) residency. Feeling very lucky and inspired.
 
 I've been drawing lots of [Major Arcana](https://en.wikipedia.org/wiki/Major_Arcana) cards, which indicates deep shifts and changes. Feels apt.
 
