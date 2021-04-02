@@ -62,6 +62,8 @@ colleagues:
     url: http://www.strike.coop/
 
 workList:
+  - text: Airsift
+    url: https://airsift.citizensense.net/
   - text: Claim the Future
     url: http://claimthefuture.today/
   - text: Progressive International
