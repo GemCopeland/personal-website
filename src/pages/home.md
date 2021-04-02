@@ -78,8 +78,6 @@ workList:
     url: https://creative.magnumphotos.com/
   - text: Studio Kunze
     url: https://www.studiokunze.com/
-  - text: Ethical Culture Fieldston School
-    url: https://ecfs.org
 
 ##################
 #### Credits #####
@@ -89,7 +87,7 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  Last updated: 08.2020
+  Last updated: 04.2021
 ---
 
 Interdependent digital designer based in London.
