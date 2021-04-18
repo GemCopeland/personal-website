@@ -89,13 +89,14 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
+  Timezone: UTC+02:00
   Last updated: 04.2021
 ---
 
 Interdependent digital designer.
 
-Member of [Common Knowledge](http://commonknowledge.coop), a worker cooperative that works with organisers and communities to design digital tools that make radical change possible.
+Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that designs digital tools for and with grassroots organisers.
 
-Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of the grassroots trade union United Voices of the World.
+Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of the trade union United Voices of the World.
 
 Interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how digital technology can support these practices.
