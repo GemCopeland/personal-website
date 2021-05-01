@@ -27,11 +27,11 @@ I watched [Crip Camp](https://en.wikipedia.org/wiki/Crip_Camp) the other evening
 
 Related: [Sonia](http://soniaturcotte.com/) recommended the [Understanding Disability](https://www.drakemusic.org/blog/nim-ralph/understanding-disability/) series by Nim Ralph, which unpacks the different models we use to understand disability, how these have developed over time and the impact this has on the lives of disabled people. Highly recommended.
 
-Also thanks to Sonia (who is my main source of reading material these days) is this super interesting [reflection on remote work](https://tinyletter.com/aworkinglibrary/letters/remote-to-who-a-working-letter). They argue that working remotely (or, working in distributed teams) removes work as the centre of meaning and fulfilment, builds stronger communities where we live and, ultimately, live fuller lives.
+Also thanks to Sonia (who is my main source of reading material these days) is this super interesting [reflection on remote work](https://tinyletter.com/aworkinglibrary/letters/remote-to-who-a-working-letter). They argue that working remotely (or, working in distributed teams) removes work as the centre of meaning and fulfilment, allows us to build stronger communities where we live and, ultimately, live fuller lives.
 
 Where and how to live has come up in a lot of conversations lately. [Tom](https://tomkkemp.com/) has told us about this [collective](https://www.instagram.com/postosegreto.it/) in Sicily that is currently building a community and artist residency, and [Anna](http://www.annareutinger.com/) keeps talking about tiny houses. I guess it's a combination of the pandemic, being around our early 30's and not wanting to move around or rent or sublet anymore. How and I still haven't decided where to move now that we've left London, as the second wave has been worse and visas harder to come by than we expected. I really want to find somewhere (in Europe) that is pretty warm, close to nature but well-connected by train to a city… does this place exist?!
 
-[A dreamy illustration of a garden, mainly teal, green and dark purple with highlights in pink and blue.](https://d2w9rnfcy7mm78.cloudfront.net/11802760/original_15f4a3ba6ba1b415e3be297e40dd040c.jpg?1619866642?bc=0)
+![A dreamy illustration of a garden, mainly teal, green and dark purple with highlights in pink and blue.](https://d2w9rnfcy7mm78.cloudfront.net/11802760/original_15f4a3ba6ba1b415e3be297e40dd040c.jpg?1619866642?bc=0)
 ▲ Screenshot from the [Arkadia Zoomquilt](http://arkadia.xyz/)
 
 I've started listening to a lot of super interesting podcasts lately, all circling the same kinds of themes:
