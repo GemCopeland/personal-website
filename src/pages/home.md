@@ -89,8 +89,9 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  Timezone: UTC+02:00
-  Last updated: 04.2021
+  [Book a meeting](https://calendly.com/gemma-copeland/30min)
+  Timezone: UTC+01:00
+  Last updated: 05.2021
 ---
 
 Interdependent digital designer.
