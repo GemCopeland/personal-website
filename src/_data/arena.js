@@ -48,7 +48,7 @@ const getArenaChannels = async (channelId) => {
   // Return an array containing only the channels contained in the root channel
   return Promise.all(channels.reverse()
     // remove blocks 
-    .filter(({ base_class }) => base_class == "Channel")
+    .filter(({ base_class }) => base_class === "Channel")
     // map over channels
     .map(async ({ id, title, metadata, length: count, slug }) => {
       // get new channel
