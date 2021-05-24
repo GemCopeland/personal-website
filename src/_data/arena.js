@@ -51,8 +51,10 @@ const getArenaChannels = async (channelId) => {
     .filter(({ base_class }) => base_class == "Channel")
     // map over channels
     .map(async ({ id, title, metadata, length: count, slug }) => {
+      // get new channel
+      const newChannel = arena.channel(id);
       // get all content for this channel
-      const content = await getAllContent(id, per, length);
+      const content = await getAllContent(newChannel, per, length);
       // get thumbnail urls for image blocks in this channel
       const images = content.filter(b => !!b.image).map(b => b.image.thumb.url);
       // get channel description (if present)
