@@ -56,7 +56,9 @@ const getArenaChannels = async (channelId) => {
       // get all content for this channel
       const content = await getAllContent(newChannel, per, length);
       // get thumbnail urls for image blocks in this channel
-      const images = content.filter(b => !!b.image).map(b => b.image.thumb.url);
+      const images = content.reverse()
+        .filter(b => !!b.image)
+        .map(b => b.image.thumb.url);
       // get channel description (if present)
       const description = metadata && metadata.description;
       // get channel url
