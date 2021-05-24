@@ -12,23 +12,23 @@ We’re using Git for version control and GitHub as a remote repository host<sup
 
 Next, we need to <mark>install the dependencies</mark> using `npm`<sup id="ref-6"><a href="#footnote-6">6</a></sup>. One of the core dependencies for this project is [Eleventy](https://www.11ty.io/), a static site generator<sup id="ref-7"><a href="#footnote-7">7</a></sup>. Check that you have `npm` installed globally<sup id="ref-8"><a href="#footnote-8">8</a></sup> by running `npm -v`, and check that you have at least version 8 of Node.js by running `node -v`. If you get an error with either command, you probably need to install Node.js and / or `npm`. Visit [npmjs.com](https://www.npmjs.com/get-npm) to get what you need. If your version of Node.js is too old, you’ll need to update it<sup id="ref-9"><a href="#footnote-9">9</a></sup>. If `npm` and `node` are looking good, you can go ahead and install this project’s dependencies by running `npm install`.
 
-At this point, we’ve got the static site generator [Eleventy](https://www.11ty.io/) ready for use. Run `npx @11ty/eleventy --serve` to <mark>fire up a local web server</mark>. You’ll see a bunch of output related to writing, processing, and watching files. Once the output shows the BrowserSync<sup id="ref-10"><a href="#footnote-10">10</a></sup> Access URLs, visit `http://localhost:8080/` in your preferred browser. You should see your site! To shut down your local web server, type in the command `ctrl + c` (it looks like `^C` in the CLI).
+At this point, we’ve got the static site generator [Eleventy](https://www.11ty.io/) ready for use. Run `npm run serve` to <mark>fire up a local web server</mark>. You’ll see a bunch of output related to writing, processing, and watching files. Once the output shows the BrowserSync<sup id="ref-10"><a href="#footnote-10">10</a></sup> Access URLs, visit `http://localhost:8080/` in your preferred browser. You should see your site! To shut down your local web server, type in the command `ctrl + c` (it looks like `^C` in the CLI).
 
 ### Deploying your site
 
-To deploy the website to a more traditional web host via FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npx @11ty/eleventy`. This will put all of your website files in to the output folder `/_dist`.
+To deploy the website to a more traditional web host via FTP / SFTP<sup id="ref-11"><a href="#footnote-11">11</a></sup>, compile the website by running `npm run build`. This will put all of your website files in to the output folder `/_dist`.
 
 Alternatively, <mark>hook the repo up to Netlify</mark>. [Here’s a step-by-step guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). These are the settings you’d use:
 
 Branch: `master`  
 Dir: `_dist`  
-Build command: `npx @11ty/eleventy`
+Build command: `npm run build`
 
 This tells Netlify that when some change happens on the `master` branch<sup id="ref-12"><a href="#footnote-12">12</a></sup>, it should run the build command `npx @11ty/eleventy` and deploy any files in the `/_dist` directory.
 
 ### Editing content
 
-To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npx @11ty/eleventy --serve`. Watch out for compilaton errors in your Terminal window while you are editing content.
+To edit content locally, open up your local site files in your preferred text editor<sup id="ref-13"><a href="#footnote-13">13</a></sup> and then fire up your local server by running `npm run serve`. Watch out for compilaton errors in your Terminal window while you are editing content.
 
 Before you edit your content, it is good practice to run `git fetch` to get remote updates and `git pull` if there are any updates. And of course, be sure to push your edits with `git push` when you are done and ready to publish them.
 
