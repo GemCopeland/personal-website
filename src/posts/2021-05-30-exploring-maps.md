@@ -8,11 +8,14 @@ tags:
 - learning
 ---
 
+![A collage made from LiDAR imagery of the Amazon rainforest, a map of the video game Subnautica and a Micronesian navigational chart](https://d2w9rnfcy7mm78.cloudfront.net/12119791/original_e717cd0dfc68440c76ba85a4a2b76273.jpg?1622388755?bc=0)
+
 Maps seem to be the most consistent thing that people ask us to do at Common Knowledge. We don't know entirely what it is, but people *love* maps. Not only do organisations love them, they seem to test really well when we do usability testing as well.
 
 We have a couple of particularly interesting mapping projects on at the moment, so while I've been ambiently researching interesting maps on Arena for a while, I've recently started doing more reading about cartography as well.
 
 <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/gemma-copeland/community-maps/embed" title="Community Maps”"></iframe>
+
 
 Shannon Mattern's wonderful article [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/) seeks out the gaps in the map: cartographies of erasure, absence, refusal and exclusion. For something about nothing, it is overflowing with references, projects and ideas. Lots to explore!
 
@@ -23,8 +26,6 @@ Shannon Mattern's wonderful article [How to Map Nothing](https://placesjournal.o
 > Ideally, we should balance or juxtapose different modes of knowledge and production: Western scientific and indigenous epistemologies, human and other-species ontologies, mechanical and organic means of experiencing and representing place, cartographic rationalism and empiricism, projection and retrospection. No single über-map can encompass all such subjectivities and sensibilities. Instead, we can aim for an atlas, a prismatic collection of mappings, that invites comparison and appreciation of the ways in which our world is both known and unknown.
 
 Mattern is currently teaching a class called [Mapping the Field](https://mappingthefield.wordsinspace.net/2021/), which I wish I could take. Luckily, she's put the entire syllabus, presentations and reading list online.
-
-![A collage made from LiDAR imagery of the Amazon rainforest, a map of the video game Subnautica and a Micronesian navigational chart](https://d2w9rnfcy7mm78.cloudfront.net/12119791/original_e717cd0dfc68440c76ba85a4a2b76273.jpg?1622388755?bc=0)
 
 In [Here Be Dragons](https://www.vqronline.org/essays-articles/2017/01/here-be-dragons), Lois Parshley explores the unknown places that we're still trying to map: the Arctic, black holes, the ocean floor. She also considers how mapping intersects with health, deprivation and natural disasters. She references [Missing Maps](https://www.missingmaps.org/), an open, collaborative project where anyone can volunteer to help map areas that are at risk of disaster or crisis.
 
