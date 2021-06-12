@@ -47,6 +47,8 @@ colleagues:
 workList:
   - text: ECsemblage Magazine
     url: https://f618.info/writing/ecsemblage-magazine/
+  - test: BOOKS Peckham
+    url: https://f618.info/writing/books/
 
 ##################
 #### Credits #####
