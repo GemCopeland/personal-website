@@ -62,4 +62,4 @@ credits: |
   
 ---
 
-Industrial designer located in London. Junior Designer and Fabricator at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
+Industrial designer located in London. Designer and Fabricator at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
