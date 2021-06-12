@@ -40,6 +40,8 @@ colleagues:
     url: https://gemmacope.land/
   - name: PC World
     url: https://gobnation.bandcamp.com/album/s-t
+  - name: Peckham Books
+    url: https://books-peckham.com/
   - name: Robbie Blundell
     url: https://r-b.site/
 
