@@ -135,6 +135,8 @@ svg {
 iframe {
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
+  width: 100%;
+  height: 300;
 }
 
 button {
