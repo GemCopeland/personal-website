@@ -4,7 +4,7 @@
 ##################
 layout: layouts/home.njk
 title: Felix Taylor
-strapline: INDUSTRIAL
+strapline: Home
 permalink: /
 metaDescription:
 
