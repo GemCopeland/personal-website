@@ -130,6 +130,11 @@ svg {
   vertical-align: middle;
 }
 
+iframe {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
 button {
   appearance: none;
   background-color: transparent;

@@ -59,8 +59,8 @@
 
 .block__media img {
   max-height: 3.75rem;
-  padding-bottom: 0.625rem;
-  padding-right: 0.625rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .block__arrow {
