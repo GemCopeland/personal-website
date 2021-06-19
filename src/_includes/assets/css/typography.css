@@ -21,12 +21,17 @@
 }
 
 .prose p ~ p img {
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .prose p ~ p:last-child img {
   margin-bottom: 0;
+}
+
+.prose p ~ p:first-child img {
+  margin-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 .prose blockquote {

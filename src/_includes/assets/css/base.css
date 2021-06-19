@@ -117,6 +117,8 @@ img {
   height: auto;
   max-width: 100%;
   vertical-align: middle;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 figure {
