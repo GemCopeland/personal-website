@@ -17,7 +17,7 @@
       <ul class="tags">
         {% for tag in singleTags %}
           {%- if tag != "post" -%}
-            {% set tagUrl %}/writing/tag/{{ tag | slug }}/{% endset %}
+            {% set tagUrl %}/blog/tag/{{ tag | slug }}/{% endset %}
             <li class="tag"><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
           {%- endif -%}
         {% endfor %}

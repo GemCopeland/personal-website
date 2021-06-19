@@ -3,7 +3,7 @@
 ## Page details ##
 ##################
 layout: layouts/home.njk
-title: Felix Taylor Platten
+title: Felix Taylor
 strapline: INDUSTRIAL
 permalink: /
 metaDescription:
@@ -11,7 +11,7 @@ metaDescription:
 ##################
 #### Contact #####
 ##################
-name: Felix Taylor Platten
+name: Felix Taylor
 email: felixtplatten@gmail.com
 sameAs:
   - text: Arena
@@ -50,7 +50,7 @@ workList:
   - text: BOOKS Peckham
     url: https://f618.info/writing/books/
   - text: ECsemblage Magazine
-    url: https://f618.info/writing/ecsemblage-magazine/
+    url: https://f618.info//ecsemblage-magazine/
 
 ##################
 #### Credits #####
