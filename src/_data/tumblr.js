@@ -5,14 +5,3 @@ const client = tumblr.createClient({
   token: 'kmZ29fmLUpElHvg1J9Abx5Yuy4dMdnZC9ikCvwX6VgiifA66PI',
   token_secret: '7t6TsKOjwECcZ9gKIzgTol37cE3Lvrup5gS226C2kZfLoxx6Sm'
 });
-
-client.userInfo(function(err, data) {
-    data.user.blogs.forEach(function(blog) {
-      console.log(blog.name);
-    });
-  });
-
-  client.blogInfo('f618tp.tumblr.com', function (err, data) {
-    console.log(blog.name);
-    // ...
-});
