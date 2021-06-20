@@ -12,7 +12,7 @@ metaDescription:
 #### Contact #####
 ##################
 name: Felix Taylor
-email: felixtplatten@gmail.com
+email: f3lixtaylor@pm.me
 sameAs:
   - text: Arena
     url: https://www.are.na/f618
