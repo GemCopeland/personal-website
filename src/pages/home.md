@@ -48,7 +48,7 @@ colleagues:
 
 workList:
   - text: BOOKS Peckham
-    url: https://f618.info/writing/books/
+    url: https://f618.info/blog/books/
   - text: ECsemblage Magazine
     url: https://f618.info//ecsemblage-magazine/
 
