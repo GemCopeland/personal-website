@@ -15,7 +15,7 @@ name: Felix Taylor
 email: f3lixtaylor@pm.me
 sameAs:
   - text: Arena
-    url: https://www.are.na/f618
+    url: https://www.are.na/felix-taylor
   - text: Instagram
     url: https://www.instagram.com/f618_/
   - text: Letterboxd
