@@ -17,7 +17,7 @@ sameAs:
   - text: Arena
     url: https://www.are.na/felix-taylor
   - text: Instagram
-    url: https://www.instagram.com/f618_/
+    url: https://www.instagram.com/f3lixtaylor/
   - text: Letterboxd
     url: https://letterboxd.com/f618/
 
