@@ -46,7 +46,7 @@ const getArenaChannels = async (channelId) => {
   const userUrl = `${baseUrl}/${user.slug}/`;
 
   // Return an array containing only the channels contained in the root channel
-  return Promise.all(channels.reverse()
+  return Promise.all(channels
     // remove blocks 
     .filter(({ base_class }) => base_class === "Channel")
     // map over channels
@@ -56,7 +56,7 @@ const getArenaChannels = async (channelId) => {
       // get all content for this channel
       const content = await getAllContent(newChannel, per, length);
       // get thumbnail urls for image blocks in this channel
-      const images = content.reverse()
+      const images = content
         .filter(b => !!b.image)
         .map(b => b.image.thumb.url);
       // get channel description (if present)
