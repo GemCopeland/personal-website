@@ -8,7 +8,7 @@ tags:
 - growth
 ---
 
-A couple of months ago, we decided that all co-op members should move to a four-day week at no loss of pay. We think it's a really important demand, an idea whose time has come, and we wanted to try it out for ourselves. So far, it's been super successful. We're all feel happier and like we have a better work-life balance, yet we're just as—if not more—productive. I've written a bit more about why we did this over on the [Common Knowledge blog](https://commonknowledge.coop/writing/moving-to-a-four-day-week).
+A couple of months ago, we decided that all co-op members should move to a four-day week at no loss of pay. We think it's a really important demand, an idea whose time has come, and we wanted to try it out for ourselves. So far, it's been super successful. We all feel happier and like we have a better work-life balance, yet we're just as—if not more—productive. I've written a bit more about why we did this over on the [Common Knowledge blog](https://commonknowledge.coop/writing/moving-to-a-four-day-week).
 
 For myself, I wanted to have a day off for my own practice, to write and to relax. I also thought that I could use the time to get more involved in the climate justice movement. I immediately went along to a few different remote organising meetings, but they just made me feel even more burnt out. It was too close to my day-to-day work, and I just didn't have the energy to spend my free time sitting on the dreaded Zoom.
 
