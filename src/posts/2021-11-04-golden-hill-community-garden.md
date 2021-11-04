@@ -1,5 +1,5 @@
 ---
-title: Community is a garden
+title: Golden Hill community garden
 displayTitle: false
 tags: 
 - nature
