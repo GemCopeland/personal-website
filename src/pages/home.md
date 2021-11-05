@@ -93,7 +93,7 @@ credits: |
 
   [Book a meeting](https://calendly.com/gemma-copeland/45min)
   Timezone: UTC+01:00
-  Last updated: 08.2021
+  Last updated: 11.2021
 ---
 
 Interdependent digital designer.
