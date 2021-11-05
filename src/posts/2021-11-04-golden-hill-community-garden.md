@@ -14,7 +14,7 @@ For myself, I wanted to have a day off for my own practice, to write and to rela
 
 I started looking for an alternative way to spend my day off. I've always loved growing plants, and for a while I've been trying to learn more about regenerative farming, foraging and food sovereignty. I looked for a community garden near me and found the Golden Hill Community Garden. Luckily, their volunteer day falls on a Wednesday, which I'd already decided would be my day off.
 
-![The Golden Hill community garden](https://d2w9rnfcy7mm78.cloudfront.net/13847312/original_4bcfd08dd4bb1a9cad2e224a7372e72f.jpg?1636055440?bc=0)
+![The Golden Hill community garden, with a polytunnel on the left. The photo has been highly edited to make it teal and pink, but you can make out some people standing around and some leafy trees.](https://d2w9rnfcy7mm78.cloudfront.net/13847312/original_4bcfd08dd4bb1a9cad2e224a7372e72f.jpg?1636055440?bc=0)
 
 Spending some time helping in the garden has been so restorative for me. I joined in late summer so I got to share in the abundant harvest: each week we harvest some of the veggies and take them home afterwards. They taste so much better than anything you can buy. I (really) love weeding, I love being outside all day, I love learning about all the different plants and how to care for them.
 
@@ -24,7 +24,7 @@ There was actually an [article about Golden Hill](https://www.theguardian.com/en
 
 I spend everyday at work thinking about grassroots activism (or organising or social change or whatever you want to call it) in some form. Yet for some reason, I always feel guilty, I worry that I'm not doing enough or that I'm a fraud… all that good stuff. I have a lot of eco-anxiety. And I've read about how eco-anxiety is [problematic](https://www.scientificamerican.com/article/the-unbearable-whiteness-of-climate-anxiety/) and white, so now I have guilt about my my anxiety too. Unsurprisingly, this is exhausting and completely unsustainable. At best, it's silly, and at worst, it's counterproductive. You can't contribute to a movement if you're burnt out.
 
-![Sea buckthorn](https://d2w9rnfcy7mm78.cloudfront.net/13847310/original_ed35e26f11f4d0e43de37aef6ec2f2f9.jpg?1636055437?bc=0)
+![A bucket of sea buckthorn, sitting on a wooden table.](https://d2w9rnfcy7mm78.cloudfront.net/13847310/original_ed35e26f11f4d0e43de37aef6ec2f2f9.jpg?1636055437?bc=0)
 
 Helping out a community garden helps me recalibrate, slow down, spend time away from my computer and see things from a different perspective. In some ways, it feels like an antidote to thinking and reading and talking and worrying about climate change on a daily basis. Rather than thinking about global crises, economic levers, parts per million, I'm thinking on a hyperlocal scale, about the soil and plants right in front of me.
 
@@ -32,7 +32,7 @@ Helping out a community garden helps me recalibrate, slow down, spend time away 
 
 — adrienne maree brown, Emergent Strategy
 
-![Freshly picked flowers](https://d2w9rnfcy7mm78.cloudfront.net/13847311/original_1c25c139957fee165c47d51f4e6630e7.jpg?1636055443?bc=0)
+![Freshly picked flowers from the garden.](https://d2w9rnfcy7mm78.cloudfront.net/13847311/original_1c25c139957fee165c47d51f4e6630e7.jpg?1636055443?bc=0)
 
 With something as unimaginably huge as climate change, the only viable response is through collective action. However, this can take so many different forms, not just direct action or lobbying. This isn't to say those things aren't vital – they are. But everyone can find a role that suits their own particular skills, interests, capacity and strengths. Each role is just as important as the next.
 
