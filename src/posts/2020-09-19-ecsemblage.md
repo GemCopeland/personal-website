@@ -2,10 +2,9 @@
 title: ECsemblage Magazine
 displayTitle: false
 tags:
-  - work
-  - evening class
+  - Writing
+ 
 ---
-<!-- My first post!.. thanks you [Gemma Copeland](https://gemmacope.land/) and [Piper Haywood](https://piperhaywood.com/) who made the orginal template for this site, and for helping me get it started. -->
 
 ![ECsemblage Cover](https://d2w9rnfcy7mm78.cloudfront.net/9134054/large_7502a0c8a09434927c1c87b0de7babce.png?1602842859?bc=0)
 
