@@ -14,8 +14,9 @@ Maps seem to be the most consistent thing that people ask us to do at Common Kno
 
 We have a couple of particularly interesting mapping projects on at the moment, so while I've been ambiently researching interesting maps on Arena for a while, I've recently started doing more reading about cartography as well.
 
+<br>
 <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/gemma-copeland/community-maps/embed" title="Community Maps”"></iframe>
-
+<br>
 
 Shannon Mattern's wonderful article [How to Map Nothing](https://placesjournal.org/article/how-to-map-nothing/) seeks out the gaps in the map: cartographies of erasure, absence, refusal and exclusion. For something about nothing, it is overflowing with references, projects and ideas. Lots to explore!
 

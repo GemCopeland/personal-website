@@ -48,5 +48,5 @@ Once we uncover the myth of the individual on a biological level, we can also un
 When we think of ideas as a result of individual genius, we create artificial scarcity and enclose something that should be a commons. As ever, I think that fungi offer a useful rebuttal to the idea of an individual genius. In *The Mushroom at the End of the World*, Anna Tsing writes:
 
 > Consider again matsutake as a commodity, ready to be sent from Yunnan to Japan. What we have is mushrooms, that is, fruiting bodies of underground fungi. The fungi require the traffic of the commons to flourish; no mushrooms emerge without forest disturbance. The privately owned mushroom is an offshoot from a communally living underground body, a body forged through the possibilities of latent commons, human and not human. That it is possible to cordon off the mushroom as an asset without taking its underground commons into account is both the ordinary way with privatisation and a quite extraordinary outrage, when you stop to think about it. The contrast between private mushrooms and fungi-forming forest traffic might be an emblem for commoditisation more generally: the continual, never-finished cutting off of entanglement.
-
+<br>
 <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/gemma-copeland/conversation-pieces/embed" title="Conversation Pieces”"></iframe>
