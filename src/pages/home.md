@@ -48,18 +48,26 @@ colleagues:
     url: http://thisblows.uk/
   - name: How Melnyczuk
     url: https://www.melnycz.uk/
+  - name: Linsey Rendell
+    url: https://www.linseyrendell.com/
   - name: MayDay Rooms
     url: https://maydayrooms.org/
+  - name: The New Design Congress
+    url: https://newdesigncongress.org/en/
   - name: Piper Haywood
     url: https://piperhaywood.com
   - name: Rectangle
     url: https://rectangle.design/
   - name: Robbie Blundell
     url: https://r-b.site/
+  - name: Sonia Turcotte
+    url: https://soniaturcotte.com/
   - name: Sam Baldwin
     url: https://sambaldwin.info/
   - name: STRIKE!
     url: http://www.strike.coop/
+  - name: Yuli Serfaty
+    url: https://yuliserfaty.com/
 
 workList:
   - text: Transform Your Work
