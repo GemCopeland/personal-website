@@ -1,6 +1,6 @@
 ---
 title: The ultimate, hidden truth of the world
-displayTitle: true
+displayTitle: false
 tags: 
 - life
 - nature

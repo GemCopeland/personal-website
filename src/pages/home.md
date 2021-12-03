@@ -100,13 +100,13 @@ credits: |
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
   [Book a meeting](https://calendly.com/gemma-copeland/45min)
-  Timezone: UTC+01:00
-  Last updated: 11.2021
+  Timezone: UTC+11:00
+  Last updated: 12.2021
 ---
 
-Interdependent digital designer.
+Interdependent digital designer. Sometimes writer, researcher, gardener, facilitator.
 
-Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that designs digital tools for and with grassroots organisers.
+Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We design and build digital tools to multiply their impact, build power and achieve radical change.
 
 Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of the trade union United Voices of the World.
 
