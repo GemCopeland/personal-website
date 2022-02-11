@@ -108,6 +108,4 @@ Interdependent digital designer. Sometimes writer, researcher, gardener, facilit
 
 Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We design and build digital tools to multiply their impact, build power and achieve radical change.
 
-Part of the [Designers + Cultural Workers](https://twitter.com/UVW_DCW) branch of the trade union United Voices of the World.
-
 Interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how digital technology can support these practices.
