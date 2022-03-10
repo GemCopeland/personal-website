@@ -1,5 +1,5 @@
 ---
-title: How to Run a Design Sprint, Stir to Action
+title: How to Run a Design Sprint
 type: Article
 subtext: as part of Common Knowledge
 dateFormat: # "year", otherwise will be displayed MM.YYYY
