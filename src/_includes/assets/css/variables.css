@@ -1,12 +1,12 @@
 :root {
-  --background-color: #0D0B07;
-  --color-1: #656051; /* heading text / highlight */
-  --color-2: #0D0B07; /* footer background */
-  --color-black: #5d533b; /* body text */
-  --color-grey: #E3D4C0;
-  --color-grey-dark: #716c5f; /*sub text*/
-  --color-grey-light:#1C1812; /* arena background */
-  --color-white: #0D0B07; /* arena tiles */
+  --background-color: #ffffff; /* BACKGROU|Nd */
+  --color-1: #f46825; /* heading text / highlight */
+  --color-2: #ffffff; /* footer background */
+  --color-black: #534737; /* body text */
+  --color-grey: #000000;
+  --color-grey-dark: #957773; /*sub text*/
+  --color-grey-light:#ffffff; /* arena background */
+  --color-white: #f0ebeb; /* arena tiles */
   --font-small: 0.75rem;
   --gutter: 1rem;
   --line-height-small: 1.4;

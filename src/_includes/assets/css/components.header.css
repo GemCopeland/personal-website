@@ -4,6 +4,7 @@
   margin-bottom: 1.625rem;
   padding-bottom: var(--gutter);
   padding-top: var(--gutter);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .header--desktop,
@@ -40,6 +41,7 @@
 }
 
 .nav__list {
+  font-family: Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: space-between;
 }
@@ -67,6 +69,7 @@
 }
 
 .site-title {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: inherit;
   line-height: inherit;
 }

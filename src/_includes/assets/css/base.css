@@ -48,10 +48,12 @@ small {
 time {
   font-size: var(--font-small);
   line-height: var(--line-height-small);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
 h3 {
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--color-1);
   font-size: var(--font-small);
   font-weight: inherit;
@@ -60,6 +62,7 @@ h3 {
 }
 
 h2 {
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--color-1);
   font-weight: inherit;
   font-size: inherit;
@@ -70,6 +73,7 @@ h2 {
 h4,
 h5,
 h6 {
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--color-black);
   font-size: var(--font-small);
   font-weight: inherit;
@@ -78,7 +82,7 @@ h6 {
 }
 
 strong {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
 }
