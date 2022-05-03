@@ -4,9 +4,11 @@
   --color-2: #ffffff; /* footer background */
   --color-black: #534737; /* body text */
   --color-grey: #000000;
+  --border: #957773; /*sub text*/
+  --border-hover: #f46825; /*sub text*/
   --color-grey-dark: #957773; /*sub text*/
   --color-grey-light:#ffffff; /* arena background */
-  --color-white: #f0ebeb; /* arena tiles */
+  --color-white: #ffffff; /* arena tiles */
   --font-small: 0.75rem;
   --gutter: 1rem;
   --line-height-small: 1.4;
