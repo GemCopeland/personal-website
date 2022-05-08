@@ -70,6 +70,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: After Progress
+    url: https://afterprogress.com/
   - text: Transform Your Work
     url: https://transformyour.work/
   - text: Airsift
@@ -104,7 +106,7 @@ credits: |
   Last updated: 12.2021
 ---
 
-Interdependent digital designer. Sometimes writer, researcher, gardener, facilitator.
+Interdependent digital designer. Sometimes writer, researcher, gardener.
 
 Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We design and build digital tools to multiply their impact, build power and achieve radical change.
 
