@@ -38,7 +38,7 @@ We stayed for a week in a tiny house outside of Hobart. It was so dreamy: a huge
 
 ![The view from our tiny house.](https://d2w9rnfcy7mm78.cloudfront.net/16516816/original_6a02be05cc9670793349b3cc10bb890c.jpg?1652901496?bc=0)
 
-One of our favourite parts of this trip was visiting Paprika and Benjamin in Launceston. They and their house full of books and garden full of veg really inspired us when thinking about how we want to live and where we want to go next.
+One of our favourite parts of this trip was visiting [Paprika](https://www.are.na/paprika-xu) and [Benjamin](https://www.are.na/benjamin-forster) in Launceston. They and their house full of books and garden full of veg really inspired us when thinking about how we want to live and where we want to go next.
 
 The worst part of the trip was getting caught in the terrible [East Coast floods](https://www.theguardian.com/australia-news/australia-east-coast-floods-2022) and having to spend a week in an evacuation centre. More on that in another post, but it was a really intense, visceral reminder of the kind of world that we’re heading towards (that we’re already living in). The depressing thing is that the area flooded again about two weeks after we were there, and now Queensland is flooding yet again.
 
@@ -60,6 +60,7 @@ I’m a little nervous of moving out of a city for the first time, particularly 
 
 > Capital moves people around and draws them to the center: to find your luck you are urged to move from the village to the town, from the town to the regional capital, and from there to the metropolis. […] Resisting capital’s demand for constant movement is for some designers a strategy against precarisation.
 > Being exposed to precarity implies a constant temporariness, a constant flux of building and abandoning social and material structures, thus missing out on the possibility of creating interlinking infrastructures that can take us and others beyond precarity, infrastructures that can support critical practice through dire times.
+
 – from [Design(ers) Beyond Precarity: Proposals for Everyday Action](https://valiz.nl/images/DesignStruggles-DEF_978-94-92095-88-6single-4March21-VALIZ-def.pdf) by Brave New Alps
 
 ## Reading groups
@@ -85,10 +86,6 @@ One of the nice things about being in London again is being able to spend time I
 The space got off to a bit of a slow start due to the pandemic, but it’s feeling more convivial now as people settle in. The hope is that the building will become a bit of a hub for the left in London.
 
 At the moment, our co-op is trying to work out how to move into a calmer, slower, more abundant mindset. We’ve always had this as an intention, but the sheer amount of projects we’ve been working on and other pressures outside of our control have meant that we’ve slipped into frantic, scarcity thinking.
-
-> There is such urgency in the multitude of crises we face, it can make it hard to remember that in fact it is urgency thinking (urgent constant unsustainable growth) that got us to this point, and that our potential success lies in doing deep, slow, intentional work.
-— adrienne maree brown
-> 
 
 I feel really lucky (as ever) to have colleagues that are equally committed to thinking about collective care and addressing burnout. It does feel like things are gradually getting better in terms of our work-life balance.
 
