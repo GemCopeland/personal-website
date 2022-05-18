@@ -14,7 +14,7 @@ tags:
 
 How and I went back to Australia for about three months during Southern Hemisphere summer. Now we’re back in the UK, enjoying the spring, seeing friends and family and cooperators, discussing lots of books and dreaming about what to do next.
 
-![A collage of textures found in Australia.](https://d2w9rnfcy7mm78.cloudfront.net/16516813/original_4af071d06584511083a3db57857fe021.jpg?1652901496?bc=0)
+![A collage of three textures found in Australia.](https://d2w9rnfcy7mm78.cloudfront.net/16516813/original_4af071d06584511083a3db57857fe021.jpg?1652901496?bc=0)
 
 <!-- more -->
 
@@ -24,13 +24,13 @@ This was by far the longest I’ve spent back there since I left ten years ago. 
 
 We mainly stayed in Melbourne and worked remotely, which was a whole new challenge with an 11-hour time difference. We did also go to Queensland to see family, Minjerribah (our usual holiday spot when I was growing up and one of my favourite places in the world), Lennox Head and Brunswick Heads in northern NSW, and Tasmania.
 
-![A farmhouse in rural Victoria.](https://d2w9rnfcy7mm78.cloudfront.net/16516817/original_f5c9128d726f4d69517f9f3013d38e02.jpg?1652901496?bc=0)
+![A brilliant red and yellow sunset in rural Victoria. There is a farmhouse on the left. The grass looks quite dry and there are some eucalypts along the horizon.](https://d2w9rnfcy7mm78.cloudfront.net/16516817/original_f5c9128d726f4d69517f9f3013d38e02.jpg?1652901496?bc=0)
 
-![A kangaroo standing in a field of grass, overlooking the sea, on Minjerribah.](https://d2w9rnfcy7mm78.cloudfront.net/16516812/original_17402fee63f5b32a144f4dac418f2733.jpg?1652901496?bc=0)
+![A kangaroo standing in a field of grass, overlooking the sea, on Minjerribah. The sky looks quite overcast.](https://d2w9rnfcy7mm78.cloudfront.net/16516812/original_17402fee63f5b32a144f4dac418f2733.jpg?1652901496?bc=0)
 
 Visiting Tasmania was one of the highlights. It was my first time there and I was so in love with the natural beauty. It’s one of the first places in the world that’s gone carbon negative as they’ve shut down one of their big logging mills, so now their native forests absorb more carbon than the whole state emits. We saw so many animals there that don’t exist anywhere else.
 
-![A beach on Maria Island, Tasmania.](https://d2w9rnfcy7mm78.cloudfront.net/16516811/original_91d490f76f2c85828710a6d44f4988fb.jpg?1652901496?bc=0)
+![A beach on Maria Island, Tasmania, with white sand and incredible turquoise sea.](https://d2w9rnfcy7mm78.cloudfront.net/16516811/original_91d490f76f2c85828710a6d44f4988fb.jpg?1652901496?bc=0)
 
 ![A wombat on Maria Island, Tasmania.](https://d2w9rnfcy7mm78.cloudfront.net/16516818/original_248bd562c71798f7c66f237ed537f8c4.jpg?1652901497?bc=0)
 
