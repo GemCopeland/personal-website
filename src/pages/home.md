@@ -80,6 +80,8 @@ workList:
     url: http://claimthefuture.today/
   - text: Progressive International
     url: https://progressive.international/
+  - text: StopWatch
+    url: https://www.stop-watch.org/
   - text: Vent Your Rent
     url: https://ventyour.rent/
   - text: La Foresta local network
@@ -88,8 +90,6 @@ workList:
     url: https://omm.art/en/
   - text: ATID
     url: https://atid.uk/
-  - text: Magnum Creative
-    url: https://creative.magnumphotos.com/
   - text: Studio Kunze
     url: https://www.studiokunze.com/
 
@@ -101,9 +101,9 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
-  [Book a meeting](https://calendly.com/gemma-copeland/45min)
-  Timezone: UTC+11:00
-  Last updated: 12.2021
+  [Book a meeting](https://schedule.undersco.re/gemma)
+  Timezone: UTC+1:00
+  Last updated: 06.2022
 ---
 
 Interdependent digital designer. Sometimes writer, researcher, gardener.
