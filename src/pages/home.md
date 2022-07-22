@@ -70,6 +70,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: Future Natures
+    url: https://futurenatures.org/
   - text: After Progress
     url: https://afterprogress.com/
   - text: Transform Your Work
