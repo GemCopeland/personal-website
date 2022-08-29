@@ -76,22 +76,20 @@ workList:
     url: https://futurenatures.org/
   - text: After Progress
     url: https://afterprogress.com/
-  - text: Transform Your Work
-    url: https://transformyour.work/
   - text: Airsift
     url: https://airsift.citizensense.net/
+  - text: Game Worker Solidarity Project
+    url: https://gameworkersolidarity.com/
+  - text: Transform Your Work
+    url: https://transformyour.work/
   - text: Claim the Future
     url: http://claimthefuture.today/
   - text: Progressive International
     url: https://progressive.international/
   - text: StopWatch
     url: https://www.stop-watch.org/
-  - text: Vent Your Rent
-    url: https://ventyour.rent/
   - text: La Foresta local network
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
-  - text: Odunpazari Modern Museum
-    url: https://omm.art/en/
   - text: ATID
     url: https://atid.uk/
 
