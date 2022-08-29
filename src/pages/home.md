@@ -70,6 +70,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: Smart Forests Atlas
+    url: https://atlas.smartforests.net/
   - text: Future Natures
     url: https://futurenatures.org/
   - text: After Progress
@@ -92,8 +94,6 @@ workList:
     url: https://omm.art/en/
   - text: ATID
     url: https://atid.uk/
-  - text: Studio Kunze
-    url: https://www.studiokunze.com/
 
 ##################
 #### Credits #####
