@@ -6,5 +6,5 @@ subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 2022-04-11
 dateStart:
-url: https://felixtaylor.net/project/platten-haus-catalog-1/
+url: https://felixtaylor.net/projects/platten-haus-catalog-1/
 ---

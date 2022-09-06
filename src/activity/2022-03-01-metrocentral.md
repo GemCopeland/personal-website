@@ -6,5 +6,5 @@ subtext: solo show
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 2022-03-11
 dateStart:
-url: https://felixtaylor.net/project/metro-central-heights/
+url: https://felixtaylor.net/projects/metro-central-heights/
 ---
