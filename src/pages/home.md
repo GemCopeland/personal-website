@@ -50,7 +50,7 @@ workList:
   - text: Platten Haus Catalogue 1
     url: https://felixtaylor.net/projects/platten-haus-catalog-1/
   - text: BOOKS Peckham
-    url: https://f618.info/projects/books/
+    url: https://felixtaylor.net/projects/books/
 
 ##################
 #### Credits #####
