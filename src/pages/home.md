@@ -43,10 +43,14 @@ colleagues:
 
 
 workList:
+  - text: SCRAP B
+    url: https://felixtaylor.net/project/scap-b/
+  - text: Decorative Art at Metro Central Heights
+    url: https://felixtaylor.net/project/metro-central-heights/
+  - text: Platten Haus Catalogue 1
+    url: https://felixtaylor.net/project/platten-haus-catalog-1/
   - text: BOOKS Peckham
     url: https://f618.info/projects/books/
-  - text: ECsemblage Magazine
-    url: https://f618.info//ecsemblage-magazine/
 
 ##################
 #### Credits #####
