@@ -5,7 +5,7 @@
 .block {
   font-family: Arial, Helvetica, sans-serif;
   background-color: var(--color-white);
-  margin-bottom: var( );
+  margin-bottom: var(--gutter);
   padding: 1.2rem;
   position: relative;
 }
