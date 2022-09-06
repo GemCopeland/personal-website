@@ -4,7 +4,7 @@ type: Exhibition
 location: APT75, Metro Central Heights, London, UK
 subtext: solo show
 dateFormat: # "year", otherwise will be displayed MM.YYYY
-dateEnd: 2022-04-11
+dateEnd: 2022-03-11
 dateStart:
-url: 
+url: http://localhost:8080/project/metro-central-heights/
 ---

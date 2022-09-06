@@ -1,5 +1,5 @@
 ---
-section: blog
+section: projects
 pagination:
   data: collections
   size: 1
@@ -12,7 +12,7 @@ pagination:
     - profile
     - activityCurrent
     - activityPast
-permalink: /blog/tag/{{ tag | slug }}/
+permalink: /projects/tag/{{ tag | slug }}/
 ---
 {% set title = 'Tag “' ~ tag ~ '”' %}
 <html class="{{ section }} {{ section }}--tag" lang="{{ global.lang }}">
@@ -21,7 +21,7 @@ permalink: /blog/tag/{{ tag | slug }}/
 
   <body>
 
-    {% include "components/header-blog.njk" %}
+    {% include "components/header-projects.njk" %}
 
     <main class="main">
 

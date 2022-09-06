@@ -47,20 +47,8 @@ section: post
 
     <div class="header header--desktop" aria-hidden="true">
       <div class="panel">
-        {% set linkUrl = '/blog/' %}
-        {% set linkText = 'Blog' %}
-        {% set current = true %}
-        {% include "components/nav-link.njk" %}
-      </div>
-      <div class="panel">
         <nav class="nav">
           <ul class="nav__list">
-            <li class="nav__item">
-              {% set linkUrl = '/arena/' %}
-              {% set linkText = 'Arena' %}
-              {% set current = false %}
-              {% include "components/nav-link.njk" %}
-            </li>
             <li class="nav__item">
               {% set linkUrl = '/' %}
               {% set linkText = global.siteTitle %}

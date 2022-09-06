@@ -30,12 +30,12 @@
         {% set current = section == 'arena' %}
         {% include "components/nav-link.njk" %}
       </li>
-      <li class="nav__item nav__item--blog">
-        {% set linkUrl = '/blog/' %}
-        {% set linkText = 'Blog' %}
-        {% set current = section == 'blog' or section == 'post' %}
+      {#<li class="nav__item nav__item--projects">
+        {% set linkUrl = '/projects/' %}
+        {% set linkText = 'projects' %}
+        {% set current = section == 'projects' or section == 'post' %}
         {% include "components/nav-link.njk" %}{% if tag %}<span class="color-grey"> &mdash; </span>{{ tag }}{% endif %}
-      </li>
+      </li>#}
     </ul>
   </nav>
 </header>

@@ -6,16 +6,16 @@
 
 .article .prose > *,
 .panel--profile .panel-contents > * {
-  max-width: 34rem;
+  max-width: 40rem;
 }
 
-.blog .main,
+.projects .main,
 .post .main {
   display: flex;
   flex-direction: column;
 }
 
-.blog .main section,
+.projects .main section,
 .post .main section {
   flex-grow: 1;
 }

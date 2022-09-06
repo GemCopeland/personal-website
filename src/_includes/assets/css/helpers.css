@@ -2,7 +2,7 @@
 ** Helpers **
 ****************/
 .visually-hidden {
-  /* NOTE accessible hide via https://a11yproject.com/posts/how-to-hide-content/ */
+  /* NOTE accessible hide via https://a11yprojects.com/posts/how-to-hide-content/ */
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
   overflow: hidden;

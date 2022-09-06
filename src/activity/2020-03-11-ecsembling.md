@@ -1,6 +1,6 @@
 ---
 title: ECSEMBLING 1
-type: Magazine
+type: Publication
 location: Lockdown, London, UK
 subtext: as part of Evening Class
 dateFormat: # "year", otherwise will be displayed MM.YYYY

@@ -4,22 +4,20 @@
 ##################
 layout: layouts/home.njk
 title: Felix Taylor
-strapline: Designer
+strapline: 
 permalink: /
-metaDescription:
+metaDescription: Designer
 
 ##################
 #### Contact #####
 ##################
 name: Felix Taylor
-email: mail@f618.info
+email: f3lixtaylor@pm.me
 sameAs:
   - text: Arena
     url: https://www.are.na/felix-taylor
   - text: Instagram
     url: https://www.instagram.com/f3lixtaylor/
-  - text: Letterboxd
-    url: https://letterboxd.com/f618/
 
 ##################
 #### Activity ####
@@ -36,8 +34,6 @@ colleagues:
     url: https://alessiaarcuri.com/
   - name: Evening Class
     url: https://evening-class.org/
-  - name: Gemma Copeland
-    url: https://gemmacope.land/
   - name: PC World
     url: https://gobnation.bandcamp.com/album/s-t
   - name: Peckham Books
@@ -48,7 +44,7 @@ colleagues:
 
 workList:
   - text: BOOKS Peckham
-    url: https://f618.info/blog/books/
+    url: https://f618.info/projects/books/
   - text: ECsemblage Magazine
     url: https://f618.info//ecsemblage-magazine/
 
@@ -62,5 +58,4 @@ credits: |
   
 ---
 
-Industrial designer in London. Designer and Fabricator at [JAILMAKE](https://jailmake.com). Member of [Evening Class](https://evening-class.org) and the Designers and Cultural Workers branch of [UVW](https://twitter.com/UVW_DCW).
-
+Industrial designer in Geneva. [MAIA](https://head-maia.ch/) student at HEAD. Creator of [Platten Haus](https://www.instagram.com/platten.haus/). Formely designer and fabricator at [JAILMAKE](https://jailmake.com).

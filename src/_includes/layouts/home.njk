@@ -29,22 +29,6 @@ section: home
 
       <aside class="panel panel--blocks" aria-hidden="true">
         <div class="header header--panel">
-          <nav class="nav">
-            <ul class="nav__list">
-              <li class="nav__item">
-                {% set linkUrl = '/arena/' %}
-                {% set linkText = 'Arena' %}
-                {% set current = false %}
-                {% include "components/nav-link.njk" %}
-              </li>
-              <li class="nav__item">
-                {% set linkUrl = '/blog/' %}
-                {% set linkText = 'Blog' %}
-                {% set current = false %}
-                {% include "components/nav-link.njk" %}
-              </li>
-            </ul>
-          </nav>
         </div>
         <div class="panel-contents">
           {% include "components/blocks.njk" %}

@@ -1,7 +1,7 @@
 {
-  "arrowsNext": "→, ↳, ↬, ➝, ➨, ⇢, ➺, ➽, ➯, ➔, ⤷, ⫸",
-  "arrowsPrevious": "←, ↵, ↫, ⬱, ⬸, ⬳, ⬿, ⤶, ⫷",
-  "arrowsTop": "↟, ⇑, ⬏, ↑, ⇡, ⟰, ⤴",
+  "arrowsNext": "→",
+  "arrowsPrevious": "←",
+  "arrowsTop": "↑",
   "lang": "en",
   "schemaType": "Person",
   "siteTitle": "Felix Taylor",
