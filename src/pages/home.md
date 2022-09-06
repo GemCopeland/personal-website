@@ -44,11 +44,11 @@ colleagues:
 
 workList:
   - text: SCRAP B
-    url: https://felixtaylor.net/project/scap-b/
+    url: https://felixtaylor.net/projects/scap-b/
   - text: Decorative Art at Metro Central Heights
-    url: https://felixtaylor.net/project/metro-central-heights/
+    url: https://felixtaylor.net/projects/metro-central-heights/
   - text: Platten Haus Catalogue 1
-    url: https://felixtaylor.net/project/platten-haus-catalog-1/
+    url: https://felixtaylor.net/projects/platten-haus-catalog-1/
   - text: BOOKS Peckham
     url: https://f618.info/projects/books/
 
