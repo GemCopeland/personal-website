@@ -49,9 +49,7 @@ workList:
     url: https://felixtaylor.net/projects/metro-central-heights/
   - text: Platten Haus Catalogue 1
     url: https://felixtaylor.net/projects/platten-haus-catalog-1/
-  - text: BOOKS Peckham
-    url: https://felixtaylor.net/projects/books/
-
+    
 ##################
 #### Credits #####
 ##################
