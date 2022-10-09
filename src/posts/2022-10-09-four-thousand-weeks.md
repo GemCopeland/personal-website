@@ -12,6 +12,8 @@ tags:
 
 I really enjoyed this book by Oliver Burkeman. It’s less of a self-help book, more of a meditation on time and our relationship to it. It reminded me a bit of another all-time favourite of mine, *How To Do Nothing*.
 
+![Illustration from the cover of Four Thousand Weeks. A classical statue is being crushed by the weight of a clock.](https://d2w9rnfcy7mm78.cloudfront.net/18419637/original_392fdbd262a19caec36603d3891ff00b.jpg?1665331720?bc=0)
+
 Most productivity frameworks are about trying to control your time and squeeze more activity into your finite day. You end up spending all your time “clearing the decks” of urgent but unimportant tasks, and never actually get around to the really important stuff. Day-to-day life becomes an endless to-do list that we have to get through efficiently on the pathway to a point where our real life can begin.
 
 Burkeman suggests there is always going to be too much to do and there will never be enough time. We shouldn’t try to be more productive, but instead embrace our finitude and accept that there’s a whole lot of stuff that we’re just never going to do.
