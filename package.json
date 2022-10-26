@@ -25,13 +25,13 @@
   "homepage": "https://github.com/GemCopeland/personal-website#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
-    "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "are.na": "^0.1.1",
-    "luxon": "^1.25.0"
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "are.na": "^0.1.5",
+    "luxon": "^1.28.0"
   },
   "dependencies": {
-    "clean-css": "^4.2.1",
-    "jshint": "^2.12.0",
+    "clean-css": "^4.2.4",
+    "jshint": "^2.13.5",
     "tumblr.js": "^3.0.0",
     "uglify-es": "^3.3.9"
   }
