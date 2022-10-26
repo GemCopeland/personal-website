@@ -60,4 +60,4 @@ credits: |
   
 ---
 
-Industrial designer in Geneva. [MAIA](https://head-maia.ch/) student at HEAD. Creator of [Platten Haus](https://www.instagram.com/platten.haus/). Formely designer and fabricator at [JAILMAKE](https://jailmake.com).
+Designer in Berlin. Creator of [Platten Haus](https://www.instagram.com/platten.haus/). Formely designer and fabricator at [JAILMAKE](https://jailmake.com).
