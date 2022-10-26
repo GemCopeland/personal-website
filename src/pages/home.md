@@ -60,4 +60,4 @@ credits: |
   
 ---
 
-Industrial / Interior Designer in Berlin. Creator of [Platten Haus](https://www.instagram.com/platten.haus/). Formely designer and fabricator at [JAILMAKE](https://jailmake.com).
+Industrial / interior designer in Berlin. Creator of [Platten Haus](https://www.instagram.com/platten.haus/). Formely designer and fabricator at [JAILMAKE](https://jailmake.com).
