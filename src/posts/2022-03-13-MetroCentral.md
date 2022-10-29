@@ -1,5 +1,5 @@
 ---
-title: Decorative Art at Metro Central Heights
+title: Metro Central Heights
 displayTitle: false
 tags: 
 - Personal Work
