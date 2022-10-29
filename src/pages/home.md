@@ -22,7 +22,7 @@ sameAs:
 ##################
 #### Activity ####
 ##################
-# See /src/activity; automatically sorted by filename descending
+# See /src/activity; automatically sorted by filename descend
 
 ##################
 ###### Work ######
