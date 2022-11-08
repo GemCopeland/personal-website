@@ -15,9 +15,6 @@ tags:
 How and I went back to Australia for about three months during Southern Hemisphere summer. Now we’re back in the UK, enjoying the spring, seeing friends and family and cooperators, discussing lots of books and dreaming about what to do next.
 
 ![A collage of three textures found in Australia.](https://d2w9rnfcy7mm78.cloudfront.net/16516813/original_4af071d06584511083a3db57857fe021.jpg?1652901496?bc=0)
-
-<!-- more -->
-
 ## Trip to Australia
 
 This was by far the longest I’ve spent back there since I left ten years ago. I feel so grateful to have a place like that to go back to, to have the freedom to move, and to see friends and family for the first time in two very strange years.
