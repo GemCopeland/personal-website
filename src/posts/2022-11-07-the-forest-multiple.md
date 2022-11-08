@@ -24,7 +24,7 @@ Many of our projects are centred around building tools that encourage localised 
 
 We started working on the Smart Forests Atlas in early 2021, after working with [Jennifer Gabrys](https://www.jennifergabrys.net/) / [Planetary Praxis](https://planetarypraxis.org/) on the [Airsift](https://airsift.citizensense.net/) platform in 2020. What we liked about the Atlas was that it questioned and complicated the practice of mapping, particularly its colonial roots. When the Smart Forests team briefed us, they made sure to stress that they weren’t trying to present a neutral, top-down view of the world, but an entangled, situated, plural, participatory one – a “prismatic collection of mappings” to borrow Shannon Mattern’s words:
 
-> Ideally, we should balance or juxtapose different modes of knowledge and production: Western scientific and indigenous epistemologies, human and other-species ontologies, mechanical and organic means of experiencing and representing place, cartographic rationalism and empiricism, projection and retrospection. No single über-map can encompass all such subjectivities and sensibilities. **Instead, we can aim for an atlas, a prismatic collection of mappings, that invites comparison and appreciation of the ways in which our world is both known and unknown.**
+> Ideally, we should balance or juxtapose different modes of knowledge and production: Western scientific and indigenous epistemologies, human and other-species ontologies, mechanical and organic means of experiencing and representing place, cartographic rationalism and empiricism, projection and retrospection. No single über-map can encompass all such subjectivities and sensibilities. Instead, we can aim for an atlas, a prismatic collection of mappings, that invites comparison and appreciation of the ways in which our world is both known and unknown.
 
 The process of working on the Atlas stretched our thinking around designing digital experiences. Software development tends towards binary thinking and absolute truths, simplifying complex information so it can fit into a structured database or a set of user personas. In this project, we were asked to do the opposite of this: exploring multiplicity, complexity and more-than-human contributors.
 
@@ -117,5 +117,5 @@ In many ways, we’re just getting started with the Smart Forests Atlas. A websi
 
 Further reading:
 - [Visit the Atlas](https://atlas.smartforests.net/)
-- Read the Smart Forests research team's paper on [**Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform**](https://dl.acm.org/doi/10.1145/3537797.3537804)
+- Read the Smart Forests research team's paper on [*Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform*](https://dl.acm.org/doi/10.1145/3537797.3537804)
 - Read Maggie Appleton's post on [The History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
