@@ -34,15 +34,13 @@ I was frequently reminded of the Smart Forests Atlas while reading [James Bridle
 
 This project was an opportunity to really explore this idea in practice. It was a fascinating and, at times, challenging, project to work on. (I think at one point we wrote user stories for a tree.) I’m really grateful to have had the opportunity to think about these questions so deeply.
 
-### Research
+### Process
 
 We started working on the design of the Atlas in parallel with the team developing the concept and starting their initial research. We began with a workshop with us and the Smart Forests team, where we explored their ideas around what the Atlas could be.
 
 ![Screenshots from our collaborative workspaces in Notion and Miro.](https://d2w9rnfcy7mm78.cloudfront.net/18879641/original_b002bf3825fc4ea1c417c0429143d1ec.jpg?1667894931?bc=0)
 
 Our goal with the design was to strike a balance between usability and experimentation. We wanted to the Atlas to challenge conventional expectations about what a digital experience could be, but we also wanted to make sure that people could find their way around the site and access the content. We wanted the site to have its own voice, but without overpowering the contributors’ content and the diverse forms that this might take.
-
-### Visual design
 
 We started by mapping out the site, content taxonomy and modules. We went through several iterations of the design, moving from low fidelity wireframes to high fidelity visual designs. We met with the Smart Forests team a number of times to feedback on the designs and shape the direction of Atlas.
 
@@ -66,8 +64,6 @@ Visitors are invited to explore the content and go on tangents according to thei
 ▲ Some early visual language sketches. I was looking for ways to visually show plurality – through always using multiple photos to communicate an idea, using a wide range of greens in the colour palette, using pixelated or blurred imagery and reversing expectations around foreground and background with the map.
 
 The Atlas is designed so that there are multiple entrypoints into the content. Visitors are encouraged to wander through the site according to their own interests, guided by the four wayfinding devices (Map, Radio, Stories, Logbooks). 
-
-![The four wayfinding icons.](https://d2w9rnfcy7mm78.cloudfront.net/18879630/original_56ec89ea34e8bdd8621645d6bca8ba8e.jpg?1667894924?bc=0)
 
 The design of each wayfinding device is visually differentiated through icons, typography and content structure, while remaining densely interconnected through the tagging system.
 
