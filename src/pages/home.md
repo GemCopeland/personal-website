@@ -4,7 +4,7 @@
 ##################
 layout: layouts/home.njk
 title: Gemma Copeland
-strapline: Digital design
+strapline: Digital design, cooperatives, community, grassroots politics
 permalink: /
 metaDescription:
 
@@ -12,12 +12,12 @@ metaDescription:
 #### Contact #####
 ##################
 name: Gemma Copeland
-email: mail@gemmacope.land
+email: gemmacopeland@pm.me
 sameAs:
   - text: Arena
     url: https://www.are.na/gemma-copeland
-  - text: Twitter
-    url: https://twitter.com/gemcopeland
+  - text: Mastodon
+    url: https://social.coop/@gem
   - text: GitHub
     url: https://github.com/GemCopeland
 
@@ -54,6 +54,8 @@ colleagues:
     url: https://maydayrooms.org/
   - name: The New Design Congress
     url: https://newdesigncongress.org/en/
+  - name: Paprika Xu
+    url: https://paprikaxu.com/
   - name: Piper Haywood
     url: https://piperhaywood.com
   - name: Rectangle
@@ -102,8 +104,8 @@ credits: |
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
 
   [Book a meeting](https://schedule.undersco.re/gemma)
-  Timezone: UTC+1:00
-  Last updated: 06.2022
+  Timezone: UTC+0:00
+  Last updated: 11.2022
 ---
 
 Interdependent digital designer. Sometimes writer, researcher, gardener.
