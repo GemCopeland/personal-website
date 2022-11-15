@@ -8,7 +8,7 @@ tags:
 
 I’m [@gem@social.coop](https://social.coop/@gem) on Mastodon. 
 
-I like it much more than Twitter already! I had gotten to a point where I barely posted anything on Twitter because it was too noisy and overwhelming, and reading the feed mainly made me feel depressed about the world. Boy, there were some good memes though.
+I like it much more than Twitter already! I had gotten to a point where I barely posted anything on Twitter because it was too noisy and overwhelming, and reading the feed mainly made me feel depressed about the world. There sure were some good memes though.
 
 I found a tool called [Debirdify](https://pruvisto.org/debirdify/) that helps you find your Twitter friends on Mastodon.
 
