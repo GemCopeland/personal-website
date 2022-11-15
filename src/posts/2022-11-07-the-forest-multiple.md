@@ -14,6 +14,8 @@ tags:
 
 Alex and I had the pleasure of going to Cambridge to launch the [Smart Forests Atlas](https://atlas.smartforests.net/en-gb/) at [The Forest Multiple](https://smartforests.net/the-forest-multiple-program/) in October. We've been working on the Smart Forests Atlas for a good part of last year, so it was great to publicly launch it.
 
+<!-- more -->
+
 ![A photo from our talk introducing the Atlas.](https://d2w9rnfcy7mm78.cloudfront.net/18879847/original_0827f298aaf3415427911d8b502f89ce.jpg?1667896592?bc=0)
 
 All of the other speakers were incredibly interesting, exploring topics like the complexity and limitations of carbon sequestering and the politics of sensing and monitoring. Some of the highlights included [Lydia Gibson](https://www.ucl.ac.uk/institute-of-advanced-studies/dr-lydia-gibson), [Jenny Goldstein](https://cals.cornell.edu/jenny-elaine-goldstein) and [Tone Walford](https://www.ucl.ac.uk/anthropology/people/academic-and-teaching-staff/tone-walford). I really loved [Andrea Botero Cabrera's](https://www.aalto.fi/en/people/andrea-botero-cabrera) playful [more-than-human derivé](https://more-than-human-derive.net/about/) project which I felt brought everything back down to earth.
