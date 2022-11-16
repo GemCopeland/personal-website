@@ -39,8 +39,8 @@ const toggleContrast = () => {
 
 // Set the tab index
 const setTabbing = (matches, mainElems, panelElems) => {
-  let badLinks = matches ? mainElems : panelElems;
-  let goodLinks = matches ? panelElems : mainElems;
+  const badLinks = matches ? mainElems : panelElems;
+  const goodLinks = matches ? panelElems : mainElems;
   badLinks.forEach(link => {
     link.setAttribute("tabindex", "-1");
   });
@@ -51,8 +51,8 @@ const setTabbing = (matches, mainElems, panelElems) => {
 
 // Switch the contrast ID for the skip link
 const idContrast = (matches, mainContrast, panelContrast) => {
-  let badButton = matches ? mainContrast : panelContrast;
-  let goodButton = matches ? panelContrast : mainContrast;
+  const badButton = matches ? mainContrast : panelContrast;
+  const goodButton = matches ? panelContrast : mainContrast;
   badButton.removeAttribute("id");
   goodButton.setAttribute("id", "contrast");
 };
