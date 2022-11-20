@@ -4,6 +4,7 @@ displayTitle: true
 tags: 
 - reading
 - technology
+- social media
 ---
 
 I’ve had quite stringent settings on my phone for a long time: no badges, barely any notifications, screen time restrictions on social media and downtime in the evening. Despite all this, I still spend around 90–120 minutes on my phone every day. Like most of us, I default to picking up my phone and doom-scrolling every time there is minute or two of empty time.
@@ -28,3 +29,5 @@ Here’s a few blogs and newsletters that I really love:
 - [*Branch*](https://branch.climateaction.tech/issues/), an online magazine about using the internet as a positive force for climate justice.
 - [*Climate in Colour*](https://climateincolour.substack.com/), on the intersection of climate science, diversity and sustainable living.
 - [*We Can Fix It*](https://wecanfixit.substack.com/), on facing climate change with a mix of fact, feelings and action.
+
+By the way — my own RSS feed is available [here](https://gemmacope.land/feed.xml).
