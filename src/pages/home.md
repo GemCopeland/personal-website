@@ -20,6 +20,8 @@ sameAs:
     url: https://social.coop/@gem
   - text: GitHub
     url: https://github.com/GemCopeland
+  - text: Twitter
+    url: https://twitter.com/GemCopeland
 
 ##################
 #### Activity ####
@@ -38,8 +40,6 @@ colleagues:
     url: https://www.brave-new-alps.com/
   - name: Carvalho Bernau
     url: http://carvalho-bernau.com/
-  - name: Chris Lacy
-    url: http://christopherlacy.co.uk/
   - name: Evening Class
     url: https://evening-class.org/
   - name: Feminist Open Source Group
@@ -66,8 +66,6 @@ colleagues:
     url: https://soniaturcotte.com/
   - name: Sam Baldwin
     url: https://sambaldwin.info/
-  - name: STRIKE!
-    url: http://www.strike.coop/
   - name: Yuli Serfaty
     url: https://yuliserfaty.com/
 
@@ -102,10 +100,9 @@ credits: |
   This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by Piper Haywood. If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
-
-  [Book a meeting](https://schedule.undersco.re/gemma)
-  Timezone: UTC+0:00
-  Last updated: 11.2022
+  [Book a meeting](https://calendly.com/gemma-copeland)
+  Timezone: UTC+1:00
+  Last updated: 12.2022
 ---
 
 Interdependent digital designer. Sometimes writer, researcher, gardener.
