@@ -67,11 +67,8 @@ module.exports = (eleventyConfig) => {
   );
 
   // Add profile collection so that we can access this outside of homepage
-  // TODO Surely there is a better way to do this? Possible to create a data file that pulls from home.md?
   eleventyConfig.addCollection("profile", (collection) => {
-    return collection
-      .getAll()
-      .find((item) => item.data.section === "home" && !!item.data.colleagues);
+    return collection.getFilteredByGlob('**/pages/home.md')[0];
   });
 
   // Create Posts collection
