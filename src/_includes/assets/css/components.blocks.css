@@ -61,6 +61,7 @@
   max-height: 3.75rem;
   padding-bottom: 0.625rem;
   padding-right: 0.625rem;
+  min-height: 60px; /* match to height of images to stop "pop" */
 }
 
 .block__arrow {
