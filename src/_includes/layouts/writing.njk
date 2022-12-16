@@ -2,7 +2,7 @@
 section: writing
 pagination:
   data: collections.posts
-  size: 20
+  size: 10
   alias: posts
 ---
 <html class="{{ section }}" lang="{{ global.lang }}">
@@ -18,7 +18,7 @@ pagination:
       {# TODO add layout content? #}
       
       <section>
-        {% for post in collections.posts %}
+        {% for post in posts %}
           {% include "components/single-post.njk" %}
         {% endfor %}
       </section>
