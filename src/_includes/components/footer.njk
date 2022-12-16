@@ -1,17 +1,17 @@
 {# Get the profile content #}
-{% set profile = collections.profile[0] %}
+{% set profile = collections.profile.data %}
 
-{%- if profile.data.colleagues.length or profile.data.credits -%}
+{%- if profile.colleagues.length or profile.credits -%}
   <footer class="footer footer--site">
 
-    {%- if profile.data.colleagues.length -%}
+    {%- if profile.colleagues.length -%}
       <section class="section section--footer prose">
         <div class="subtle-links">
 
           <h2>Friends and collaborators</h2>
 
           <ul>
-            {% for person in profile.data.colleagues %}
+            {% for person in profile.colleagues %}
               <li>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
             {% endfor %}
           </ul>
@@ -19,12 +19,12 @@
       </section>
     {%- endif -%}
 
-    {%- if profile.data.credits -%}
+    {%- if profile.credits -%}
       <section class="section section--footer prose">
 
         <h2>Details</h2>
 
-        {{ profile.data.credits | markdownify | safe }}
+        {{ profile.credits | markdownify | safe }}
 
       </section>
     {%- endif -%}

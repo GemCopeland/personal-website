@@ -7,20 +7,13 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const now = new Date();
 
 module.exports = (eleventyConfig) => {
-  eleventyConfig.setBrowserSyncConfig({
-    notify: true,
-  });
+  eleventyConfig.setBrowserSyncConfig({ notify: true });
+  eleventyConfig.setDataDeepMerge(false);
+  eleventyConfig.setLiquidOptions({ strictFilters: false, dynamicPartials: false });
+
 
   // Add plugin
   eleventyConfig.addPlugin(pluginRss);
-
-  // Add profile collection so that we can access this outside of homepage
-  // TODO Surely there is a better way to do this? Possible to create a data file that pulls from home.md?
-  eleventyConfig.addCollection("profile", (collection) => {
-    return collection.getAll().filter((item) => {
-      return item.data.section == "home";
-    });
-  });
 
   // Add excerpts
   eleventyConfig.setFrontMatterParsingOptions({
@@ -34,13 +27,19 @@ module.exports = (eleventyConfig) => {
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", (code) => {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
+  eleventyConfig.addFilter("jsmin", (original) => {
+    const { error, code, warnings } = UglifyJS.minify(original);
+
+    if (error) {
+      console.log("UglifyJS error: ", error);
+      return original;
     }
-    return minified.code;
+
+    if (warnings) {
+      console.log("UglifyJS warnings: ", warnings);
+    }
+    
+    return code;
   });
 
   // Date formatting
@@ -61,38 +60,44 @@ module.exports = (eleventyConfig) => {
     return url.replace(/^(https?:|)\/\//, "");
   });
 
+  eleventyConfig.addFilter("debug", (obj) => {
+    console.log('debug', obj);
+    return `debug: ${obj?.toString() || obj}`
+  }
+  );
+
+  // Add profile collection so that we can access this outside of homepage
+  eleventyConfig.addCollection("profile", (collection) => {
+    return collection.getFilteredByGlob('**/pages/home.md')[0];
+  });
+
   // Create Posts collection
   eleventyConfig.addCollection("posts", (collection) => {
-    const livePosts = (p) => p.date <= now;
     return collection
-      .getFilteredByGlob("./src/posts/*.md")
-      .filter(livePosts)
+      .getFilteredByGlob('**/posts/*.md')
+      .filter((p) => p.date <= now)
       .reverse();
   });
 
   // Create activityCurrent collection
   eleventyConfig.addCollection("activityCurrent", (collection) => {
     return collection
-      .getFilteredByGlob("./src/activity/*.md")
-      .filter((item) => {
-        return item.data.dateEnd >= now;
-      })
+      .getFilteredByGlob('**/activity/*.md')
+      .filter((item) => item.data.dateEnd >= now)
       .reverse();
   });
 
   // Create activityPast collection
   eleventyConfig.addCollection("activityPast", (collection) => {
     return collection
-      .getFilteredByGlob("./src/activity/*.md")
-      .filter((item) => {
-        return item.data.dateEnd < now;
-      })
+      .getFilteredByGlob('**/activity/*.md')
+      .filter((item) => item.data.dateEnd < now)
       .reverse();
   });
 
   // Markdown
-  let markdownIt = require("markdown-it");
-  let options = {
+  const markdownIt = require("markdown-it");
+  const options = {
     html: true,
     breaks: true,
     linkify: true,
@@ -119,7 +124,7 @@ module.exports = (eleventyConfig) => {
     dataTemplateEngine: "njk",
     // passthroughFileCopy: true,
     dir: {
-      input: "src/.",
+      input: "src",
       includes: "_includes",
       data: "_data",
       output: "_dist",

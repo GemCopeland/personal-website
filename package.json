@@ -25,10 +25,11 @@
   },
   "homepage": "https://github.com/GemCopeland/personal-website#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-rss": "^1.0.7"
   },
   "dependencies": {
+    "@11ty/eleventy-upgrade-help": "^1.0.1",
     "are.na": "0.1.5",
     "clean-css": "^4.2.1",
     "luxon": "^3.1.0",
