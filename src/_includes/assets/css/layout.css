@@ -1,5 +1,5 @@
 .article--single {
-  margin-bottom: 3.125rem;
+  margin-bottom: 10rem;
   padding-left: var(--gutter);
   padding-right: var(--gutter);
 }
@@ -18,4 +18,9 @@
 .writing .main section,
 .post .main section {
   flex-grow: 1;
+}
+
+.writing--section {
+  align-self: center;
+  margin-top: 5rem;
 }
