@@ -1,5 +1,5 @@
 ---
-title: UnFound Accelerator
+title: UnFound Accelerator 2022
 type: Workshops
 location: UK
 subtext:
