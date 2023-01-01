@@ -78,8 +78,6 @@ Despite this turbulence, I think we've done some great work. The type of work we
 
 The good thing about these bigger projects is that we got to do more extensive research and discovery phases, which I deeply enjoyed. (Shout out to [Dovetail](https://dovetailapp.com/) for being the best research tool out there.) I feel like I learned a lot about interviewing people and I got over some of my insecurities around this. In particular, Will Myddelton's [framework](https://www.myddelton.co.uk/blog/discovery-block-diagram) for running discoveries provided us with a lot of useful guidance.
 
-![Will Myddelton's discovery block diagram. The first block says "Context", with an arrow pointing to "Problem", then arrows to "Users / Tech / Policy", then "Findings" then "Alphas".](https://d2w9rnfcy7mm78.cloudfront.net/19627480/original_e76bb44f42c8c202a104e65c7f0bc737.png?1672480446?bc=0)
-
 The biggest project we did was a complete redesign and replatform for [Humanitarian OpenStreetMap Team](https://hotosm.org/), an international organisation focused on humanitarian action and community-led development through participatory mapping and open data. This was a huge undertaking but we all learned a lot and I'm proud of the result. HOT are still working on the content at the moment but hopefully the new site should be launching early next year.
 
 I really enjoyed working with [The Architecture Lobby](http://architecture-lobby.org/). I interviewed a bunch of their organisers in the US, which was an interesting look at a different political landscape. We made recommendations for gradually streamlining their entire digital infrastructure alongside redesigning their website, which should also launch next year.
