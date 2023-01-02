@@ -17,7 +17,7 @@ sameAs:
   - text: Arena
     url: https://www.are.na/gemma-copeland
   - text: Mastodon
-    url: https://social.coop/@gem
+    url: <a rel="me" href="https://social.coop/@gem">https://social.coop/@gem</a>
   - text: GitHub
     url: https://github.com/GemCopeland
   - text: Twitter
