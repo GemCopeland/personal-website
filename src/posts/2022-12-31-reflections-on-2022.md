@@ -21,27 +21,27 @@ This year has been a bit of a weird one because How and I still don't have a per
 - Visiting the [Centre for Alternative Technology](https://gemmacope.land/writing/centre-for-alternative-technology/) in Wales
 
 ![A mural of a maroon, blue and gold butterfly that says "Camberwell Beauty".](https://d2w9rnfcy7mm78.cloudfront.net/19627478/original_e54b92882ac1fd7f2c903f42c023ae14.jpg?1672480432?bc=0)
-▲ Camberwell Beauty
+▴ Camberwell Beauty
 
 ![A volunteer day at a community garden. People are tending to the garden beds.](https://d2w9rnfcy7mm78.cloudfront.net/19627477/original_467ab851124e934876983b4dccc5d86a.jpg?1672480430?bc=0)
-▲ Glengall Wharf Gardens in Camberwell
+▴ Glengall Wharf Gardens in Camberwell
 
 ![A moored canal boat. The sun is shining and it's mid-summer.](https://d2w9rnfcy7mm78.cloudfront.net/19627479/original_11a0fce00902efca93230798d48797ce.jpg?1672480432?bc=0)
-▲ Visiting friends and their boat Dirty Penny in Oxford
+▴ Visiting Leila & Stu and their boat Dirty Penny in Oxford
 
 ![Parisian apartment blocks at twilight. The lights are on and they look warm and cozy against the evening sky.](https://d2w9rnfcy7mm78.cloudfront.net/19627483/original_0361692dab5e73ff33eedf9b7b7c4461.jpg?1672480448?bc=0)
-▲ The view from our friend's place in Paris
+▴ The view from Luke & Reba's place in Paris
 
 This year we did a few more multiday hikes and I hope next year we'll do many more. I find hiking to be so meditative. I love walking through different landscapes, being completely connected to my body, seeing the stars, waking up again in the middle of it. 
 
 ![Me standing in a field of heather with a hiking pack on. The sky is blue with some scattered clouds.](https://d2w9rnfcy7mm78.cloudfront.net/19627474/original_07ec6cf3ce1a3f9c533026f037b726c8.jpg?1672480415?bc=0)
-▲ Hiking near Coed y Brenin
+▴ Hiking near Coed y Brenin
 
 ![Early evening by a beautiful lake. How is sitting in front of our tent. It looks peaceful and quiet.](https://d2w9rnfcy7mm78.cloudfront.net/19627476/original_ea255a126bb25aa4a0c7795bbf9d4a2c.jpg?1672480428?bc=0)
-▲ Camping next to Llyn Du
+▴ Camping next to Llyn Du
 
 ![How swimming in a bright blue lake beneath a mountain.](https://d2w9rnfcy7mm78.cloudfront.net/19627482/original_9cff128317405c8515aceb7bc90d6542.jpg?1672480447?bc=0)
-▲ Swimming in Llyn y Gader
+▴ Swimming in Llyn y Gader
 
 - More photos of [camping in Wales](https://gemmacope.land/writing/mirror/)
 
@@ -56,7 +56,7 @@ I've really enjoying doing more [weaving](https://gemmacope.land/writing/woven/)
 Another big change was beginning therapy. I've been finding it transformative to have regular sessions. It's helped me to reflect on big patterns in my life, pay attention to my body and learn frameworks for dealing with future situations, having difficult conversations and giving clean feedback.
 
 ![Sunset on the estuary. The foreground is quite dark but you can vaguely see a car driving ahead of us.](https://d2w9rnfcy7mm78.cloudfront.net/19627472/original_1c8d04f7dc894ce6b95b82fbabfd618f.jpg?1672480413?bc=0)
-▲ Driving along the coast in north Wales
+▴ Driving along the coast in north Wales
 
 ### Books
 
