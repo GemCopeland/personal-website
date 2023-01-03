@@ -58,6 +58,18 @@ On an even more intimate level, this is why I love reading together with friends
 
 ▴ Ursula Le Guin
 
+Even without the community element, Obsidian's backlinks and outgoing links are interesting because they create a network from your thoughts. Individual ideas become less important that the links between multiple ideas. 
+
+One of the suggestions of Giles Turnbull's *[Agile Comms Handbook](https://agilecommshandbook.com/)* (which I reference at work *all the time*) is to gradually build a narrative over time. I love this approach because it removes the need for each post to be a perfect, polished thought. This makes publishing less intimidating and more like thinking out loud. It allows for your ideas to change over time too.
+
+> In this way a blog, comprising a series of posts, can become a digital hyperlinked narrative of thought. New posts can link back to past posts. Teams can document what changes, and show how it has changed. They can show how their minds have changed, and what evidence or research brought those changes about.
+
+This fits with [Jay Springett's](https://www.thejaymo.net/2022/07/23/301-2229-10-tips-for-creating-online/) and [Matt Webb's](https://interconnected.org/home/2020/09/10/streak) advice for publishing online too, which in turn vibes with Julia Cameron's [morning pages practice](https://gemmacope.land/writing/on-routines/) that I mentioned previously.
+
+> Persistent work, created with rhythm, results in an accumulation of creativity. The demonstration of effort, the work of the body, becomes practice.
+
+▴ Jay Springett
+
 <br>
 
 <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/gemma-copeland/hypertext-geuic_uy2sc/embed" title="Hypertext"></iframe>
