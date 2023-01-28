@@ -8,6 +8,7 @@ tags:
 - identity
 - adaptation
 - film
+- Emily St John Mandel
 ---
 
 I read three of [Emily St John Mandel’s](https://www.emilymandel.com/) books in quick succession last month: *Sea of Tranquility*, *The Glass Hotel* and *Station Eleven*. Her work often involves parallel universes and time travel, but it's subtle and bit different to a lot of the science fiction I read. More like narrative where the boundaries between moments in time feel shimmering and fragile.

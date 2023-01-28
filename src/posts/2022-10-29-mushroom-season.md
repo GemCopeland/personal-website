@@ -7,6 +7,8 @@ tags:
 - nature
 - walk
 - London
+- foraging
+- friends
 ---
 
 October is mushroom season! Last Saturday was particularly bright and sunny after a few days of rain, which is perfect for mushrooms. We went to Hampstead Heath with a few friends who forage mushrooms regularly.

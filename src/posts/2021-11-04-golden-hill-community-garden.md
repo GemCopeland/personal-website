@@ -6,6 +6,12 @@ tags:
 - life
 - climate crisis
 - growth
+- four day week
+- garden
+- Bristol
+- adrienne maree brown
+- Graham Jones
+- Bill Moyer
 ---
 
 A couple of months ago, we decided that all co-op members should move to a four-day week at no loss of pay. We think it's a really important demand, an idea whose time has come, and we wanted to try it out for ourselves. So far, it's been super successful. We all feel happier and like we have a better work-life balance, yet we're just as—if not more—productive. I've written a bit more about why we did this over on the [Common Knowledge blog](https://commonknowledge.coop/writing/moving-to-a-four-day-week).

@@ -4,6 +4,9 @@ displayTitle: false
 tags: 
 - work
 - writing
+- Ruben Pater
+- AIGA
+- Stir To Action
 ---
 
 A few recent contributions to various publications:

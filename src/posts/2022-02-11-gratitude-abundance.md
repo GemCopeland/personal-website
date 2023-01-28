@@ -7,6 +7,9 @@ tags:
 - abundance
 - reading
 - climate crisis
+- Alice Grandoit-Sutka
+- Varshini Prakash
+- Alicia Kennedy
 ---
 
 A couple of super nice interviews and essays by women I admire:

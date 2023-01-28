@@ -4,6 +4,10 @@ displayTitle: true
 tags: 
 - travel
 - urbanism
+- architecture
+- Dimitris Pikionis
+- Greece
+- Athens
 ---
 
 We were in Athens last week, so naturally we visited the Acropolis. What surprised me was that the [pathway to the Acropolis](https://archleague.org/article/pikionis-pathway-paving-acropolis/) is a masterpiece in its own right. (Thanks to [my dad](https://www.instagram.com/rob_copeland/) for sharing this.)

@@ -6,13 +6,16 @@ tags:
 - listening
 - web design
 - highlighted
+- Elvia Wilk
+- Claire L Evans
+- Overthink
 ---
 
 I’ve been enjoying listening to [Overthink](https://www.overthinkpodcast.com/), a podcast about philosophy. Really engaging and accessible. One of the hosts, Ellie Anderson, is an expert in feminist approaches to love and sexual consent, particularly the work of Simone de Beauvoir. I really want to read some of Beauvoir’s journals now.
 
 ---
 
-Wonderful [conversation between Elvia Wilk and Claire Evans](https://pioneerworks.org/broadcast/elvia-wilk-claire-evans-in-conversation) on Pioneer Works.
+Wonderful [conversation between Elvia Wilk and Claire L Evans](https://pioneerworks.org/broadcast/elvia-wilk-claire-evans-in-conversation) on Pioneer Works.
 
 > I’m always extremely suspicious, for that reason, of any technology marketed using even remotely utopian language—specifically claims that some new sphere or realm is going to be a fresh start or an unspoiled new beginning. That signals to me immediately that the people who are involved in building the thing have no interest in maintenance.
 

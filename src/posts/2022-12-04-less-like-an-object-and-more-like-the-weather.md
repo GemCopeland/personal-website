@@ -10,6 +10,8 @@ tags:
 - socialism
 - time
 - highlighted
+- Anna Tsing
+- Graham Jones
 ---
 
 It's so nice to be in north Wales as the seasons change. The beech trees still have the most amazing orange-yellow-red leaves, but now there's snow at the top of [Cadair Idris](https://en.wikipedia.org/wiki/Cadair_Idris). It's wild to think that just three months ago we camped on top of it. There's a legend that says anyone who sleeps on Cadair Idris' summit will wake up as either a madman or poet. Three months on and I'm still no better at poetry so…

@@ -5,6 +5,8 @@ tags:
 - reading
 - technology
 - social media
+- recommendations
+- focus
 ---
 
 I’ve had quite stringent settings on my phone for a long time: no badges, barely any notifications, screen time restrictions on social media and downtime in the evening. Despite all this, I still spend around 90–120 minutes on my phone every day. Like most of us, I default to picking up my phone and doom-scrolling every time there is minute or two of empty time.

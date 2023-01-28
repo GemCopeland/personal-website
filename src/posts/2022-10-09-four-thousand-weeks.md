@@ -6,6 +6,8 @@ tags:
 - time
 - life
 - attention
+- focus
+- Oliver Burkeman
 ---
 
 [*Four Thousand Weeks*](https://www.oliverburkeman.com/books) – that’s the amount of time you get if you live to 80. Not only does it feel like an impossibly small amount of time, it also speeds up the older you get. 
@@ -29,7 +31,6 @@ This necessarily requires some sacrifice. It’s not just about saying “no” 
 The key is not more productivity but conscious choices and acceptance – the joy of missing out. We have to accept that this is a sacrifice, that we will feel discomfort, that the to do list will always be infinite…
 
 > The core challenge of managing our limited time isn’t about how to get everything done but how to decide most wisely what not to do, and how to feel at peace about not doing it.
-> 
 
 Personally, I feel like I’m always living in the future: either anxiously worrying about what’s going to happen or excitedly/impatiently imagining various future scenarios in great detail. I really agree with Burkeman’s arguments about letting go of our obsession with the future and paying attention to the current moment, but in practice it’s obviously much harder.
 

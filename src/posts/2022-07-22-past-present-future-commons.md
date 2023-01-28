@@ -7,6 +7,13 @@ tags:
 - climate crisis
 - commoning
 - science fiction
+- Eula Biss
+- Future Natures
+- half-earth socialism
+- Kim Stanley Robinson
+- Elizabeth Sawin
+- David Graeber
+- David Wengrow
 ---
 
 Tracing the history of enclosure with Eula Biss, collecting modern stories of commoning with Future Natures, dreaming and planning for a Half Earth Socialist future, and a little bit of solarpunk.

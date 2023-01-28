@@ -5,6 +5,12 @@ tags:
 - reflection
 - cooperation
 - learning
+- Central St Martins
+- Jenny Odell
+- Kim Stanley Robinson
+- The Nap Ministry
+- Anna Tsing
+- fungi
 ---
 
 A few months ago I spoke at a panel discussion for CSM students. It was a partnership with Thames & Hudson and Design Observer to accompany their new edition of Ralph Waldo Emerson's 1841 essay, [*Self-reliance*](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/selfreliance.html). The event aimed to explore what it means to graduate during a crisis after 1+ years of disrupted education. 

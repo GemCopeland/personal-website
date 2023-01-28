@@ -10,6 +10,10 @@ tags:
 - now
 - travel
 - retrospective
+- friends
+- Australia
+- London
+- Wales
 ---
 
 This year has been a bit of a weird one because How and I still don't have a permanent home. We spent the first three months with friends and family in Australia, three months living with friends in Camberwell, six weeks subletting a friends' place in Hackney, six weeks of visiting friends and holidaying in Europe (Portugal, France, The Netherlands, Germany and Greece), some time at H's parents place and a few months living in Wales.
@@ -102,7 +106,7 @@ You can only ever choose to take the [next most elegant step](https://adriennema
 Anyway, what we've decided is to move to Lisbon early next year. If all goes well and it feels like a good fit, we'll hopefully look for somewhere just outside one of the cities and start on our housing co-op dream. We're inspired by people who are doing this already like [re:gen](https://www.instagram.com/re.gen_pt/), [Casa Beatrix](https://www.instagram.com/thecramooz/) and [Project Kamp](https://projectkamp.com/index.html) in Portugal, as well as collectives like [Robida](https://robidacollective.com/) and [Brave New Alps](https://www.brave-new-alps.com/) in Italy. Who knows where this step will lead, but I'm very much looking forward to 2023. 
 
 ![A view of Alfama, with colourful houses dotted on the hillside and the river in the distance. It's sunset and the light is beautifully soft.](https://d2w9rnfcy7mm78.cloudfront.net/19627473/original_11f0e25e5da06c1e1d59db965807041a.jpg?1672480414?bc=0)
-▲ Lisbon
+▲ Lisbon in late summer
 
 ### Previous years
 - [2021 in review](https://commonknowledge.coop/writing/2021-in-review) (on the Common Knowledge blog)

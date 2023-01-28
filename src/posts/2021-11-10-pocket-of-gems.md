@@ -8,6 +8,7 @@ tags:
 - community
 - forests
 - strategy
+- highlighted
 ---
 
 I'm going through all my Pocket articles that I've favourited by not archived, which means that Past Gem thought they were important enough to revisit. Let's see what I find…

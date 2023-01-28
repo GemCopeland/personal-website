@@ -10,6 +10,10 @@ tags:
 - reading
 - abundance
 - climate crisis
+- London
+- friends
+- photolog
+- daoism
 ---
 
 How and I went back to Australia for about three months during Southern Hemisphere summer. Now we’re back in the UK, enjoying the spring, seeing friends and family and cooperators, discussing lots of books and dreaming about what to do next.

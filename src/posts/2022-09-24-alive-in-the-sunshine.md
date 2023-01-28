@@ -7,6 +7,11 @@ tags:
 - reading
 - science fiction
 - climate crisis
+- Andrew Dana Hudson
+- Jay Springett
+- Kim Stanley Robinson
+- Adam Greenfield
+- ruangrupa
 ---
 
 I recently read [*Our Shared Storm*](https://www.fordhampress.com/9780823299546/our-shared-storm/) by Andrew Dana Hudson, a speculative fiction novel based on each of the five climate-modelling scenarios in the latest IPCC report. It’s got me ~~thinking~~ obsessing a little about solarpunk!
