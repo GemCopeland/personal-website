@@ -10,7 +10,7 @@ tags:
 - reading
 - Ted Nelson
 - Christopher Alexander
-- Claire L. Evans
+- Claire L Evans
 - Jenny Odell
 - Brian Eno
 - Ursula Le Guin
