@@ -8,14 +8,6 @@ tags:
 - digital gardens
 - ideas
 - reading
-- Ted Nelson
-- Christopher Alexander
-- Claire L Evans
-- Jenny Odell
-- Brian Eno
-- Ursula Le Guin
-- Giles Turnbull
-- Jay Springett
 ---
 
 > The structures of ideas are not sequential. They tie together every whichway. And when we write, we are always trying to tie things together in non-sequential ways. The footnote is a break from sequence, but it cannot really be extended. The point is, writers do better if they don't have to write in sequence (but may create multiple structures, branches and alternatives), and readers do better if they don't have to read in sequence, but may establish impressions, jump around, and try different pathways until they find the ones they want to study most closely.
