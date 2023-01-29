@@ -12,7 +12,7 @@ tags:
 
 We're working with an organisation called [Platform](https://platformlondon.org/) at the moment to refresh their identity and create a new website. They're a non-hierarchical team of campaigners, researchers and artists who work on creative projects centred in eco-social justice. 
 
-They've already been running for 40 years which, in a world of short attention spans and daily news cycles, feels unbelievablely long. They've done so much work already, not all of it fitting within a coherent narrative, and have plans for so much more. The challenge is how to represent all of this, the breadth and diversity, without trying to be a comprehensive archive.
+They've already been running for 40 years which, in a world of short attention spans and daily news cycles, feels unbelievably long. They've done so much work already, not all of it fitting within a coherent narrative, and have plans for so much more. The challenge is how to represent all of this, the breadth and diversity, without trying to be a comprehensive archive.
 
 I interviewed most of their members at the end of last year as part of our research process. One of the ideas that emerged from these conversations was the idea of *archive as compost*. We don't necessarily want to document every past project in great detail, but we do want to mix together all their past activities, learnings and ideas so that they can sprout new ones. 
 
