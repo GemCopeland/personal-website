@@ -6,7 +6,7 @@ tags:
 - creativity
 - Rick Rubin
 - Ursula K Le Guin
-- Zadie Smith
+- Martha Graham
 - wu wei
 ---
 
@@ -20,6 +20,8 @@ This strongly reminds me of Ursula Le Guin too. I was listening to an episode of
 
 > I see my job as holding doors open or opening windows. Who comes in or out the doors, what you see out the window… how do I know? My responsibility is just to keep the mind open, not close it off. That's enough right there.
 
-Zadie Smith wrote something similar in [*Feel Free*](https://en.wikipedia.org/wiki/Feel_Free_(Smith_book)) too:
+Zadie Smith included something similar in [*Feel Free*](https://en.wikipedia.org/wiki/Feel_Free_(Smith_book)) too:
 
 > There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all of time, this expression is unique. And if you block it, it will never exist through any other medium and it will be lost. The world will not have it. It is not your business to determine how good it is nor how valuable nor how it compares with other expressions. It is your business to keep it yours clearly and directly, to keep the channel open.
+
+Edit: I thought the quote above was by Zadie Smith, but someone on Arena tells me it's from the dancer and choreographer Martha Graham! Not sure where I got it mixed up, but there you go.
