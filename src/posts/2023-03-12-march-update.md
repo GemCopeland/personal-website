@@ -21,9 +21,9 @@ How and I moved into our new (rental) apartment in Anjos, Lisbon at the start of
 
 I'm *really* enjoying the weather here already. It's only March and we can have the windows wide open. We want to plant some vegetables and herbs in our garden soon, while it's still spring. We have a lot to learn about growing vegetables in this climate instead of in the UK.
 
-We're enjoying exploring the city too. It's small enough (well, compared to London) that you can walk most places (if you love walking like I do). Our area, Anjos, has many community spaces, cooperatives and associations — it feels like there is a really strong community here. We've found a good sourdough bakery (Terra Pão) not too far from us in the Mercado de Arroios. I already have a favourite neighbourhood wine bar (Bom Bom Bom), clothing store (Somewhere a Process) and cafe (Malabarista).
+We're enjoying exploring the city too. It's small enough (well, compared to London) that you can walk most places (if you love walking like I do). Our area has many community spaces, cooperatives and associations — it feels like there is a really strong community here. We've found a good sourdough bakery (Terra Pão) not too far from us in the Mercado de Arroios. I already have a favourite neighbourhood wine bar (Bom Bom Bom), clothing store (Somewhere a Process) and cafe (Malabarista).
 
-![Two photos from around Lisbon. Left: there's a park in the foreground and a church above on the hill. Right: Two trees stand above a building with green arched windows and a staircase.](https://d2w9rnfcy7mm78.cloudfront.net/20832201/original_8c935fb980c93f8fd5121e9e600d3f0f.jpg?1678652427?bc=0)
+![Two photos from around Lisbon. Left: there's a park in the foreground and a church above on the hill. Right: Two trees stand above a building with green arched windows and a staircase.](https://d2w9rnfcy7mm78.cloudfront.net/20832281/original_9ef9228481595e0e59039ccdd4eb384d.jpg?1678652803?bc=0)
 
 Moving country is a lot of effort and because I'm quite impatient I want to get all the bureaucracy over with as soon as I can. But it's only possible to work at it slowly, one step at a time. Finding somewhere to live was one of the biggest steps and I'm so grateful it worked out as well as it did.
 
