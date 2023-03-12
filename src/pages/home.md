@@ -105,8 +105,8 @@ credits: |
   Last updated: 12.2022
 ---
 
-Interdependent digital designer. Sometimes writer, researcher, gardener.
+Digital designer. Sometimes writer, researcher, gardener.
 
-Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We design and build digital tools to multiply their impact, build power and achieve radical change.
+Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We use our expertise in research, design and development to help them build power, multiply their impact, and achieve radical change.
 
 Interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how digital technology can support these practices.
