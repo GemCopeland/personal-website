@@ -21,10 +21,7 @@ section: home
         <div class="panel-contents">
           {% include "components/profile.njk" %}
         </div>
-        <div aria-hidden="true">
-          {# NOTE Hide this panel footer from screen readers since it is already at the bottom of the whole page #}
-          {% include "components/footer.njk" %}
-        </div>
+        {% include "components/footer.njk" %}
       </article>
 
       <aside class="panel panel--blocks" aria-hidden="true">
@@ -51,10 +48,7 @@ section: home
         </div>
       </aside>
 
-
     </main>
-
-    {% include "components/footer.njk" %}
 
   </body>
 
