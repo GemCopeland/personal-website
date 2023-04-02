@@ -23,7 +23,7 @@ We spent today cleaning up our garden and planting some seeds that Susana kindly
 
 ![Our newly improved back garden with the lemon tree on the left and loquat on the right. The tiled area looks neat and freshly swept, with gardening tools on shelves in one corner.](https://d2w9rnfcy7mm78.cloudfront.net/21197957/original_39e5bf38a35f215cee2718932a053b91.jpg?1680465999?bc=0)
 
-We've worked out (also thanks to Susana) that the yellow fruit is a [loquat](https://en.wikipedia.org/wiki/Loquat) (*nêspera* is Portuguses). They taste very sweet and slightly like apricot. H picked some and made them into a jam — two parts loquat to one part sugar and one part water, with lemon juice, cayenne pepper and rosemary.
+We've worked out (also thanks to Susana) that the yellow fruit is a [loquat](https://en.wikipedia.org/wiki/Loquat) (*nêspera* is Portuguese). They taste very sweet and somewhat like apricot. H picked some and made them into a jam — two parts loquat to one part sugar and one part water, with lemon juice, cayenne pepper and rosemary.
 
 ![A bowl of quartered orange loquats.](https://d2w9rnfcy7mm78.cloudfront.net/21197960/original_3c4b5d5082199725c775afd6a55e8534.jpg?1680466003?bc=0)
 
