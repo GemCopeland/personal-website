@@ -6,7 +6,7 @@
 
 .writing .main section,
 .post .main section,
-.panel--profile > * {
+.panel-contents {
   max-width: 34rem;
 }
 
