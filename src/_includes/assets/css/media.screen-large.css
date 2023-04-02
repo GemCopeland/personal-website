@@ -100,10 +100,6 @@
     width: 50%;
   }
 
-  .pagination__simple {
-    justify-content: space-between;
-  }
-
   .is-tabbing .has-panels .header--site {
     left: 0;
     position: sticky !important;
