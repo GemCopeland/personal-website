@@ -13,13 +13,13 @@ tags:
 
 This year feels so full already and it's only March. All the energy I would have usually spent on writing has been going towards moving country and relaunching the Common Knowledge website. Things are starting to feel a bit more settled this month though.
 
+![On the left is a photo of our sunroom. There is a dining table with a bunch of flowers on it. On the right is a photo out the window, with lush foliage growing around and on top of a painted yellow wall.](https://d2w9rnfcy7mm78.cloudfront.net/20832201/original_8c935fb980c93f8fd5121e9e600d3f0f.jpg?1678652427?bc=0)
+
 <!-- more -->
 
 ## Living in Anjos
 
 How and I moved into our new (rental) apartment in Anjos, Lisbon at the start of this month. I'm completely in love with it. The main space is a semi-open plan living/kitchen/dining/sunroom with huge south-facing windows. We look out onto the internal gardens of the entire block, filled with figs, lemon and orange trees. One of the trees in our garden has small yellow fruits that the birds seem to love. I've never seen this particular fruit before — the owners told us what it was called in Portuguese but I immediately forgot.
-
-![On the left is a photo of our sunroom. There is a dining table with a bunch of flowers on it. On the right is a photo out the window, with lush foliage growing around and on top of a painted yellow wall.](https://d2w9rnfcy7mm78.cloudfront.net/20832201/original_8c935fb980c93f8fd5121e9e600d3f0f.jpg?1678652427?bc=0)
 
 I'm *really* enjoying the weather here already. It's only March and we can have the windows wide open. We want to plant some vegetables and herbs in our garden soon, while it's still spring. We have a lot to learn about growing vegetables in this climate instead of in the UK.
 
