@@ -4,9 +4,14 @@
   padding-right: var(--gutter);
 }
 
-.article .prose > *,
-.panel--profile .panel-contents > * {
+.writing .main section,
+.post .main section,
+.panel-contents {
   max-width: 34rem;
+}
+
+.panel--blocks .panel-contents {
+  max-width: 100%;
 }
 
 .writing .main,
@@ -18,9 +23,6 @@
 .writing .main section,
 .post .main section {
   flex-grow: 1;
-}
-
-.writing--section {
   align-self: center;
   margin-top: 5rem;
 }
