@@ -10,6 +10,10 @@
   max-width: 34rem;
 }
 
+.panel-blocks .panel-contents {
+  max-width: 100%;
+}
+
 .writing .main,
 .post .main {
   display: flex;
