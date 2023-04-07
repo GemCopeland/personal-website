@@ -9,6 +9,10 @@ tags:
 - forests
 - strategy
 - highlighted
+- Aimi Hamraie
+- Tom Critchlow
+- Suzanne Simard
+- adrienne maree brown
 ---
 
 I'm going through all my Pocket articles that I've favourited by not archived, which means that Past Gem thought they were important enough to revisit. Let's see what I find…

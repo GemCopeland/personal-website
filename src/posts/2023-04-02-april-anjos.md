@@ -3,6 +3,7 @@ title: April in Anjos
 displayTitle: false
 tags: 
 - Portugal
+- Lisbon
 - photolog
 - gardening
 - cooking

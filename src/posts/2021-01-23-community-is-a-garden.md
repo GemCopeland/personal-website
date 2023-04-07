@@ -6,6 +6,7 @@ tags:
 - cooperation
 - climate crisis
 - learning
+- tools
 ---
 
 I came across [this toolkit](https://www.are.na/block/9400568) when searching for examples of community-led design practices for a workshop that [Sonia](http://soniaturcotte.com/) and I are currently running (more on that soon).

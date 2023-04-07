@@ -8,6 +8,11 @@ tags:
 - slowness
 - fermentation
 - interdependence
+- Platform
+- Donna Haraway
+- Katrin Bohm
+- Vida Rucli
+- Compost Mentis
 ---
 
 We're working with an organisation called [Platform](https://platformlondon.org/) at the moment to refresh their identity and create a new website. They're a non-hierarchical team of campaigners, researchers and artists who work on creative projects centred in eco-social justice. 

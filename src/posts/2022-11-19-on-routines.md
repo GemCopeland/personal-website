@@ -10,6 +10,7 @@ tags:
 - time
 - Ursula Le Guin
 - Overthink
+- Julia Cameron
 ---
 
 Lately I’ve been thinking a lot about my routine. I’ve been trying to introduce a bit more structure into my work day… not as an attempt to be more productive, more so that I create stronger boundaries between work and the rest of the work. I can sometimes start working at 8am, forget to finish early and then feel totally wrung out by the evening. This isn’t how I want to work at all, because I really believe the research that says working longer hours doesn’t mean you’ll get more done. But with remote work, it can be so easy to slip into working longer and longer hours.

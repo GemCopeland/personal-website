@@ -4,6 +4,8 @@ displayTitle: true
 tags:
   - retrospective
   - photolog
+  - life
+  - now
 ---
 
 I read Jay Springett's [2020 retrospective](https://www.thejaymo.net/2021/01/01/2020/) and thought I might have a go at writing one too.

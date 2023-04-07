@@ -8,6 +8,7 @@ tags:
 - climate crisis
 - Wales
 - photolog
+- Centre for Alternative Technology
 ---
 
 Wales is absolutely beautiful at the moment (and always). The autumn leaves and soft sunlight turn the whole landscape golden and warm.

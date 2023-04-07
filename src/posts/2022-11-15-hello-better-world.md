@@ -5,6 +5,7 @@ tags:
 - social media
 - community
 - Robin Sloan
+- Jay Springett
 ---
 
 I’m [@gem@social.coop](https://social.coop/@gem) on Mastodon. 

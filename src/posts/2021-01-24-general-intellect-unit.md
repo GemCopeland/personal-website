@@ -5,6 +5,7 @@ tags:
 - Common Knowledge
 - cooperation
 - work
+- General Intellect Unit
 ---
 
 Alex and I recently spoke to Shane and Kyle from the [General Intellect Unit podcast](http://generalintellectunit.net/e/068-common-knowledge/).

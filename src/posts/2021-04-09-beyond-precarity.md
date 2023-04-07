@@ -4,6 +4,7 @@ displayTitle: true
 tags: 
 - cooperation
 - work
+- Brave New Alps
 ---
 
 Just read Brave New Alps' contribution to [Design Struggles](https://valiz.nl/en/publications/design-struggles.html). The book is [available online](https://valiz.nl/images/DesignStruggles-DEF_978-94-92095-88-6single-4March21-VALIZ-def.pdf) in full. Their chapter, [Design(ers) Beyond Precarity: proposals for everyday action](https://www.academia.edu/45375124/Design_ers_Beyond_Precarity_proposals_for_everyday_action_2021_), explores *how to create the social and material conditions that make critical, transformative design practice possible.*

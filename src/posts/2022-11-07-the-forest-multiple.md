@@ -10,7 +10,9 @@ tags:
 - climate crisis
 - Smart Forests
 - Planetary Praxis
+- Jennifer Gabrys
 - Shannon Mattern
+- Maggie Appleton
 ---
 
 > The Smart Forests Atlas is a living archive and virtual field site exploring how digital technologies are transforming forests. It provides tools for researchers and other stakeholders to explore, analyse and reflect upon smart forest knowledges and technologies. The Atlas is designed to allow for multiple entrypoints into the research content. Visitors are encouraged to wander through the site according to their own interests, guided by the four wayfinding devices (Map, Radio, Stories and Logbooks).

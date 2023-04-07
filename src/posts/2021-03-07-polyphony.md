@@ -6,6 +6,13 @@ tags:
 - climate crisis
 - nature
 - process
+- tarot
+- Kim Stanley Robinson
+- Octavia Butler
+- artificial intelligence
+- science fiction
+- Ben Vickers
+- K Allado-McDowell
 ---
 
 As of this week, I'm living in Vilnius for a few months while [HM](https://www.melnycz.uk/)  does the [Rupert](http://rupert.lt/) residency. Feeling very lucky and inspired.

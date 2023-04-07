@@ -7,8 +7,12 @@ tags:
 - photolog
 - travel
 - Lisbon
+- Portugal
 - Glasgow
 - reading
+- Ursula Le Guin
+- Dan Taeyong
+- 
 ---
 
 This year feels so full already and it's only March. All the energy I would have usually spent on writing has been going towards moving country and relaunching the Common Knowledge website. Things are starting to feel a bit more settled this month though.

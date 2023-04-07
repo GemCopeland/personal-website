@@ -6,6 +6,8 @@ tags:
 - mapping
 - work
 - learning
+- mapping
+- Shannon Mattern
 ---
 
 ![A collage made from LiDAR imagery of the Amazon rainforest, a map of the video game Subnautica and a Micronesian navigational chart](https://d2w9rnfcy7mm78.cloudfront.net/12119791/original_e717cd0dfc68440c76ba85a4a2b76273.jpg?1622388755?bc=0)

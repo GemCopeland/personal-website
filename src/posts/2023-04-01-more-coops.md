@@ -6,6 +6,7 @@ tags:
 - work
 - learning
 - teaching
+- Cooperativa de Disenio
 ---
 
 I went to the Futuress talk by [Cooperativa de Disenio](https://www.cooperativadedisenio.com/) last week. They're a feminist worker co-op from Argentina. They've been running for 11 years and have 12 members, all women. They do a mix of product, identity and audiovisual design work for communities, cooperatives and recovered factories.
