@@ -19,7 +19,7 @@ Some photos from this weekend.
 
 ![Sunset at Miradouro do Monte Agudo.](https://d2w9rnfcy7mm78.cloudfront.net/21197964/original_c4b43b7a7935a0f29676cdf221ac1c2e.jpg?1680466022?bc=0)
 
-We spent today cleaning up our garden and planting some seeds that Susana kindly gave us last weekend — tomatoes, butternut squash and zucchini — as well as some wildflowers and cat grass. The cat that regularly visits us watched us intently as we worked. Later in the after, two new cats visited to investigate the changes too. We must be doing something right.
+We spent today cleaning up our garden and planting some seeds that Susana kindly gave us last weekend — tomatoes, butternut squash and zucchini — as well as some wildflowers and cat grass. The cat that regularly visits us watched us intently as we worked. Later in the afternoon, two new cats visited to investigate the changes too. We must be doing something right.
 
 ![Our newly improved back garden with the lemon tree on the left and loquat on the right. The tiled area looks neat and freshly swept, with gardening tools on shelves in one corner.](https://d2w9rnfcy7mm78.cloudfront.net/21197957/original_39e5bf38a35f215cee2718932a053b91.jpg?1680465999?bc=0)
 
