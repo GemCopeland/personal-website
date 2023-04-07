@@ -11,9 +11,8 @@
   margin-bottom: 3.125rem;
 }
 
-.panel--blocks .panel-contents {
+.panel--blocks .panel-contents section {
   margin-bottom: 1.25rem;
-  /* max-width: 100%; */
 }
 
 .panel:last-child {
