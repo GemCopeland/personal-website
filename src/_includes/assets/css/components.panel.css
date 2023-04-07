@@ -10,6 +10,7 @@
 .thinking .panel--blocks .panel-contents section,
 .panel--profile .panel-contents section {
   margin-bottom: 3.125rem;
+  max-width: 100%;
 }
 
 .panel--blocks .panel-contents section {
