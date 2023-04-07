@@ -13,7 +13,7 @@
 
 .panel--blocks .panel-contents {
   margin-bottom: 1.25rem;
-  max-width: 100%;
+  /* max-width: 100%; */
 }
 
 .panel:last-child {
