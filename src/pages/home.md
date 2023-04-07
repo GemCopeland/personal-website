@@ -105,8 +105,8 @@ credits: |
   Last updated: 04.2022
 ---
 
-Digital designer. Sometimes writer, researcher, gardener.
+I spend my time designing, researching, listening, cooperating, imagining, prototyping, facilitating, writing, teaching and gardening.
 
-Member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative that works with grassroots organisers and communities around the world. We use our expertise in research, design and development to help them build power, multiply their impact, and achieve radical change.
+I'm a member of the not-for-profit worker cooperative [Common Knowledge](http://commonknowledge.coop).  We work with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
 
-Interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how digital technology can support these practices.
+I'm interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how design and digital technology can support these practices.
