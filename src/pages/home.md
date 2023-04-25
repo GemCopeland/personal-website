@@ -105,8 +105,8 @@ credits: |
   Last updated: 04.2022
 ---
 
-I spend my time designing, researching, listening, cooperating, imagining, prototyping, facilitating, writing, teaching and gardening.
+I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening.
 
-I'm a member of the not-for-profit worker cooperative [Common Knowledge](http://commonknowledge.coop).  We work with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
+I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative.  We collaborate with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
 
-I'm interested in developing new models for living and working collaboratively, imagining post-precarious futures, building communities, and understanding how design and digital technology can support these practices.
+I'm interested in building communities, developing new models for living and working collaboratively, imagining alternative possible futures, and understanding how design and digital technology can support these practices.
