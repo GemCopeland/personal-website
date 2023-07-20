@@ -72,6 +72,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: In Deep Water
+    url: https://www.indeepwater.co.uk/
   - text: Smart Forests Atlas
     url: https://atlas.smartforests.net/
   - text: Future Natures
