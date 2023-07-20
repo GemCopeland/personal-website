@@ -4,7 +4,7 @@
 ##################
 layout: layouts/home.njk
 title: Gemma Copeland
-strapline: Digital design, cooperatives, community, grassroots politics
+strapline: Digital design, cooperatives, community building, grassroots politics, convivial technology
 permalink: /
 metaDescription:
 
@@ -22,6 +22,8 @@ sameAs:
     url: https://github.com/GemCopeland
   - text: Twitter
     url: https://twitter.com/GemCopeland
+  - text: Instagram
+    url: https://www.instagram.com/gemcopeland/
 
 ##################
 #### Activity ####
@@ -106,7 +108,7 @@ credits: |
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
   [Book a meeting](https://calendly.com/gemma-copeland)
   Timezone: UTC+1:00
-  Last updated: 04.2022
+  Last updated: 07.2023
 ---
 
 I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening.
