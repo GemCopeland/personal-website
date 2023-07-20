@@ -36,6 +36,8 @@ colleagues:
     url: https://home.agorama.org.uk/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
+  - name: Benjamin Earl
+    url: https://bnjmnearl.eu/
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
   - name: Carvalho Bernau
@@ -108,5 +110,7 @@ credits: |
 I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening.
 
 I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative.  We collaborate with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
+
+I'm also part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisplinary research center for design and art based at the Lusófona University in Lisbon.
 
 I'm interested in building communities, developing new models for living and working collaboratively, imagining alternative possible futures, and understanding how design and digital technology can support these practices.
