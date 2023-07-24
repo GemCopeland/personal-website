@@ -107,6 +107,8 @@ credits: |
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
   [Book a meeting](https://calendly.com/gemma-copeland)
+
+  Current location: Lisboa
   Timezone: UTC+1:00
   Last updated: 07.2023
 ---
