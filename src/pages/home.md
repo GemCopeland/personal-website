@@ -115,6 +115,6 @@ I spend my time designing, researching, listening, imagining, prototyping, facil
 
 I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative.  We collaborate with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
 
-I'm also part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisplinary research center for design and art based at the Lusófona University in Lisbon.
+I'm also part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research center for design and art based at the Lusófona University in Lisbon.
 
 I'm interested in building communities, developing new models for living and working collaboratively, imagining alternative possible futures, and understanding how design and digital technology can support these practices.
