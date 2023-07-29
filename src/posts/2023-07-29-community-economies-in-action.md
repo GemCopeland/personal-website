@@ -33,7 +33,7 @@ There were 24 participants with a diverse range of practices: academics and rese
 Underpinning the retreat were the ideas of [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham), two feminist geographers from Sydney who collectively wrote books like _The End of Capitalism (As We Knew It)_ and _Take Back The Economy_. Their work is all about rethinking the economy by foregrounding diverse economic practices and giving them credibility. These diverse economies include unpaid labour, cooperatives, Community Supported Agriculture, alternative currencies, voluntary organisations, underground economies, gift giving, foraging and barter.
 
 ![Diverse economies iceberg diagram.](https://d2w9rnfcy7mm78.cloudfront.net/22864969/original_9884e92f308020f0d862fb74e229c739.jpg?1690628883?bc=0)
-— Iceberg model diagram by Bianca Elzembaumer, Brave New Alps
+▲ Iceberg model diagram by Bianca Elzembaumer, Brave New Alps
 
 The programme itself was quite emergent, with open spaces where we could propose our own ideas and free time for rest and reflection. Although there were some readings and a lot of deep thinking, there was also a strong focus on connecting with the land and with our bodies. We learned about the long history of commoning in the valley from our host Gianni of [Il Masetto](http://www.ilmasetto.com/). One afternoon we went for a hike on a nearby mountain and foraged edible plants. We did a contact improvisation dance, swam in the river many times and cooked food together.
 
@@ -44,6 +44,8 @@ The programme itself was quite emergent, with open spaces where we could propose
 ![Making foraged pesto.](https://d2w9rnfcy7mm78.cloudfront.net/22864944/original_29a35acd0d04dfe2238e65aef1393744.jpg?1690628744?bc=0)
 
 ![Stirring a big pot of polenta by the riverbank.](https://d2w9rnfcy7mm78.cloudfront.net/22864949/original_17cf1f7bca91c9cac51b05f8862dce7f.jpg?1690628746?bc=0)
+
+▲ Photos by Flora Mammana
 
 
 ## Economy as Ecological Livelihood
@@ -79,6 +81,7 @@ They argue that we need to move instead to seeing capitalist practices as one el
 ![People sitting in the grass, listening to Gianni speak about the commons.](https://d2w9rnfcy7mm78.cloudfront.net/22864953/original_3b2b5042a79d0491a1c1f78a2a19425f.jpg?1690628747?bc=0)
 
 ![Handwritten notes on a big sheet of paper on the grass.](https://d2w9rnfcy7mm78.cloudfront.net/22864951/original_a06a32400fdd69129ceee0c0eeab82e4.jpg?1690628746?bc=0)
+▲ Photos by Flora Mammana
 
 We discussed the text together, asking ourselves: 
 - How are we making ourselves open to the possibility of new economic becomings? 
@@ -121,3 +124,5 @@ Some of the questions I want to explore further are:
 - How do we create the desire for self-governance and economic experimentation in more people?
 
 ![Clouds hanging low over the mountain.](https://d2w9rnfcy7mm78.cloudfront.net/22864952/original_b9375062ec657b7537e826ef525d3956.jpg?1690628747?bc=0)
+
+PS — How & I chatted to Vida from Robida Collective about the retreat when we visited Topolò last week — [listen here](https://soundcloud.com/radio-robida/interweavings-gemma-copeland-and-how-melnyczuk-22072023).
