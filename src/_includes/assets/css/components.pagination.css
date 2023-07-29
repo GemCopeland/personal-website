@@ -18,7 +18,7 @@
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  max-width: 34rem;
+  max-width: 40rem;
   width: calc(100vw - (var(--gutter) * 4) - 2rem);
 }
 
