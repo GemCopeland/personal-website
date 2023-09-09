@@ -52,6 +52,8 @@ colleagues:
     url: http://thisblows.uk/
   - name: How Melnyczuk
     url: https://www.melnycz.uk/
+  - name: Ily Kerr
+    url: https://ilyannakerr.com/
   - name: Linsey Rendell
     url: https://www.linseyrendell.com/
   - name: MayDay Rooms
