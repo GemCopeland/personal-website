@@ -76,10 +76,16 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: Platform
+    url: https://platformlondon.org/
   - text: In Deep Water
     url: https://www.indeepwater.co.uk/
   - text: Smart Forests Atlas
     url: https://atlas.smartforests.net/
+  - text: The Architecture Lobby
+    url: https://architecture-lobby.org/
+  - text: Border Forensics
+    url: https://www.borderforensics.org/
   - text: Future Natures
     url: https://futurenatures.org/
   - text: After Progress
@@ -117,8 +123,8 @@ credits: |
 
 I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening.
 
-I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative.  We collaborate with grassroots organisers and communities, using our digital expertise to increase their capacity and multiply their impact.
+I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profit worker cooperative.  We use design and technology to help social movements build power.
 
 I'm also part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research center for design and art based at the Lusófona University in Lisbon.
 
-I'm interested in building communities, developing new models for living and working collaboratively, imagining alternative possible futures, and understanding how design and digital technology can support these practices.
+I'm interested in developing new models for living and working collaboratively, building strong communities, imagining alternative possible futures, and understanding how design can support these practices.
