@@ -127,4 +127,4 @@ I'm a member of [Common Knowledge](http://commonknowledge.coop), a not-for-profi
 
 I'm also part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research center for design and art based at the Lusófona University in Lisbon.
 
-I'm interested in developing new models for living and working collaboratively, building strong communities, imagining alternative possible futures, and understanding how design can support these practices.
+I'm interested in how design can be used amplify voices, facilitate dialogues, and imagine post-growth futures.
