@@ -39,6 +39,7 @@
 
 .activity__time {
   color: var(--color-grey-dark);
+  margin-right: 1rem;
 }
 
 .header--article {
