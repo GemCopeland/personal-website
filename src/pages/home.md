@@ -89,7 +89,7 @@ workList:
   - text: Future Natures
     url: https://futurenatures.org/
   - text: After Progress
-    url: https://afterprogress.com/
+    url: https://after-progress.com/
   - text: Airsift
     url: https://airsift.citizensense.net/
   - text: Game Worker Solidarity Project
@@ -104,8 +104,6 @@ workList:
     url: https://www.stop-watch.org/
   - text: La Foresta local network
     url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
-  - text: ATID
-    url: https://atid.uk/
 
 ##################
 #### Credits #####
