@@ -4,7 +4,7 @@ type: Participant
 location: 
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
-dateEnd: 2023-12-05
-dateStart:
+dateEnd: 
+dateStart: 2023-09-01
 url: https://reimaginingvalue.ca/hearts-and-minds/
 ---
