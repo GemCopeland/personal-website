@@ -1,7 +1,7 @@
 ---
 title: Mobilizing Hearts and Minds course
 type: Participant
-location: 
+location: The ReImagining Value Action Lab
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 
