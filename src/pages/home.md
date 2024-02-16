@@ -52,7 +52,7 @@ colleagues:
     url: http://thisblows.uk/
   - name: How Melnyczuk
     url: https://www.melnycz.uk/
-  - name: Ily Kerr
+  - name: Ilyanna Kerr
     url: https://ilyannakerr.com/
   - name: Linsey Rendell
     url: https://www.linseyrendell.com/
@@ -76,6 +76,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: Solidarity Knows No Borders
+    url: https://sknb.org/
   - text: Platform
     url: https://platformlondon.org/
   - text: In Deep Water
