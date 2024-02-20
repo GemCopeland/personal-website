@@ -70,12 +70,14 @@ I'm drawn to Miller's framework because it resonates with my own experiences liv
 
 ### Starting with ourselves and moving outwards
 
-In the same way that interdependence is also about the unique expression of each node, I wanted to explore the idea of care from the scale of the individual to the collective. How does self-knowledge and self-development connect to wider challenges? How can we recognise and build upon our own individual experiences without succumbing to individualism?
+In the same way that interdependence is also about the unique expression of each node, I wanted to explore the idea of care from the scale of the individual to the collective.
 
 > Care is less about predetermined behaviours than about a situated, embodied way of responding to interdependence as it shifts across different contexts and temporalities. […] We can disrupt the uncaring attitudes, environments, cultures, economies and structures we inhabit, starting with ourselves and moving outward.
 > — Alison Place, *Feminist Designer*
 
-They each drew Ikigai diagrams to identify what they love to do, what they're good at, what they can get paid for and what the world needs. The last two questions were the more difficult ones — it's hard to know what you can get paid to do when you haven't had much experience yet.
+How does self-knowledge and self-development connect to wider challenges? How can we recognise and build upon our own individual experiences without succumbing to individualism?
+
+The students each drew Ikigai diagrams to identify what they love to do, what they're good at, what they can get paid for and what the world needs. The last two questions were the more difficult ones — it's hard to know what you can get paid to do when you haven't had much experience yet.
 
 ![Diagram with four overlapping circles labelled "what you love, what the world needs, what you can be paid for, what you're good at." The centre of the four is labelled Ikigai.](https://d2w9rnfcy7mm78.cloudfront.net/26481914/original_d17c896bec97390d4608113820fc5dec.jpg?1708461532?bc=0)
 
@@ -136,12 +138,12 @@ This day was too long (9am — 6pm) and everyone was totally exhausted afterward
 
 ### Strategies for collective survival
 
-The final day was about developing a toolbox of strategies for collective survival. We discussed the different forms of support we can give each other: material, social, financial and Y. I shared a range of support structures and strategies that I'm aware of, moving from an understanding of the self-as-designer to self-as-worker to self-as-member of an community, industry and society. As with the rest of the seminar, my goal was to start with individual experience but make a direct connection to oppressive systems and how to resist them collectively, rather than just protecting oneself from precarity (if that is even possible).
+The final day was about developing a toolbox of strategies for collective survival. We discussed the different forms of support we can give each other: material, social, financial and moral. I shared a range of support structures and strategies that I'm aware of, moving from an understanding of the self-as-designer to self-as-worker to self-as-member of an community, industry and society. As with the rest of the seminar, my goal was to start with individual experience but make a direct connection to oppressive systems and how to resist them collectively, rather than just protecting oneself from precarity (if that is even possible).
 
 ![Illustration showing the diverse economies underpinning the lumbung Kios at documenta fifteen.](https://d2w9rnfcy7mm78.cloudfront.net/26482735/original_1266b661e3e12f2b883eb191ce7754b4.png?1708463344?bc=0)
-[lumbung Kios](https://documenta-fifteen.de/en/lumbung-kios/), Harvest by Angga Cipta, 2022
+— [lumbung Kios](https://documenta-fifteen.de/en/lumbung-kios/), Harvest by Angga Cipta, 2022
 
-This included strategies like:
+This included a broad range of strategies like:
 - Forming collectives
 - Starting a shared wallet
 - Running events to do tedious freelance admin work together, like Extra Practice do with their ThemeWork sessions
@@ -176,7 +178,7 @@ I would have more moments of doing a variety of gentle, creative, intuitive, med
 
 ### Thank you
 
-I'm grateful to Flora Mammana who taught this seminar for the previous two years and recommended that I apply for the position. It was so valuable to be able to hear about her experience and build upon her work while preparing my own version of the seminar. I'm also thankful to the support from some of the UNIBZ professors I met, including Aart van Bezooijen and Rosario Talevi.
+I'm grateful to Flora Mammana who taught this seminar for the previous two years and recommended that I apply for the position. It was so valuable to be able to hear about her experience and build upon her work while preparing my own version of the seminar. Also for the support and friendship from the UNIBZ professors I met there, including Aart van Bezooijen and Rosario Talevi.
 
 ### Further reading
 
