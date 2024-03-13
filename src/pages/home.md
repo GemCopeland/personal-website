@@ -38,6 +38,8 @@ colleagues:
     url: https://home.agorama.org.uk/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
+  - name: Alex Worrad-Andrews
+    url: https://alexworradandrews.com/
   - name: Benjamin Earl
     url: https://bnjmnearl.eu/
   - name: Brave New Alps
