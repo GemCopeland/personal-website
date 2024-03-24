@@ -24,7 +24,7 @@ For more event details and to RSVP: [https://lu.ma/sw0qjba9](https://lu.ma/sw0qj
 
 ## Project background
 
-I'm really happy with this introduction that I co-wrote with Jan and Alex for the [Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/). It distills our thinking around the upcoming election and why we're doing this work:
+I'm really happy with this introduction that I co-wrote with Jan and [Alex](https://alexworradandrews.com/) for the [Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/). It distills our thinking around the upcoming election and why we're doing this work:
 
 ### Elections as a moment of political terraforming
 
