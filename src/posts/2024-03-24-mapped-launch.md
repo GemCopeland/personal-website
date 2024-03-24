@@ -24,7 +24,7 @@ For more event details and to RSVP: [https://lu.ma/sw0qjba9](https://lu.ma/sw0qj
 
 For a bit of background on the project, I'm really happy with this introduction that I co-wrote with Jan and Alex for the [Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/). It distills our thinking around elections and why we're doing this work:
 
-**Elections as a moment of political terraforming**
+### Elections as a moment of political terraforming
 
 At Common Knowledge, our particular interest is in bottom up (or grassroots) rather than top down politics. When the bread and butter of conventional politics is oriented towards political elites, whether by lobbying and policy advocacy or by installing new political elites through elections, we instead emphasise collective self-organising as key to radical social change.
 
@@ -36,11 +36,11 @@ These moments are a crucial opportunity for grassroots groups to build power, re
 
 Regardless of which party comes into power, we want to empower non-electoral actors within the movement ecology before, during and after the election, particularly those that operate at pivotal sites of struggle like universalising access to healthcare, homes and energy, or responding to the climate crisis.
 
-**Methodology and technology**
+### Methodology and technology
 
 Our goal is to use this moment as an opportunity to establish a set of practices and software, or ‘methodology and technology’ as our comrades at the [Zetkin Foundation](https://zetkin.org/en/) like to say, that will strengthen these organisations’ relational power and persist after the General Election cycle is over. In doing so, we will enable them to focus on the quality of the relationships between members and ultimately facilitate more people to take up progressive collective action in the long-term.
 
-**Focusing on long-term goals**
+### Focusing on long-term goals
 
 As [The Social Practice Europe](https://www.thesocialpractice.org/) identified in their [_Organising at Scale_](https://docs.google.com/document/d/1mAVR-6KkWrCZSCJ-F1rowCRdBVVfLb5oC5IcZWxhV9Y/edit#bookmark=kix.odts6ogfwbwz) Briefing Note, in order to build power through elections, it is crucial to prioritise medium and long-term goals like leadership development, building relationships with members and having a plan for those people after the election. 
 
@@ -48,6 +48,6 @@ Another reference point is the book [_Prisms of the People_](https://press.uchi
 
 To put this in a different way: our goal with this project is to help facilitate election mobilisation without the accompanying demobilisation.
 
-## Further reading
+### Further reading
 - [Read the full post on the Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/)
 - Owen Jones' just launched [We Deserve Better](https://wedeservebetter.uk/), a campaign to send Starmer's Labour a message, support Green and left-wing independent candidates, and build an alternative politics based on hope.
