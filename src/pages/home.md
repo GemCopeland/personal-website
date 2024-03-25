@@ -118,9 +118,9 @@ credits: |
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
   [Book a meeting](https://calendly.com/gemma-copeland)
 
-  Current location: Lisboa
+  Current location: London
   Timezone: UTC+1:00
-  Last updated: 01.2024
+  Last updated: 03.2024
 ---
 
 I am an Australian designer based between Lisbon and London. I'm interested in design justice, self-organisation and grassroots politics. I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening. Through my practice, I explore how design can be used to enable people to organise, amplify marginalised voices, facilitate dialogue, and imagine post-capitalist futures.
