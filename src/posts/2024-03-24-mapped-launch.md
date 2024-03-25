@@ -50,6 +50,7 @@ Another reference point is the book [_Prisms of the People_](https://press.uchi
 
 To put this in a different way: our goal with this project is to help facilitate election mobilisation without the accompanying demobilisation.
 
-### Further reading
-- [Read the full post on the Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/)
-- Owen Jones' just launched [We Deserve Better](https://wedeservebetter.uk/), a campaign to send Starmer's Labour a message, support Green and left-wing independent candidates, and build an alternative politics based on hope.
+[Read the full post on the Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/)
+
+### Related
+- Owen Jones has just launched [We Deserve Better](https://wedeservebetter.uk/), a campaign to send Starmer's Labour a message, support Green and left-wing independent candidates, and build an alternative politics based on hope.
