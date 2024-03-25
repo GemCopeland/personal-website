@@ -10,7 +10,7 @@ tags:
 - work
 ---
 
-We're hosting an event in London in a few weeks to launch *Mapped*, a project we've been working on over the six months with the support of the Joseph Rowntree Reform Trust.
+We're hosting an event in London in a few weeks to launch *Mapped*, a project we've been working on over the last six months with the support of the Joseph Rowntree Reform Trust.
 
 ​Mapped integrates with common organising platforms like Airtable, Mailchimp and Action Network to augment membership lists with other useful data sources. ​Organisers can visualise their membership lists on a map overlaid with contextual geographic, demographic and political data. The goal is to enable more strategic organising beyond data collection and broadcast communications, empowering organisers to look for insights and patterns that aren’t available when membership lists are locked into static databases.
 
@@ -18,7 +18,7 @@ If you're in London, come along!
 
 6:30 PM — 9:00 PM, Tuesday 2 April
 Pelican House, 144 Cambridge Heath Rd, Bethnal Green, London E1 5QJ
-For more event details and to RSVP: [https://lu.ma/sw0qjba9](https://lu.ma/sw0qjba9)
+For more event details and to RSVP: [lu.ma/sw0qjba9](https://lu.ma/sw0qjba9)
 
 ---
 
