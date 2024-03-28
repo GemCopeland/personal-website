@@ -52,5 +52,7 @@ To put this in a different way: our goal with this project is to help facilitate
 
 [Read the full post on the Common Knowledge blog](https://www.commonknowledge.coop/writing/membership-systems-and-electoral-strategy/)
 
+---
+
 ### Related
 Owen Jones has just launched [We Deserve Better](https://wedeservebetter.uk/), a campaign to send Starmer's Labour a message, support Green and left-wing independent candidates, and build an alternative politics based on hope.
