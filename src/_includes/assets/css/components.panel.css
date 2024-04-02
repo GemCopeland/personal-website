@@ -19,10 +19,6 @@
   display: none;
 }
 
-.home .panel--profile footer {
-  display: none;
-}
-
 .thinking {
   background-color: var(--color-grey-light);
 }

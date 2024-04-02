@@ -44,10 +44,6 @@
     overflow: hidden;
   }
 
-  .home .panel--profile footer {
-    display: block;
-  }
-
   .panel--profile .section--footer {
     width: 100%;
   }
