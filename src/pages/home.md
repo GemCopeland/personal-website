@@ -123,7 +123,7 @@ credits: |
   Last updated: 03.2024
 ---
 
-I am an Australian designer based between Lisbon and Lonodn. I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening. Through my practice, I explore how design can be used to enable people to organise, amplify marginalised voices, facilitate dialogue, and imagine post-capitalist futures.
+I am an Australian designer based between Lisbon and London. I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening. Through my practice, I explore how design can be used to enable people to organise, amplify marginalised voices, facilitate dialogue, and imagine post-capitalist futures.
 
 I primarily work as part of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. We collaborate with a broad range of political organisations who are imagining and building radically different futures, using our digital expertise to multiply their impact.
 
