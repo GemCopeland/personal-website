@@ -1,5 +1,5 @@
 ---
-title: Liberatory Technology for Grassroots Movement-Building
+title: Liberatory Technology for Movement-Building
 type: Workshop
 location: New Organising Conference, Nottingham, UK
 subtext: with Multitudes Co-op and GFSC
