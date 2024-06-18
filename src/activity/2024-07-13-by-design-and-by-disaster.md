@@ -1,7 +1,7 @@
 ---
-title: By Design and By Disaster
+title: Power in Transformation
 type: Keynote
-location: Bozen-Bolzano, IT
+location: By Design and By Disaster conference, Bozen-Bolzano, IT
 subtext: 
 dateFormat: # "year", otherwise will be displayed MM.YYYY
 dateEnd: 2024-07-13
