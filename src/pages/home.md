@@ -34,8 +34,6 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
-  - name: Agorama Server Co-op
-    url: https://home.agorama.org.uk/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
   - name: Alex Worrad-Andrews
@@ -48,12 +46,8 @@ colleagues:
     url: http://carvalho-bernau.com/
   - name: Evening Class
     url: https://evening-class.org/
-  - name: Feminist Open Source Group
-    url: https://feministopensource.group/
   - name: Hannah Blows
     url: http://thisblows.uk/
-  - name: How Melnyczuk
-    url: https://www.melnycz.uk/
   - name: Ilyanna Kerr
     url: https://ilyannakerr.com/
   - name: Linsey Rendell
@@ -113,20 +107,20 @@ workList:
 #### Credits #####
 ##################
 credits: |
-  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by [Piper Haywood](https://piperhaywood.com/) and [How Melnyczuk](https://www.melnycz.uk/). If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
+  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by [Piper Haywood](https://piperhaywood.com/). If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
   [Book a meeting](https://calendly.com/gemma-copeland)
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 07.2024
+  Last updated: 09.2024
 ---
 
-I am an Australian designer based in London. I spend my time designing, researching, listening, imagining, prototyping, facilitating, writing, teaching and gardening. Through my practice, I explore how design can be used to enable people to organise, amplify marginalised voices, facilitate dialogues, and imagine post-capitalist futures.
+I'm an Australian designer based in London. Through my practice, I explore how design can be used to enable people to organise themselves, amplify marginalised voices, facilitate dialogues, and imagine post-growth futures.
 
 I primarily work as part of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. We collaborate with a broad range of political organisations who are imagining and building radically different futures, using our digital expertise to multiply their impact.
 
-Collaboration is at the heart of my practice. I’m part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research centre for design and art based in Lisbon. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://evening-class.org/), I’ve contributed to building support structures for precarious workers.
+I am on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives, and am part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research centre for design and art based in Lisbon. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://evening-class.org/), I’ve contributed to building support structures for precarious workers.
 
 I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at Central St Martins and London College of Communication, and have given talks and workshops at institutions like the University of Cambridge, Free University of Bozen-Bolzano, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
