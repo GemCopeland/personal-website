@@ -15,14 +15,14 @@ tags:
 - nature
 - foraging
 - Brave New Alps
-- Bianca Elzembaumer
+- Bianca Elzenbaumer
 - Flora Mammana
 - Kate Rich
 - adrienne maree brown
 - photolog
 ---
 
-I've just come back from an inspiring week at the [Community Economies in Action](https://www.communityeconomies.org/news/community-economies-action-practice-retreat) practice retreat in Terragnolo, Italy. It was designed and facilitated by [Bianca Elzembaumer](https://www.communityeconomies.org/people/bianca-elzenbaumer), [Kate Rich](https://fo.am/people/kate-rich/) and [Flora Mammana](https://www.unibz.it/de/faculties/design-art/academic-staff/person/45932-flora-mammana) as a practical counterpart to the Community Economies Institute's summer/winter school.
+I've just come back from an inspiring week at the [Community Economies in Action](https://www.communityeconomies.org/news/community-economies-action-practice-retreat) practice retreat in Terragnolo, Italy. It was designed and facilitated by [Bianca Elzenbaumer](https://www.communityeconomies.org/people/bianca-elzenbaumer), [Kate Rich](https://fo.am/people/kate-rich/) and [Flora Mammana](https://www.unibz.it/de/faculties/design-art/academic-staff/person/45932-flora-mammana) as a practical counterpart to the Community Economies Institute's summer/winter school.
 
 ![People sitting at the table at Il Masetto, reading. There is an incredible view across the valley to the next mountain, covered in forests](https://d2w9rnfcy7mm78.cloudfront.net/22864947/original_7450b5138009b81de2bb5e1c90db504d.jpg?1690628744?bc=0)
 
@@ -33,7 +33,7 @@ There were 24 participants with a diverse range of practices: academics and rese
 Underpinning the retreat were the ideas of [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham), two feminist geographers from Sydney who collectively wrote books like _The End of Capitalism (As We Knew It)_ and _Take Back The Economy_. Their work is all about rethinking the economy by foregrounding diverse economic practices and giving them credibility. These diverse economies include unpaid labour, cooperatives, Community Supported Agriculture, alternative currencies, voluntary organisations, underground economies, gift giving, foraging and barter.
 
 ![Diverse economies iceberg diagram.](https://d2w9rnfcy7mm78.cloudfront.net/22864969/original_9884e92f308020f0d862fb74e229c739.jpg?1690628883?bc=0)
-▲ Iceberg model diagram by Bianca Elzembaumer, Brave New Alps
+▲ Iceberg model diagram by Bianca Elzenbaumer, Brave New Alps
 
 The programme itself was quite emergent, with open spaces where we could propose our own ideas and free time for rest and reflection. Although there were some readings and a lot of deep thinking, there was also a strong focus on connecting with the land and with our bodies. We learned about the long history of commoning in the valley from our host Gianni of [Il Masetto](http://www.ilmasetto.com/). One afternoon we went for a hike on a nearby mountain and foraged edible plants. We did a contact improvisation dance, swam in the river many times and cooked food together.
 

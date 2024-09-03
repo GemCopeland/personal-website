@@ -19,7 +19,7 @@ tags:
 - Alison Place
 - adrienne maree brown
 - Graham Jones
-- Bianca Elzembaumer
+- Bianca Elzenbaumer
 - Flora Mammana
 ---
 
@@ -83,7 +83,7 @@ The students each drew Ikigai diagrams to identify what they love to do, what th
 
 Next time, I would like to come up with a more indirect and creative way to help them answer all these questions more intuitively. It can be hard to directly answer a question like "what do I love to do" in words, but perhaps collaging or drawing would help people look at the question sideways and come up with more unexpected answers that surprise them and deepen their self-understanding.
 
-Around these diagrams, we widened our focus towards mapping relations and resources, adapted from a *Diverse Relations Mapping* tool developed by Bianca Elzembaumer as part of the [Alpine Community Economies Laboratory](https://www.alpinecommunityeconomies.org/2021/08/21/diverse%e2%80%84relations-mapping/.). 
+Around these diagrams, we widened our focus towards mapping relations and resources, adapted from a *Diverse Relations Mapping* tool developed by Bianca Elzenbaumer as part of the [Alpine Community Economies Laboratory](https://www.alpinecommunityeconomies.org/2021/08/21/diverse%e2%80%84relations-mapping/.). 
 
 This exercise prompted them to make an inventory of the social and material resources they had access to, which communities they were already part of and what people they could rely on, in order to identify potential points of leverage and understand where it makes sense to invest more time and energy.
 
