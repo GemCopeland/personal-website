@@ -80,6 +80,10 @@ workList:
     url: https://www.indeepwater.co.uk/
   - text: Smart Forests Atlas
     url: https://atlas.smartforests.net/
+  - text: Safe as Houses
+    url: https://rosalux.nyc/safe-as-houses/
+  - text: Gallery Climate Coalition
+    url: https://measure.galleryclimatecoalition.org/
   - text: The Architecture Lobby
     url: https://architecture-lobby.org/
   - text: Border Forensics
@@ -121,4 +125,4 @@ I'm an Australian designer, researcher and educator based in London. I primarily
 
 I'm on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives, and am part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research centre for design and art based in Lisbon. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://evening-class.org/), I’ve contributed to building support structures for precarious workers.
 
-I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at Central St Martins and London College of Communication, and have given talks and workshops at institutions like the University of Cambridge, Free University of Bozen-Bolzano, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
+I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, Free University of Bozen-Bolzano, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
