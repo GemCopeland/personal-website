@@ -72,6 +72,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: Pelican House
+    url: https://pelicanhouse.org/
   - text: Solidarity Knows No Borders
     url: https://sknb.org/
   - text: Platform
