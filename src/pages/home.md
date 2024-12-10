@@ -120,11 +120,11 @@ credits: |
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 09.2024
+  Last updated: 12.2024
 ---
 
-I'm an Australian designer, researcher and educator based in London. I primarily work as a member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. Through my practice, I explore how design can be used to enable people to organise themselves, amplify marginalised voices, facilitate dialogues, and imagine post-growth futures.
+I'm an Australian designer, researcher and educator based in London. I primarily work as a member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. Through my practice, I explore how design can be used to amplify marginalised voices, facilitate dialogues, imagine post-growth futures and enable people to organise.
 
 I'm on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives, and am part of the [Center for Other Worlds](https://otherworlds.pt/), an interdisciplinary research centre for design and art based in Lisbon. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://evening-class.org/), I’ve contributed to building support structures for precarious workers.
 
-I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, Free University of Bozen-Bolzano, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
+I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at the Free University of Bozen-Bolzano, Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
