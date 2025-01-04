@@ -16,14 +16,19 @@ email: gemmacopeland@pm.me
 sameAs:
   - text: Arena
     url: https://www.are.na/gemma-copeland
+  - text: Bluesky
+    url: https://bsky.app/profile/gemcopeland.bsky.social
+  - text: Instagram
+    url: https://www.instagram.com/gemcopeland/
   - text: Mastodon
     url: https://social.coop/@gem
+  - text: Literal
+    url: https://literal.club/gemcopeland
   - text: GitHub
     url: https://github.com/GemCopeland
   - text: Twitter
     url: https://twitter.com/GemCopeland
-  - text: Instagram
-    url: https://www.instagram.com/gemcopeland/
+
 
 ##################
 #### Activity ####
