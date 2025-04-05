@@ -47,16 +47,16 @@ colleagues:
     url: http://carvalho-bernau.com/
   - name: Community Economies
     url: https://www.communityeconomies.org/
-  - name: Evening Class
-    url: https://evening-class.org/
-  - name: Hannah Blows
-    url: http://thisblows.uk/
   - name: Ilyanna Kerr
     url: https://ilyannakerr.com/
   - name: Linsey Rendell
     url: https://www.linseyrendell.com/
   - name: MayDay Rooms
     url: https://maydayrooms.org/
+  - name: Migrants in Culture
+    url: https://www.migrantsinculture.com/
+  - name: Multitudes
+    url: https://multitudes.coop/
   - name: Paprika Xu
     url: https://paprikaxu.com/
   - name: Piper Haywood
@@ -124,8 +124,8 @@ credits: |
   Last updated: 04.2025
 ---
 
-I'm an Australian designer, researcher, organiser and educator based in London. I'm part of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. Through my practice, I explore how design can be used to enable people to organise, build support structures, and imagine post-capitalist futures.
+I'm a designer, researcher, organiser and educator based in London. I am a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. I'm interested in how design can be used to enable people to organise, build support structures, and imagine post-capitalist futures.
 
-I'm a board member of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and Evening Class, I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
+I'm on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://www.are.na/evening-class-ijv-ziw5qtc/channels), I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
 
-I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at the Free University of Bozen-Bolzano, Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, HBK Braunschweig, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
+I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at the Free University of Bozen-Bolzano, Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
