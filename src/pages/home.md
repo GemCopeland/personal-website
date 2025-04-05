@@ -24,10 +24,6 @@ sameAs:
     url: https://social.coop/@gem
   - text: Literal
     url: https://literal.club/gemcopeland
-  - text: GitHub
-    url: https://github.com/GemCopeland
-  - text: Twitter
-    url: https://twitter.com/GemCopeland
 
 
 ##################
@@ -125,10 +121,10 @@ credits: |
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 01.2025
+  Last updated: 04.2025
 ---
 
-I'm an Australian designer, researcher and educator based in London. I'm part of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. My practice centres on using design as a tool to increase people's agency, amplify marginalised voices, facilitate dialogues and collectively imagine post-growth futures.
+I'm an Australian designer, researcher, organiser and educator based in London. I'm part of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. Through my practice, I explore how design can be used to enable people to organise, build support structures, and imagine post-capitalist futures.
 
 I'm a board member of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and Evening Class, I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
 
