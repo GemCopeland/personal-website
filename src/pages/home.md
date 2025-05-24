@@ -121,10 +121,10 @@ credits: |
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 04.2025
+  Last updated: 05.2025
 ---
 
-I'm a designer, researcher, organiser and educator based in London. I am a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. I'm interested in how design can be used to enable people to organise, build support structures, and imagine post-capitalist futures.
+Designer, researcher, organiser and educator based in London. I'm a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. I'm interested in how design can be used to faciltate people to organise, build support structures, and imagine post-capitalist futures.
 
 I'm on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://www.are.na/evening-class-ijv-ziw5qtc/channels), I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
 
