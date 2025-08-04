@@ -10,6 +10,21 @@
     </div>
   </div>
   <div class="panel">
-
+    <nav class="nav">
+      <ul class="nav__list">
+        <li class="nav__item nav__item--thinking">
+          {% set linkUrl = '/thinking/' %}
+          {% set linkText = 'Thinking' %}
+          {% set current = false %}
+          {% include "components/nav-link.njk" %}
+        </li>
+        <li class="nav__item nav__item--home">
+          {% set linkUrl = '/' %}
+          {% set linkText = global.siteTitle %}
+          {% set current = false %}
+          {% include "components/nav-link.njk" %}
+        </li>
+      </ul>
+    </nav>
   </div>
 </div>
