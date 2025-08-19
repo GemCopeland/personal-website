@@ -121,11 +121,11 @@ credits: |
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 05.2025
+  Last updated: 08.2025
 ---
 
-Designer, researcher, organiser and educator based in London. I'm a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. I'm interested in how design can be used to faciltate people to organise, build support structures, and imagine post-capitalist futures.
+Designer, researcher, organiser and educator based in London. I'm a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. My practice centres on building infrastructures to foster more creative and resilient movements, and exploring how arts and culture can expand our collective political imagination.
 
-I'm on the board of [workers.coop](https://www.workers.coop/), a UK-wide federation of worker cooperatives. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://www.are.na/evening-class-ijv-ziw5qtc/channels), I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
+I'm on the board of [workers.coop](https://www.workers.coop/), the member-led federation of worker cooperatives in the UK. As part of collectives like [Designers + Cultural Workers](https://www.uvwunion.org.uk/en/sectors/designers-cultural-workers/) and [Evening Class](https://www.are.na/evening-class-ijv-ziw5qtc/channels), I’ve contributed to building support structures for precarious workers. Through my teaching practice, I support art and design students to reflect on how and why they work, exploring diverse economic strategies and feminist methods of organising.
 
 I’ve worked as a graphic and interactive designer in the United Kingdom, The Netherlands and Australia. I’ve held teaching positions at the Free University of Bozen-Bolzano, Central St Martins, London College of Communication and Design Lusófona Lisboa, and have given talks and workshops at institutions like the University of Cambridge, Kingston School of Art, Rhode Island School of Design and Parsons School of Design.
