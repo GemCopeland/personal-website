@@ -55,9 +55,21 @@
 
     <ul class="activities">
       {% for a in collections.activityPast %}
-        {% include "components/activity-item.njk" %}
+        {% if (a.date | activityYear) >= "2023" %}
+          {% include "components/activity-item.njk" %}
+        {% endif %}
       {% endfor %}
     </ul>
+
+    <ul class="activities" id="activity-older" hidden>
+      {% for a in collections.activityPast %}
+        {% if (a.date | activityYear) < "2023" %}
+          {% include "components/activity-item.njk" %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <button class="button" onclick="document.getElementById('activity-older').removeAttribute('hidden'); this.remove()">View more</button>
 
   </section>
 {% endif %}
