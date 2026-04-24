@@ -88,3 +88,67 @@ if (contrast) {
 }
 
 document.addEventListener("DOMContentLoaded", hideFooter);
+
+const initLinkPreviews = () => {
+  const preview = document.createElement('div');
+  preview.className = 'link-preview';
+  const img = document.createElement('img');
+  img.alt = '';
+  preview.appendChild(img);
+  document.body.appendChild(preview);
+
+  let mouseX = 0;
+  let mouseY = 0;
+
+  const positionPreview = () => {
+    const offset = 16;
+    const width = 240;
+    const height = preview.offsetHeight;
+    const vw = window.innerWidth;
+    const vh = window.innerHeight;
+    const x = mouseX + offset + width > vw ? mouseX - width - offset : mouseX + offset;
+    const y = mouseY + offset + height > vh ? mouseY - height - offset : mouseY + offset;
+    preview.style.left = x + 'px';
+    preview.style.top = y + 'px';
+  };
+
+  document.addEventListener('mousemove', e => {
+    mouseX = e.clientX;
+    mouseY = e.clientY;
+    if (preview.classList.contains('is-visible')) positionPreview();
+  });
+
+  const screenshotUrl = href =>
+    'https://api.microlink.io/?url=' + encodeURIComponent(href) + '&screenshot=true&meta=false&embed=screenshot.url';
+
+  const main = document.querySelector('#main');
+  const links = (main || document).querySelectorAll('a[href^="http"]');
+
+  const prefetch = () => {
+    const seen = new Set();
+    links.forEach(link => {
+      if (seen.has(link.href)) return;
+      seen.add(link.href);
+      new Image().src = screenshotUrl(link.href);
+    });
+  };
+
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(prefetch);
+  } else {
+    setTimeout(prefetch, 2000);
+  }
+
+  links.forEach(link => {
+    link.addEventListener('mouseenter', () => {
+      img.src = screenshotUrl(link.href);
+      preview.classList.add('is-visible');
+      positionPreview();
+    });
+    link.addEventListener('mouseleave', () => {
+      preview.classList.remove('is-visible');
+    });
+  });
+};
+
+document.addEventListener('DOMContentLoaded', initLinkPreviews);
