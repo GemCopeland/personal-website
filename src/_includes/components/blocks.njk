@@ -2,6 +2,7 @@
   <ul class="blocks">
     {% for channel in arena %}
       <li class="block">
+        <a class="block__link" href="{{ channel.url }}" aria-label="{{ channel.title }}"></a>
         <div class="block__content">
           <p class="block__title">
             {{ channel.title }}
