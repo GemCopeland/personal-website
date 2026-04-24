@@ -117,7 +117,7 @@
 }
 
 .button--skip:focus {
-  border: 1px solid color(--color-1);
+  border: 1px solid var(--color-1);
   clip: none;
   height: auto;
   overflow: auto;

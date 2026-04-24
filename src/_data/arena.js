@@ -68,4 +68,7 @@ const getArenaChannels = async (channelId) => {
     }));
 };
 
-module.exports = getArenaChannels(arenaChannelId);
+module.exports = getArenaChannels(arenaChannelId).catch(e => {
+  console.error("Failed to fetch Are.na channels:", e.message);
+  return [];
+});

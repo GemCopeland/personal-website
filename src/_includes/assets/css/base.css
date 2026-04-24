@@ -9,7 +9,7 @@ html {
   box-sizing: inherit;
 }
 
-*:focus {
+*:focus:not(:focus-visible) {
   outline: 0;
 }
 
@@ -109,6 +109,10 @@ a:focus {
   border: 1px solid var(--color-1);
   color: var(--color-1);
   text-decoration: none;
+}
+
+a:focus-visible {
+  outline: 0;
 }
 
 img {

@@ -28,11 +28,11 @@ section: post
 
   {% if prev %}
     {% set arrowPrevious = arrowsPrevious | random %}
-    <a class="pagination__link pagination__link--prev" href="{{ prev.url }}" aria-label="Previous page">{{ arrowPrevious }}</a>
+    <a class="pagination__link pagination__link--prev" href="{{ prev.url }}" aria-label="Previous post{% if prev.data.title %}: {{ prev.data.title }}{% endif %}">{{ arrowPrevious }}</a>
   {% endif %}
   {% if next %}
     {% set arrowNext = arrowsNext | random %}
-    <a class="pagination__link pagination__link--next" href="{{ next.url }}" aria-label="Next page">{{ arrowNext }}</a>
+    <a class="pagination__link pagination__link--next" href="{{ next.url }}" aria-label="Next post{% if next.data.title %}: {{ next.data.title }}{% endif %}">{{ arrowNext }}</a>
   {% endif %}
 
 {% endmacro %}
@@ -45,7 +45,7 @@ section: post
 
     {% include "components/header.njk" %}
 
-    <div class="header header--desktop" aria-hidden="true">
+    <div class="header header--desktop">
       <div class="panel">
         {% set linkUrl = '/writing/' %}
         {% set linkText = 'Writing' %}

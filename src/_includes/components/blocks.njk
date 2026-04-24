@@ -2,8 +2,8 @@
   <ul class="blocks">
     {% for channel in arena %}
       <li class="block">
-        <a href="{{ channel.url }}" target="_blank" rel="noopener" class="block__link">
-          <span class="visually-hidden">View “{{ channel.title }}” channel on Arena</span>
+        <a href=”{{ channel.url }}” target=”_blank” rel=”noopener” class=”block__link”>
+          <span class=”visually-hidden”>View “{{ channel.title }}” channel on Arena (opens in new tab)</span>
         </a>
         <div class="block__content">
           <p class="block__title">
@@ -17,7 +17,7 @@
           {% if channel.images %}
             <div class="block__media">
               {% for image in channel.images %}
-                <img src="{{ image }}" loading="lazy" height="60">
+                <img src="{{ image }}" loading="lazy" width="60" height="60" alt="">
               {% endfor %}
             </div>
           {% endif %}

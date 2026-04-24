@@ -6,7 +6,7 @@
 {%- set singleContent -%}
   {% if post.data.page.excerpt %}
     {{ post.data.page.excerpt | markdownify | safe }}
-    <a class="button button--more" href="{{ post.url | url }}">Read more</a>
+    <a class="button button--more" href="{{ post.url | url }}" aria-label="Read more about {{ post.data.title }}">Read more</a>
   {% else %}
     {{ post.templateContent | safe }}
   {% endif %}

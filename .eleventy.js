@@ -1,16 +1,25 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+const terser = require("terser");
+const markdownIt = require("markdown-it");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+
+const cleanCSS = new CleanCSS({});
+
+const markdownOptions = {
+  html: true,
+  breaks: true,
+  linkify: true,
+  typographer: true,
+};
+const md = markdownIt(markdownOptions);
 
 const now = new Date();
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setBrowserSyncConfig({ notify: true });
-  eleventyConfig.setDataDeepMerge(false);
   eleventyConfig.setLiquidOptions({ strictFilters: false, dynamicPartials: false });
-
 
   // Add plugin
   eleventyConfig.addPlugin(pluginRss);
@@ -23,23 +32,18 @@ module.exports = (eleventyConfig) => {
 
   // Minify CSS
   eleventyConfig.addFilter("cssmin", (code) => {
-    return new CleanCSS({}).minify(code).styles;
+    return cleanCSS.minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", (original) => {
-    const { error, code, warnings } = UglifyJS.minify(original);
-
-    if (error) {
-      console.log("UglifyJS error: ", error);
-      return original;
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async (code, callback) => {
+    try {
+      const result = await terser.minify(code);
+      callback(null, result.code);
+    } catch (err) {
+      console.log("Terser error: ", err);
+      callback(null, code);
     }
-
-    if (warnings) {
-      console.log("UglifyJS warnings: ", warnings);
-    }
-    
-    return code;
   });
 
   // Date formatting
@@ -59,12 +63,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("cleanUrl", (url) => {
     return url.replace(/^(https?:|)\/\//, "");
   });
-
-  eleventyConfig.addFilter("debug", (obj) => {
-    console.log('debug', obj);
-    return `debug: ${obj?.toString() || obj}`
-  }
-  );
 
   // Add profile collection so that we can access this outside of homepage
   eleventyConfig.addCollection("profile", (collection) => {
@@ -96,16 +94,9 @@ module.exports = (eleventyConfig) => {
   });
 
   // Markdown
-  const markdownIt = require("markdown-it");
-  const options = {
-    html: true,
-    breaks: true,
-    linkify: true,
-    typographer: true,
-  };
-  eleventyConfig.setLibrary("md", markdownIt(options));
+  eleventyConfig.setLibrary("md", md);
   eleventyConfig.addNunjucksFilter("markdownify", (markdownString) =>
-    markdownIt(options).render(markdownString)
+    md.render(markdownString)
   );
 
   // Copy the fonts
@@ -122,7 +113,6 @@ module.exports = (eleventyConfig) => {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
-    // passthroughFileCopy: true,
     dir: {
       input: "src",
       includes: "_includes",

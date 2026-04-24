@@ -12,7 +12,7 @@ section: thinking
     <main id="main" class="main">
 
       <div class="panel panel--blocks">
-        <div class="header header--panel" aria-hidden="true">
+        <div class="header header--panel">
           <nav class="nav">
             <ul class="nav__list">
               <li class="nav__item">
@@ -35,7 +35,7 @@ section: thinking
         </div>
       </div>
 
-      <aside class="panel panel--profile" aria-hidden="true">
+      <aside class="panel panel--profile">
         <article>
           <header class="header header--panel">
             {% set linkUrl = '/' %}
@@ -52,9 +52,7 @@ section: thinking
 
     </main>
 
-    <div hidden="true" >
-      {% include "components/footer.njk" %}
-    </div>
+    {% include "components/footer.njk" %}
 
   </body>
 

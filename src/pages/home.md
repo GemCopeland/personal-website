@@ -6,7 +6,7 @@ layout: layouts/home.njk
 title: Gemma Copeland
 strapline: Digital design, cooperatives, community building, grassroots politics, convivial technology
 permalink: /
-metaDescription:
+metaDescription: Designer, researcher, organiser and educator based in London. Founding member of Common Knowledge, a not-for-profit worker cooperative using design and technology to help social movements build power.
 
 ##################
 #### Contact #####
@@ -44,7 +44,7 @@ colleagues:
   - name: Brave New Alps
     url: https://www.brave-new-alps.com/
   - name: Carvalho Bernau
-    url: http://carvalho-bernau.com/
+    url: https://carvalho-bernau.com/
   - name: Community Economies
     url: https://www.communityeconomies.org/
   - name: Ilyanna Kerr
@@ -102,7 +102,7 @@ workList:
   - text: Transform Your Work
     url: https://transformyour.work/
   - text: Claim the Future
-    url: http://claimthefuture.today/
+    url: https://claimthefuture.today/
   - text: Progressive International
     url: https://progressive.international/
   - text: StopWatch

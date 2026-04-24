@@ -1,7 +1,7 @@
 {# TODO turn this in to filters w/in config, this is ridiculous #}
 
 <li class="activity">
-  <time class="activity__time">
+  <time class="activity__time"{% if a.data.dateStart %} datetime="{{ a.data.dateStart | machineDate }}"{% elif a.data.dateEnd %} datetime="{{ a.data.dateEnd | machineDate }}"{% endif %}>
     {# If there’s a start date #}
     {%- if a.data.dateStart -%}
       {%- if a.data.dateFormat == "year" -%}
