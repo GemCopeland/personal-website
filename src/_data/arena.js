@@ -24,8 +24,7 @@ function getAllContent(channel, per, count) {
 }
 
 const getArenaChannels = async (channelId) => {
-  // Set up the Arena instance
-  const arena = new Arena();
+  const arena = new Arena({ accessToken: process.env.ARENA_ACCESS_TOKEN });
   
   // Set up base URL
   const baseUrl = "https://are.na";
@@ -54,7 +53,7 @@ const getArenaChannels = async (channelId) => {
       // get new channel
       const newChannel = arena.channel(id);
       // get all content for this channel
-      const content = await getAllContent(newChannel, per, length);
+      const content = await getAllContent(newChannel, per, count);
       // get thumbnail urls for image blocks in this channel (limited to 10 images)
       const images = content.reverse()
         .filter(b => !!b.image)
