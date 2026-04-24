@@ -122,7 +122,8 @@ const initLinkPreviews = () => {
     'https://api.microlink.io/?url=' + encodeURIComponent(href) + '&screenshot=true&meta=false&embed=screenshot.url';
 
   const main = document.querySelector('#main');
-  const links = (main || document).querySelectorAll('a[href^="http"]');
+  const links = Array.from((main || document).querySelectorAll('a[href^="http"]'))
+    .filter(link => !link.closest('.panel--blocks'));
 
   const prefetch = () => {
     const seen = new Set();
@@ -139,10 +140,13 @@ const initLinkPreviews = () => {
     setTimeout(prefetch, 2000);
   }
 
+  img.addEventListener('load', () => preview.classList.add('is-visible'));
+  img.addEventListener('error', () => preview.classList.remove('is-visible'));
+
   links.forEach(link => {
     link.addEventListener('mouseenter', () => {
+      preview.classList.remove('is-visible');
       img.src = screenshotUrl(link.href);
-      preview.classList.add('is-visible');
       positionPreview();
     });
     link.addEventListener('mouseleave', () => {
