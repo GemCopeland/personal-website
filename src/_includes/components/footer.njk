@@ -25,6 +25,7 @@
         <h2>Details</h2>
 
         {{ profile.credits | markdownify | safe }}
+        <p>Last updated: {{ build.date | activityDate }}</p>
 
       </section>
     {%- endif -%}

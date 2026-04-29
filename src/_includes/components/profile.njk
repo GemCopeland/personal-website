@@ -25,7 +25,7 @@
     {% if profile.sameAs %}
       <ul>
         {%- for link in profile.sameAs -%}
-          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+          <li><a href="{{ link.url }}"{% if link.avatar %} data-avatar="{{ link.avatar }}"{% endif %}>{{ link.text }}</a></li>
         {%- endfor -%}
       </ul>
     {% endif %}
@@ -97,7 +97,7 @@
 
     <ul>
       {% for item in profile.workList %}
-        <li>{% if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+        <li>{% if item.url %}<a href="{{ item.url }}"{% if item.preview %} data-preview="{{ item.preview }}"{% endif %}>{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
       {% endfor %}
     </ul>
 

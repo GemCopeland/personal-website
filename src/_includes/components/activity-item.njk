@@ -30,7 +30,7 @@
     {%- endif -%}
     {%- if a.data.title -%}
       {%- if a.data.url -%}
-        <a href="{{ a.data.url }}">{{ a.data.title }}</a>
+        <a href="{{ a.data.url }}"{% if a.data.preview %} data-preview="{{ a.data.preview }}"{% endif %}>{{ a.data.title }}</a>
       {%- else -%}
         {{ a.data.title }}
       {%- endif -%}

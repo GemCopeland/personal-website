@@ -46,6 +46,10 @@
   z-index: 100;
 }
 
+.link-preview--avatar {
+  width: 60px;
+}
+
 .link-preview.is-visible {
   display: block;
 }

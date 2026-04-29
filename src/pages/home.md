@@ -16,14 +16,19 @@ email: gemmacopeland@pm.me
 sameAs:
   - text: Arena
     url: https://www.are.na/gemma-copeland
+    avatar: https://static.avatars.are.na/1555/medium_6319e8b08d4036ec2d2c7b131844b353.jpg?1692046862
   - text: Bluesky
     url: https://bsky.app/profile/gemcopeland.bsky.social
+    avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:pqfheeyrvhez3cjh5chbpquh/bafkreidj6xrjr42hra5yhjs3aiohrfarp2cmrbcnqcnoztjesl7pvhlwli
   - text: Instagram
     url: https://www.instagram.com/gemcopeland/
+    avatar: https://static.avatars.are.na/1555/medium_6319e8b08d4036ec2d2c7b131844b353.jpg?1692046862
   - text: Mastodon
     url: https://social.coop/@gem
+    avatar: https://social-coop-media.ams3.cdn.digitaloceanspaces.com/accounts/avatars/109/338/004/325/963/133/original/7b08d560bd020465.jpg
   - text: Literal
     url: https://literal.club/gemcopeland
+    avatar: https://assets.literal.club/user/avatar/cm74k6jhd006m0i3371ffcl4p.jpg?size=200
 
 
 ##################
@@ -80,7 +85,8 @@ workList:
   - text: Platform
     url: https://platformlondon.org/
   - text: In Deep Water
-    url: https://www.indeepwater.co.uk/
+    url: https://www.are.na/block/22186549
+    preview: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNjMxOTAzNi9vcmlnaW5hbF82YmRjMDBiYmE2MDc0OTBiNWJhNzBjZDY5MThmMDY3ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJmbGF0dGVuIjp7ImJhY2tncm91bmQiOnsiciI6MjAzLCJnIjoyMDMsImIiOjIwM319LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=
   - text: Smart Forests Atlas
     url: https://atlas.smartforests.net/
   - text: Safe as Houses
@@ -91,12 +97,6 @@ workList:
     url: https://architecture-lobby.org/
   - text: Border Forensics
     url: https://www.borderforensics.org/
-  - text: Future Natures
-    url: https://futurenatures.org/
-  - text: After Progress
-    url: https://after-progress.com/
-  - text: Airsift
-    url: https://airsift.citizensense.net/
   - text: Game Worker Solidarity Project
     url: https://gameworkersolidarity.com/
   - text: Transform Your Work
@@ -105,10 +105,6 @@ workList:
     url: https://claimthefuture.today/
   - text: Progressive International
     url: https://progressive.international/
-  - text: StopWatch
-    url: https://www.stop-watch.org/
-  - text: La Foresta local network
-    url: https://www.are.na/gemma-copeland/project-la-foresta-local-network
 
 ##################
 #### Credits #####
@@ -121,7 +117,6 @@ credits: |
 
   Current location: London
   Timezone: UTC+1:00
-  Last updated: 08.2025
 ---
 
 Designer, researcher, organiser and educator based in London. I'm a founding member of [Common Knowledge](https://www.commonknowledge.coop/), a not-for-profit worker cooperative that uses design and technology to help social movements build power. My practice centres on building infrastructures to foster more creative and resilient movements, and exploring how arts and culture can expand our collective political imagination.

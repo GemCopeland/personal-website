@@ -128,7 +128,7 @@ const initLinkPreviews = () => {
   const prefetch = () => {
     const seen = new Set();
     links.forEach(link => {
-      if (seen.has(link.href)) return;
+      if (link.dataset.avatar || link.dataset.preview || seen.has(link.href)) return;
       seen.add(link.href);
       new Image().src = screenshotUrl(link.href);
     });
@@ -146,7 +146,8 @@ const initLinkPreviews = () => {
   links.forEach(link => {
     link.addEventListener('mouseenter', () => {
       preview.classList.remove('is-visible');
-      img.src = screenshotUrl(link.href);
+      preview.classList.toggle('link-preview--avatar', !!link.dataset.avatar && !link.dataset.preview);
+      img.src = link.dataset.preview || link.dataset.avatar || screenshotUrl(link.href);
       positionPreview();
     });
     link.addEventListener('mouseleave', () => {
