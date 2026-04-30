@@ -25,7 +25,7 @@ sameAs:
     avatar: https://static.avatars.are.na/1555/medium_6319e8b08d4036ec2d2c7b131844b353.jpg?1692046862
   - text: Mastodon
     url: https://social.coop/@gem
-    avatar: https://social-coop-media.ams3.cdn.digitaloceanspaces.com/accounts/avatars/109/338/004/325/963/133/original/7b08d560bd020465.jpg
+    avatar: https://social-coop-media.ams3.cdn.digitaloceanspaces.com/accounts/avatars/109/338/004/325/963/133/original/0d971c5a76ef3346.jpg
   - text: Literal
     url: https://literal.club/gemcopeland
     avatar: https://assets.literal.club/user/avatar/cm74k6jhd006m0i3371ffcl4p.jpg?size=200
@@ -97,6 +97,8 @@ workList:
     url: https://architecture-lobby.org/
   - text: Border Forensics
     url: https://www.borderforensics.org/
+  - text: Safe as Houses
+    url: https://rosalux.nyc/safe-as-houses/
   - text: Game Worker Solidarity Project
     url: https://gameworkersolidarity.com/
   - text: Transform Your Work
