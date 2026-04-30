@@ -62,17 +62,35 @@
 
 .activity {
   display: flex;
-  gap: 1.4rem;
+  flex-direction: column;
+  gap: 0.25rem;
   margin-bottom: 0.875rem;
 }
 
+@media screen and (min-width: 40em) {
+  .activity {
+    flex-direction: row;
+    gap: 1.4rem;
+  }
+}
+
 .activity__meta {
+  align-items: baseline;
+  display: flex;
   flex-shrink: 0;
+  gap: 0.5rem;
+}
+
+@media screen and (min-width: 40em) {
+  .activity__meta {
+    display: block;
+  }
 }
 
 .activity__time {
   color: var(--color-grey-dark);
   display: block;
+  font-size: var(--font-small);
 }
 
 .activity__type {
