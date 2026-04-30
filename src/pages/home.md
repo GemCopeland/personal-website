@@ -78,6 +78,8 @@ colleagues:
     url: https://yuliserfaty.com/
 
 workList:
+  - text: My Election Map
+    url: https://myelectionmap.co.uk/
   - text: Pelican House
     url: https://pelicanhouse.org/
   - text: Solidarity Knows No Borders
