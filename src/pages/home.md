@@ -91,8 +91,6 @@ workList:
     preview: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNjMxOTAzNi9vcmlnaW5hbF82YmRjMDBiYmE2MDc0OTBiNWJhNzBjZDY5MThmMDY3ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0Ijo2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJmbGF0dGVuIjp7ImJhY2tncm91bmQiOnsiciI6MjAzLCJnIjoyMDMsImIiOjIwM319LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=
   - text: Smart Forests Atlas
     url: https://atlas.smartforests.net/
-  - text: Safe as Houses
-    url: https://rosalux.nyc/safe-as-houses/
   - text: Gallery Climate Coalition
     url: https://measure.galleryclimatecoalition.org/
   - text: The Architecture Lobby
