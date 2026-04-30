@@ -4,10 +4,10 @@
   "description": "This is a simple website for publishing a CV, research and writing. It will be used for [gemmacope.land](gemmacope.land).",
   "main": "index.js",
   "scripts": {
-    "build": "npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy",
-    "serve": "npx @11ty/eleventy --serve"
+    "build": "NODE_OPTIONS='--no-deprecation' npx eleventy",
+    "watch": "NODE_OPTIONS='--no-deprecation' npx eleventy --watch",
+    "debug": "DEBUG=* NODE_OPTIONS='--no-deprecation' npx eleventy",
+    "serve": "NODE_OPTIONS='--no-deprecation' npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",

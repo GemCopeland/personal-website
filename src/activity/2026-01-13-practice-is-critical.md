@@ -1,6 +1,6 @@
 ---
 title: Cooperative Practices
-type: Lecture and Workshops
+type: Workshop
 location: MA Graphic Communication Design, Central St Martins, London, UK
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY

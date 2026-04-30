@@ -61,12 +61,24 @@
 }
 
 .activity {
+  display: flex;
+  gap: 1.4rem;
   margin-bottom: 0.875rem;
+}
+
+.activity__meta {
+  flex-shrink: 0;
 }
 
 .activity__time {
   color: var(--color-grey-dark);
-  margin-right: 1rem;
+  display: block;
+}
+
+.activity__type {
+  color: var(--color-1);
+  display: block;
+  font-size: var(--font-small);
 }
 
 .header--article {
