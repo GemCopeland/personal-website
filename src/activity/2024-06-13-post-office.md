@@ -1,6 +1,6 @@
 ---
 title: A Cooperative Conversation
-type: 
+type: Conversation
 location: post-office, Amsterdam, NL
 subtext: with Georgia Kareola, Bryan Wolff and Paprika Xu
 dateFormat: # "year", otherwise will be displayed MM.YYYY

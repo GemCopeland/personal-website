@@ -1,6 +1,6 @@
 ---
 title: Community Economies in Action
-type: Practice Retreat
+type: Participant
 location: Rovereto, IT
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
