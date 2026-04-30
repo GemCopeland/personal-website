@@ -70,7 +70,7 @@
 @media screen and (min-width: 40em) {
   .activity {
     flex-direction: row;
-    gap: 1.4rem;
+    gap: 2.5rem;
   }
 }
 
