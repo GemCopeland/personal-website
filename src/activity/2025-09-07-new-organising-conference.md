@@ -1,6 +1,6 @@
 ---
 title: Visual Mapping Techniques for Movement Building
-type:
+type: Workshop
 location: New Organising Conference, Liverpool, UK
 subtext:
 dateFormat: # "year", otherwise will be displayed MM.YYYY
