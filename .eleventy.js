@@ -105,6 +105,9 @@ module.exports = (eleventyConfig) => {
   // Copy the favicon contents
   eleventyConfig.addPassthroughCopy({ "src/_includes/assets/favicon": "/" });
 
+  // Copy CNAME for GitHub Pages custom domain
+  eleventyConfig.addPassthroughCopy("src/CNAME");
+
   return {
     templateFormats: ["md", "njk", "html", "liquid", "woff", "woff2"],
 
