@@ -112,7 +112,7 @@ workList:
 #### Credits #####
 ##################
 credits: |
-  This is a static site built with [Eleventy](https://www.11ty.io/) and [Arena](https://www.are.na/) by [Piper Haywood](https://piperhaywood.com/). If you’re interested, you can check out the [Github repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
+  This is a static site built with GitHub Pages and [Arena](https://www.are.na/) by [Piper Haywood](https://piperhaywood.com/). If you’re interested, you can check out the [repo](https://github.com/GemCopeland/personal-website). It is set in [Standard Book](https://github.com/brycewilner/Standard) by Bryce Wilner. Your data isn’t collected when using this site.
 
   [Subscribe to RSS](https://gemmacope.land/feed.xml)
   [Book a meeting](https://calendly.com/gemma-copeland)
