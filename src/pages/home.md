@@ -40,6 +40,8 @@ sameAs:
 ###### Work ######
 ##################
 colleagues:
+  - name: Alessia Arcuri
+    url: https://alessiaarcuri.com/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
   - name: Alex Worrad-Andrews
@@ -52,12 +54,16 @@ colleagues:
     url: https://carvalho-bernau.com/
   - name: Community Economies
     url: https://www.communityeconomies.org/
+  - name: House of Annetta
+    url: https://houseofannetta.org/
   - name: Ilyanna Kerr
     url: https://ilyannakerr.com/
   - name: Linsey Rendell
     url: https://www.linseyrendell.com/
   - name: MayDay Rooms
     url: https://maydayrooms.org/
+  - name: Max Ryan
+    url: http://maxryan.co.uk/
   - name: Migrants in Culture
     url: https://www.migrantsinculture.com/
   - name: Multitudes
@@ -66,6 +72,8 @@ colleagues:
     url: https://paprikaxu.com/
   - name: Piper Haywood
     url: https://piperhaywood.com
+  - name: Unit 38
+    url: https://www.unit38.org/
   - name: Rectangle
     url: https://rectangle.design/
   - name: Robbie Blundell
