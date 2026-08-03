@@ -44,7 +44,7 @@ colleagues:
     url: https://alessiaarcuri.com/
   - name: Alex Piacientini
     url: https://www.alexpiacentini.com/
-  - name: Alex Worrad-Andrews
+  - name: Alex Andrews
     url: https://alexworradandrews.com/
   - name: Benjamin Earl
     url: https://bnjmnearl.eu/
